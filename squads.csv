@@ -1,0 +1,663 @@
+﻿#;Team;Championship;Nationality
+61.;Atlético Tucumán ;Argentina Primera División;Argentina
+68.;Banfield ;Argentina Primera División;Argentina
+72.;Barracas Central ;Argentina Primera División;Argentina
+129.;Central Córdoba ;Argentina Primera División;Argentina
+175.;Dep. Riestra ;Argentina Primera División;Argentina
+273.;Gimnasia ;Argentina Primera División;Argentina
+277.;Godoy Cruz ;Argentina Primera División;Argentina
+309.;Huracán ;Argentina Primera División;Argentina
+318.;Ind. Rivadavia ;Argentina Primera División;Argentina
+320.;Independiente ;Argentina Primera División;Argentina
+321.;Instituto ;Argentina Primera División;Argentina
+413.;Newell’s ;Argentina Primera División;Argentina
+445.;Platense ;Argentina Primera División;Argentina
+515.;Sarmiento ;Argentina Primera División;Argentina
+596.;Tigre ;Argentina Primera División;Argentina
+613.;Unión ;Argentina Primera División;Argentina
+626.;Vélez Sarsfield ;Argentina Primera División;Argentina
+11.;Adelaide United ;Australian A-League;Australia
+62.;Auckland FC ;Australian A-League;Australia
+99.;Brisbane Roar ;Australian A-League;Australia
+128.;Central Coast ;Australian A-League;Australia
+374.;Macarthur FC ;Australian A-League;Australia
+382.;Melb. Victory ;Australian A-League;Australia
+383.;Melbourne City ;Australian A-League;Australia
+411.;Newcastle Jets ;Australian A-League;Australia
+440.;Perth Glory ;Australian A-League;Australia
+590.;Sydney FC ;Australian A-League;Australia
+644.;Well. Phoenix ;Australian A-League;Australia
+647.;Western United ;Australian A-League;Australia
+656.;WS Wanderers ;Australian A-League;Australia
+64.;Austria Klagenfurt ;Austrian Football Bundesliga;Austria
+85.;Blau-Weiss Linz ;Austrian Football Bundesliga;Austria
+252.;FK Austria Wien ;Austrian Football Bundesliga;Austria
+281.;Grazer AK ;Austrian Football Bundesliga;Austria
+350.;LASK ;Austrian Football Bundesliga;Austria
+477.;RB Salzburg ;Austrian Football Bundesliga;Austria
+525.;SCR Altach ;Austrian Football Bundesliga;Austria
+544.;SK Rapid ;Austrian Football Bundesliga;Austria
+545.;SK Sturm Graz ;Austrian Football Bundesliga;Austria
+605.;TSV Hartberg ;Austrian Football Bundesliga;Austria
+653.;Wolfsberger AC ;Austrian Football Bundesliga;Austria
+657.;WSG Tirol ;Austrian Football Bundesliga;Austria
+458.;Qarabağ FK ;Azerbaijan Premier League;Azerbaijan
+130.;Cercle Brugge ;Belgian Pro League;Belgio
+146.;Club Brugge ;Belgian Pro League;Belgio
+247.;FCV Dender EH ;Belgian Pro League;Belgio
+331.;K. Beerschot VA ;Belgian Pro League;Belgio
+332.;KAA Gent ;Belgian Pro League;Belgio
+343.;KRC Genk ;Belgian Pro League;Belgio
+345.;KV Kortrijk ;Belgian Pro League;Belgio
+346.;KV Mechelen ;Belgian Pro League;Belgio
+347.;KVC Westerlo ;Belgian Pro League;Belgio
+423.;OH Leuven ;Belgian Pro League;Belgio
+465.;R. Union St.-G. ;Belgian Pro League;Belgio
+503.;Royal Antwerp FC ;Belgian Pro League;Belgio
+504.;RSC Anderlecht ;Belgian Pro League;Belgio
+554.;Sp. Charleroi ;Belgian Pro League;Belgio
+573.;Standard Liège ;Belgian Pro League;Belgio
+579.;STVV ;Belgian Pro League;Belgio
+76.;Beijing FC ;Chinese Super League;Cina
+113.;Cangzhou FC ;Chinese Super League;Cina
+136.;Changchun Yatai ;Chinese Super League;Cina
+299.;Henan FC ;Chinese Super League;Cina
+381.;Meizhou Hakka FC ;Chinese Super League;Cina
+407.;Nantong Zhiyun FC ;Chinese Super League;Cina
+459.;Qingdao Hainiu ;Chinese Super League;Cina
+460.;Qingdao W. Coast ;Chinese Super League;Cina
+497.;Rongcheng FC ;Chinese Super League;Cina
+533.;Shandong Taishan ;Chinese Super League;Cina
+534.;Shanghai Port FC ;Chinese Super League;Cina
+535.;Shanghai Shenhua ;Chinese Super League;Cina
+591.;SZ Peng City ;Chinese Super League;Cina
+595.;Tianjin JMT FC ;Chinese Super League;Cina
+658.;Wuhan Three Towns ;Chinese Super League;Cina
+662.;Zhejiang Pro ;Chinese Super League;Cina
+58.;Atl. Nacional ;Colombian Categoría Primera A;Colombia
+12.;ADT ;Copa Libertadores de América;
+40.;Alianza FC ;Copa Libertadores de América;
+43.;Always Ready ;Copa Libertadores de América;
+44.;América de Cali ;Copa Libertadores de América;
+49.;Argentinos Jrs. ;Copa Libertadores de América;
+77.;Belgrano ;Copa Libertadores de América;
+87.;Boca Juniors ;Copa Libertadores de América;
+114.;Carabobo FC ;Copa Libertadores de América;
+131.;Cerro Largo ;Copa Libertadores de América;
+147.;Club Nacional ;Copa Libertadores de América;
+155.;Coquimbo Unido ;Copa Libertadores de América;
+169.;Danubio ;Copa Libertadores de América;
+170.;Defensa ;Copa Libertadores de América;
+171.;Delfín SC ;Copa Libertadores de América;
+172.;Dep. Cuenca ;Copa Libertadores de América;
+173.;Dep. Garcilaso ;Copa Libertadores de América;
+174.;Dep. La Guaira ;Copa Libertadores de América;
+177.;Deportes Tolima ;Copa Libertadores de América;
+201.;Everton de Viña del Mar ;Copa Libertadores de América;
+284.;Guaraní ;Copa Libertadores de América;
+319.;Indep. Medellín ;Copa Libertadores de América;
+349.;Lanús ;Copa Libertadores de América;
+384.;Metropolitanos ;Copa Libertadores de América;
+406.;Nacional Potosí ;Copa Libertadores de América;
+424.;Olimpia ;Copa Libertadores de América;
+467.;Racing Club ;Copa Libertadores de América;
+468.;Racing Club de Montevideo ;Copa Libertadores de América;
+475.;Rayo Zuliano ;Copa Libertadores de América;
+488.;Real Tomayapo ;Copa Libertadores de América;
+505.;S. Ameliano ;Copa Libertadores de América;
+506.;S. Trinidense ;Copa Libertadores de América;
+558.;Sport Huancayo ;Copa Libertadores de América;
+561.;Sportivo Luqueño ;Copa Libertadores de América;
+593.;Técnico U. ;Copa Libertadores de América;
+606.;U. Católica ;Copa Libertadores de América;
+607.;UCV ;Copa Libertadores de América;
+612.;Uni. Católica ;Copa Libertadores de América;
+615.;Unión La Calera ;Copa Libertadores de América;
+619.;Universitario de Vinto ;Copa Libertadores de América;
+640.;Wanderers ;Copa Libertadores de América;
+652.;Wilstermann ;Copa Libertadores de América;
+180.;Dinamo Zagreb ;Croatian First Football League;Croazia
+286.;Hajduk Split ;Croatian First Football League;Croazia
+48.;APOEL FC ;Cypriot First Division;Cipro
+548.;Slavia Praha ;Czech First League;Repubblica ceca
+555.;Sparta Praha ;Czech First League;Repubblica ceca
+636.;Viktoria Plzeň ;Czech First League;Repubblica ceca
+6.;AaB ;Danish Superliga;Danimarca
+16.;AGF ;Danish Superliga;Danimarca
+104.;Brøndby IF ;Danish Superliga;Danimarca
+204.;F.C. København ;Danish Superliga;Danimarca
+230.;FC Midtjylland ;Danish Superliga;Danimarca
+232.;FC Nordsjælland ;Danish Superliga;Danimarca
+372.;Lyngby BK ;Danish Superliga;Danimarca
+472.;Randers FC ;Danish Superliga;Danimarca
+540.;Silkeborg IF ;Danish Superliga;Danimarca
+553.;Sønderjyske ;Danish Superliga;Danimarca
+625.;Vejle Boldklub ;Danish Superliga;Danimarca
+633.;Viborg FF ;Danish Superliga;Danimarca
+83.;Blackburn Rovers ;English League Championship;Inghilterra
+100.;Bristol City ;English League Championship;Inghilterra
+107.;Burnley ;English League Championship;Inghilterra
+116.;Cardiff City ;English League Championship;Inghilterra
+158.;Coventry City ;English League Championship;Inghilterra
+178.;Derby County ;English League Championship;Inghilterra
+308.;Hull City ;English League Championship;Inghilterra
+358.;Leeds United ;English League Championship;Inghilterra
+371.;Luton Town ;English League Championship;Inghilterra
+385.;Middlesbrough ;English League Championship;Inghilterra
+388.;Millwall ;English League Championship;Inghilterra
+417.;Norwich ;English League Championship;Inghilterra
+429.;Oxford United ;English League Championship;Inghilterra
+446.;Plymouth Argyle ;English League Championship;Inghilterra
+452.;Portsmouth ;English League Championship;Inghilterra
+453.;Preston ;English League Championship;Inghilterra
+461.;QPR ;English League Championship;Inghilterra
+536.;Sheffield United ;English League Championship;Inghilterra
+537.;Sheffield Wed ;English League Championship;Inghilterra
+576.;Stoke City ;English League Championship;Inghilterra
+581.;Sunderland ;English League Championship;Inghilterra
+588.;Swansea City ;English League Championship;Inghilterra
+642.;Watford ;English League Championship;Inghilterra
+645.;West Brom ;English League Championship;Inghilterra
+71.;Barnsley ;English League One;Inghilterra
+81.;Birmingham City ;English League One;Inghilterra
+84.;Blackpool ;English League One;Inghilterra
+92.;Bolton ;English League One;Inghilterra
+101.;Bristol Rovers ;English League One;Inghilterra
+108.;Burton Albion ;English League One;Inghilterra
+112.;Cambridge United ;English League One;Inghilterra
+138.;Charlton Ath ;English League One;Inghilterra
+160.;Crawley Town ;English League One;Inghilterra
+202.;Exeter City ;English League One;Inghilterra
+307.;Huddersfield ;English League One;Inghilterra
+362.;Leyton Orient ;English League One;Inghilterra
+365.;Lincoln City ;English League One;Inghilterra
+379.;Mansfield Town ;English League One;Inghilterra
+415.;Northampton ;English League One;Inghilterra
+441.;Peterborough ;English League One;Inghilterra
+483.;Reading ;English League One;Inghilterra
+502.;Rotherham United ;English League One;Inghilterra
+539.;Shrewsbury ;English League One;Inghilterra
+574.;Stevenage ;English League One;Inghilterra
+575.;Stockport ;English League One;Inghilterra
+650.;Wigan Athletic ;English League One;Inghilterra
+655.;Wrexham ;English League One;Inghilterra
+659.;Wycombe ;English League One;Inghilterra
+9.;Accrington ;English League Two;Inghilterra
+15.;AFC Wimbledon ;English League Two;Inghilterra
+73.;Barrow ;English League Two;Inghilterra
+94.;Bradford City ;English League Two;Inghilterra
+102.;Bromley FC ;English League Two;Inghilterra
+117.;Carlisle United ;English League Two;Inghilterra
+140.;Cheltenham Town ;English League Two;Inghilterra
+142.;Chesterfield ;English League Two;Inghilterra
+150.;Colchester ;English League Two;Inghilterra
+162.;Crewe Alexandra ;English League Two;Inghilterra
+182.;Doncaster ;English League Two;Inghilterra
+255.;Fleetwood Town ;English League Two;Inghilterra
+271.;Gillingham ;English League Two;Inghilterra
+283.;Grimsby Town ;English League Two;Inghilterra
+293.;Harrogate Town ;English League Two;Inghilterra
+391.;MK Dons ;English League Two;Inghilterra
+398.;Morecambe ;English League Two;Inghilterra
+414.;Newport County ;English League Two;Inghilterra
+419.;Notts County ;English League Two;Inghilterra
+450.;Port Vale ;English League Two;Inghilterra
+509.;Salford City ;English League Two;Inghilterra
+589.;Swindon Town ;English League Two;Inghilterra
+602.;Tranmere Rovers ;English League Two;Inghilterra
+639.;Walsall ;English League Two;Inghilterra
+14.;AFC Bournemouth ;English Premier League;Inghilterra
+52.;Arsenal ;English Premier League;Inghilterra
+56.;Aston Villa ;English Premier League;Inghilterra
+96.;Brentford ;English Premier League;Inghilterra
+98.;Brighton ;English Premier League;Inghilterra
+139.;Chelsea ;English Premier League;Inghilterra
+163.;Crystal Palace ;English Premier League;Inghilterra
+200.;Everton ;English Premier League;Inghilterra
+260.;Fulham ;English Premier League;Inghilterra
+323.;Ipswich ;English Premier League;Inghilterra
+360.;Leicester City ;English Premier League;Inghilterra
+366.;Liverpool ;English Premier League;Inghilterra
+377.;Manchester City ;English Premier League;Inghilterra
+378.;Manchester United ;English Premier League;Inghilterra
+412.;Newcastle United ;English Premier League;Inghilterra
+418.;Nott’m Forest ;English Premier League;Inghilterra
+552.;Southampton ;English Premier League;Inghilterra
+599.;Tottenham Hotspur ;English Premier League;Inghilterra
+646.;West Ham ;English Premier League;Inghilterra
+654.;Wolves ;English Premier League;Inghilterra
+303.;HJK Helsinki ;Finnish Veikkausliiga;Finlandia
+18.;AJ Auxerre ;French Ligue 1;Francia
+46.;Angers SCO ;French Ligue 1;Francia
+53.;AS Monaco ;French Ligue 1;Francia
+55.;AS Saint-Étienne ;French Ligue 1;Francia
+231.;FC Nantes ;French Ligue 1;Francia
+295.;Havre AC ;French Ligue 1;Francia
+370.;LOSC Lille ;French Ligue 1;Francia
+396.;Montpellier ;French Ligue 1;Francia
+422.;OGC Nice ;French Ligue 1;Francia
+426.;Olympique de Marseille ;French Ligue 1;Francia
+427.;Olympique Lyonnais ;French Ligue 1;Francia
+435.;Paris Saint-Germain ;French Ligue 1;Francia
+480.;RC Lens ;French Ligue 1;Francia
+569.;Stade Brestois 29 ;French Ligue 1;Francia
+570.;Stade de Reims ;French Ligue 1;Francia
+571.;Stade Rennais FC ;French Ligue 1;Francia
+577.;Strasbourg ;French Ligue 1;Francia
+600.;Toulouse FC ;French Ligue 1;Francia
+8.;AC Ajaccio ;French Ligue 2;Francia
+45.;Amiens SC ;French Ligue 2;Francia
+145.;Clermont Foot 63 ;French Ligue 2;Francia
+193.;En Avant Guingamp ;French Ligue 2;Francia
+195.;ESTAC Troyes ;French Ligue 2;Francia
+207.;FC Annecy ;French Ligue 2;Francia
+225.;FC Lorient ;French Ligue 2;Francia
+228.;FC Martigues ;French Ligue 2;Francia
+229.;FC Metz ;French Ligue 2;Francia
+282.;Grenoble Foot 38 ;French Ligue 2;Francia
+353.;Laval MFC ;French Ligue 2;Francia
+434.;Paris FC ;French Ligue 2;Francia
+437.;Pau FC ;French Ligue 2;Francia
+491.;Red Star FC ;French Ligue 2;Francia
+496.;Rodez AF ;French Ligue 2;Francia
+518.;SC Bastia ;French Ligue 2;Francia
+550.;SM Caen ;French Ligue 2;Francia
+621.;USL Dunkerque ;French Ligue 2;Francia
+4.;1. FSV Mainz 05 ;German 1. Bundesliga;Germania
+75.;Bayer Leverkusen ;German 1. Bundesliga;Germania
+93.;Borussia Dortmund ;German 1. Bundesliga;Germania
+208.;FC Augsburg ;German 1. Bundesliga;Germania
+211.;FC Bayern München ;German 1. Bundesliga;Germania
+240.;FC St. Pauli ;German 1. Bundesliga;Germania
+257.;Frankfurt ;German 1. Bundesliga;Germania
+297.;Heidenheim ;German 1. Bundesliga;Germania
+304.;Holstein Kiel ;German 1. Bundesliga;Germania
+373.;M’gladbach ;German 1. Bundesliga;Germania
+476.;RB Leipzig ;German 1. Bundesliga;Germania
+520.;SC Freiburg ;German 1. Bundesliga;Germania
+587.;SV Werder Bremen ;German 1. Bundesliga;Germania
+604.;TSG Hoffenheim ;German 1. Bundesliga;Germania
+614.;Union Berlin ;German 1. Bundesliga;Germania
+628.;VfB Stuttgart ;German 1. Bundesliga;Germania
+630.;VfL Bochum 1848 ;German 1. Bundesliga;Germania
+632.;VfL Wolfsburg ;German 1. Bundesliga;Germania
+1.;1. FC Köln ;German 2. Bundesliga;Germania
+2.;1. FC Magdeburg ;German 2. Bundesliga;Germania
+3.;1. FC Nürnberg ;German 2. Bundesliga;Germania
+95.;Braunschweig ;German 2. Bundesliga;Germania
+187.;Düsseldorf ;German 2. Bundesliga;Germania
+236.;FC Schalke 04 ;German 2. Bundesliga;Germania
+261.;Fürth ;German 2. Bundesliga;Germania
+288.;Hamburger SV ;German 2. Bundesliga;Germania
+291.;Hannover 96 ;German 2. Bundesliga;Germania
+301.;Hertha BSC ;German 2. Bundesliga;Germania
+325.;Jahn Regensburg ;German 2. Bundesliga;Germania
+333.;Kaiserslautern ;German 2. Bundesliga;Germania
+335.;Karlsruher SC ;German 2. Bundesliga;Germania
+454.;Preußen Münster ;German 2. Bundesliga;Germania
+523.;SC Paderborn 07 ;German 2. Bundesliga;Germania
+564.;SSV Ulm 1846 ;German 2. Bundesliga;Germania
+583.;SV Darmstadt 98 ;German 2. Bundesliga;Germania
+584.;SV Elversberg ;German 2. Bundesliga;Germania
+5.;1860 München ;German 3. Bundesliga;Germania
+39.;Aleman. Aachen ;German 3. Bundesliga;Germania
+50.;Arminia Bielefeld ;German 3. Bundesliga;Germania
+67.;B. Dortmund II ;German 3. Bundesliga;Germania
+188.;Dynamo Dresden ;German 3. Bundesliga;Germania
+194.;Energie Cottbus ;German 3. Bundesliga;Germania
+217.;FC Erzgebirge Aue ;German 3. Bundesliga;Germania
+222.;FC Hansa Rostock ;German 3. Bundesliga;Germania
+224.;FC Ingolstadt 04 ;German 3. Bundesliga;Germania
+292.;Hannover 96 II ;German 3. Bundesliga;Germania
+501.;Rot-Weiss Essen ;German 3. Bundesliga;Germania
+507.;Saarbrücken ;German 3. Bundesliga;Germania
+524.;SC Verl ;German 3. Bundesliga;Germania
+585.;SV Sandhausen ;German 3. Bundesliga;Germania
+586.;SV Waldhof ;German 3. Bundesliga;Germania
+620.;Unterhaching ;German 3. Bundesliga;Germania
+629.;VfB Stuttgart II ;German 3. Bundesliga;Germania
+631.;VfL Osnabrück ;German 3. Bundesliga;Germania
+635.;Viktoria Köln ;German 3. Bundesliga;Germania
+643.;Wehen Wiesbaden ;German 3. Bundesliga;Germania
+13.;AEK Athens ;Greek Super League;Grecia
+425.;Olympiacos FC ;Greek Super League;Grecia
+432.;Panathinaikos ;Greek Super League;Grecia
+433.;PAOK FC ;Greek Super League;Grecia
+19.;Ajax ;Holland Eredivisie;Olanda
+42.;Almere City FC ;Holland Eredivisie;Olanda
+66.;AZ ;Holland Eredivisie;Olanda
+221.;FC Groningen ;Holland Eredivisie;Olanda
+241.;FC Twente ;Holland Eredivisie;Olanda
+243.;FC Utrecht ;Holland Eredivisie;Olanda
+250.;Feyenoord ;Holland Eredivisie;Olanda
+256.;Fortuna Sittard ;Holland Eredivisie;Olanda
+276.;Go Ahead Eagles ;Holland Eredivisie;Olanda
+300.;Heracles Almelo ;Holland Eredivisie;Olanda
+403.;N.E.C. Nijmegen ;Holland Eredivisie;Olanda
+404.;NAC Breda ;Holland Eredivisie;Olanda
+438.;PEC Zwolle ;Holland Eredivisie;Olanda
+455.;PSV ;Holland Eredivisie;Olanda
+495.;RKC Waalwijk ;Holland Eredivisie;Olanda
+521.;sc Heerenveen ;Holland Eredivisie;Olanda
+556.;Sparta Rotterdam ;Holland Eredivisie;Olanda
+651.;Willem II ;Holland Eredivisie;Olanda
+249.;Ferencvárosi TC ;Hungarian Nemzeti Bajnokság I;Ungheria
+78.;Bengaluru FC ;Indian Super League;India
+141.;Chennaiyin FC ;Indian Super League;India
+190.;East Bengal ;Indian Super League;India
+220.;FC Goa ;Indian Super League;India
+310.;Hyderabad FC ;Indian Super League;India
+326.;Jamshedpur FC ;Indian Super League;India
+338.;Kerala Blasters ;Indian Super League;India
+393.;Mohammedan SC ;Indian Super League;India
+394.;Mohun Bagan SG ;Indian Super League;India
+402.;Mumbai City FC ;Indian Super League;India
+416.;NorthEast United ;Indian Super League;India
+421.;Odisha FC ;Indian Super League;India
+456.;Punjab FC ;Indian Super League;India
+54.;AS Roma ;Italian Serie A;Italia
+79.;Bergamo Calcio ;Italian Serie A;Italia
+91.;Bologna ;Italian Serie A;Italia
+111.;Cagliari ;Italian Serie A;Italia
+154.;Como ;Italian Serie A;Italia
+192.;Empoli ;Italian Serie A;Italia
+251.;Fiorentina ;Italian Serie A;Italia
+268.;Genoa ;Italian Serie A;Italia
+298.;Hellas Verona ;Italian Serie A;Italia
+330.;Juventus ;Italian Serie A;Italia
+351.;Latium ;Italian Serie A;Italia
+355.;Lecce ;Italian Serie A;Italia
+368.;Lombardia FC ;Italian Serie A;Italia
+386.;Milano FC ;Italian Serie A;Italia
+397.;Monza ;Italian Serie A;Italia
+436.;Parma ;Italian Serie A;Italia
+563.;SSC Napoli ;Italian Serie A;Italia
+597.;Torino ;Italian Serie A;Italia
+610.;Udinese ;Italian Serie A;Italia
+627.;Venezia ;Italian Serie A;Italia
+70.;Bari ;Italian Serie B;Italia
+97.;Brescia ;Italian Serie B;Italia
+118.;Carrarese Calcio ;Italian Serie B;Italia
+120.;Catanzaro ;Italian Serie B;Italia
+133.;Cesena ;Italian Serie B;Italia
+144.;Cittadella ;Italian Serie B;Italia
+157.;Cosenza ;Italian Serie B;Italia
+161.;Cremonese ;Italian Serie B;Italia
+259.;Frosinone ;Italian Serie B;Italia
+380.;Mantova ;Italian Serie B;Italia
+392.;Modena ;Italian Serie B;Italia
+430.;Palermo ;Italian Serie B;Italia
+444.;Pisa ;Italian Serie B;Italia
+492.;Reggiana ;Italian Serie B;Italia
+508.;Salernitana ;Italian Serie B;Italia
+510.;Sampdoria ;Italian Serie B;Italia
+517.;Sassuolo ;Italian Serie B;Italia
+557.;Spezia ;Italian Serie B;Italia
+562.;SS Juve Stabia ;Italian Serie B;Italia
+580.;Südtirol ;Italian Serie B;Italia
+166.;Daegu FC ;Korean K League 1;Korea
+167.;Daejeon ;Korean K League 1;Korea
+237.;FC Seoul ;Korean K League 1;Korea
+265.;Gangwon FC ;Korean K League 1;Korea
+272.;Gimcheon Sangmu ;Korean K League 1;Korea
+285.;GwangJu FC ;Korean K League 1;Korea
+317.;Incheon United ;Korean K League 1;Korea
+327.;Jeju United ;Korean K League 1;Korea
+328.;Jeonbuk Hyundai ;Korean K League 1;Korea
+448.;Pohang Steelers ;Korean K League 1;Korea
+582.;Suwon FC ;Korean K League 1;Korea
+611.;Ulsan Hyundai ;Korean K League 1;Korea
+253.;FK Bodø/Glimt ;Norwegian Eliteserien;Norvegia
+254.;FK Haugesund ;Norwegian Eliteserien;Norvegia
+258.;Fredrikstad FK ;Norwegian Eliteserien;Norvegia
+289.;HamKam Fotball ;Norwegian Eliteserien;Norvegia
+339.;KFUM-Kameratene ;Norwegian Eliteserien;Norvegia
+344.;Kristiansund BK ;Norwegian Eliteserien;Norvegia
+364.;Lillestrøm SK ;Norwegian Eliteserien;Norvegia
+395.;Molde FK ;Norwegian Eliteserien;Norvegia
+420.;Odds BK ;Norwegian Eliteserien;Norvegia
+499.;Rosenborg BK ;Norwegian Eliteserien;Norvegia
+513.;Sandefjord ;Norwegian Eliteserien;Norvegia
+516.;Sarpsborg 08 ;Norwegian Eliteserien;Norvegia
+543.;SK Brann ;Norwegian Eliteserien;Norvegia
+578.;Strømsgodset IF ;Norwegian Eliteserien;Norvegia
+603.;Tromsø IL ;Norwegian Eliteserien;Norvegia
+634.;Viking FK ;Norwegian Eliteserien;Norvegia
+159.;Cracovia ;Polish Ekstraklasa;Polonia
+275.;GKS Katowice ;Polish Ekstraklasa;Polonia
+278.;Górnik Zabrze ;Polish Ekstraklasa;Polonia
+324.;Jagiellonia ;Polish Ekstraklasa;Polonia
+342.;Korona Kielce ;Polish Ekstraklasa;Polonia
+356.;Lech Poznań ;Polish Ekstraklasa;Polonia
+357.;Lechia Gdańsk ;Polish Ekstraklasa;Polonia
+359.;Legia Warszawa ;Polish Ekstraklasa;Polonia
+401.;Motor Lublin ;Polish Ekstraklasa;Polonia
+443.;Piast Gliwice ;Polish Ekstraklasa;Polonia
+447.;Pogoń Szczecin ;Polish Ekstraklasa;Polonia
+457.;Puszcza ;Polish Ekstraklasa;Polonia
+470.;Radomiak Radom ;Polish Ekstraklasa;Polonia
+471.;Raków ;Polish Ekstraklasa;Polonia
+547.;Śląsk Wrocław ;Polish Ekstraklasa;Polonia
+572.;Stal Mielec ;Polish Ekstraklasa;Polonia
+649.;Widzew Łódź ;Polish Ekstraklasa;Polonia
+661.;Zagłębie Lubin ;Polish Ekstraklasa;Polonia
+51.;Arouca ;Portuguese Primeira Liga;Portogallo
+65.;AVS Futebol SAD ;Portuguese Primeira Liga;Portogallo
+86.;Boavista FC ;Portuguese Primeira Liga;Portogallo
+119.;Casa Pia AC ;Portuguese Primeira Liga;Portogallo
+148.;Clube Desportivo Nacional ;Portuguese Primeira Liga;Portogallo
+196.;Estoril Praia ;Portuguese Primeira Liga;Portogallo
+197.;Estrela Amadora ;Portuguese Primeira Liga;Portogallo
+205.;Farense ;Portuguese Primeira Liga;Portogallo
+218.;FC Famalicão ;Portuguese Primeira Liga;Portogallo
+234.;FC Porto ;Portuguese Primeira Liga;Portogallo
+270.;Gil Vicente ;Portuguese Primeira Liga;Portogallo
+399.;Moreirense FC ;Portuguese Primeira Liga;Portogallo
+493.;Rio Ave FC ;Portuguese Primeira Liga;Portogallo
+514.;Santa Clara ;Portuguese Primeira Liga;Portogallo
+519.;SC Braga ;Portuguese Primeira Liga;Portogallo
+546.;SL Benfica ;Portuguese Primeira Liga;Portogallo
+559.;Sporting CP ;Portuguese Primeira Liga;Portogallo
+638.;Vitória SC ;Portuguese Primeira Liga;Portogallo
+89.;Bohemians ;Rep. Ireland Premier Division;Irlanda
+179.;Derry City ;Rep. Ireland Premier Division;Irlanda
+183.;Drogheda United ;Rep. Ireland Premier Division;Irlanda
+184.;Dundalk ;Rep. Ireland Premier Division;Irlanda
+264.;Galway United ;Rep. Ireland Premier Division;Irlanda
+532.;Shamrock Rovers ;Rep. Ireland Premier Division;Irlanda
+538.;Shelbourne ;Rep. Ireland Premier Division;Irlanda
+549.;Sligo Rovers ;Rep. Ireland Premier Division;Irlanda
+568.;St. Pats ;Rep. Ireland Premier Division;Irlanda
+641.;Waterford ;Rep. Ireland Premier Division;Irlanda
+135.;CFR 1907 Cluj ;Romanian Liga I;Romania
+206.;Farul Constanța ;Romanian Liga I;Romania
+212.;FC Botoșani ;Romanian Liga I;Romania
+216.;FC Dinamo 1948 ;Romanian Liga I;Romania
+219.;FC Gloria Buzău ;Romanian Liga I;Romania
+223.;FC Hermannstadt ;Romanian Liga I;Romania
+233.;FC Petrolul ;Romanian Liga I;Romania
+235.;FC Rapid 1923 ;Romanian Liga I;Romania
+242.;FC Univ. Cluj ;Romanian Liga I;Romania
+246.;FCSB ;Romanian Liga I;Romania
+449.;Politehnica Iași ;Romanian Liga I;Romania
+522.;SC Oțelul Galați ;Romanian Liga I;Romania
+528.;Sepsi OSK ;Romanian Liga I;Romania
+616.;Unirea Slobozia ;Romanian Liga I;Romania
+617.;Univ. Craiova ;Romanian Liga I;Romania
+622.;UTA Arad ;Romanian Liga I;Romania
+20.;Al Ahli ;Saudi Professional League;Arabia Saudita
+22.;Al Fateh ;Saudi Professional League;Arabia Saudita
+23.;Al Fayha ;Saudi Professional League;Arabia Saudita
+24.;Al Hilal ;Saudi Professional League;Arabia Saudita
+25.;Al Ittihad ;Saudi Professional League;Arabia Saudita
+26.;Al Khaleej ;Saudi Professional League;Arabia Saudita
+27.;Al Kholood ;Saudi Professional League;Arabia Saudita
+28.;Al Nassr ;Saudi Professional League;Arabia Saudita
+29.;Al Okhdood ;Saudi Professional League;Arabia Saudita
+30.;Al Orobah ;Saudi Professional League;Arabia Saudita
+31.;Al Qadisiyah ;Saudi Professional League;Arabia Saudita
+32.;Al Raed ;Saudi Professional League;Arabia Saudita
+33.;Al Riyadh ;Saudi Professional League;Arabia Saudita
+34.;Al Shabab ;Saudi Professional League;Arabia Saudita
+35.;Al Taawoun ;Saudi Professional League;Arabia Saudita
+36.;Al Wehda ;Saudi Professional League;Arabia Saudita
+168.;Damac FC ;Saudi Professional League;Arabia Saudita
+199.;Ettifaq FC ;Saudi Professional League;Arabia Saudita
+7.;Aberdeen ;Scottish Premiership;Scozia
+127.;Celtic ;Scottish Premiership;Scozia
+185.;Dundee FC ;Scottish Premiership;Scozia
+186.;Dundee United ;Scottish Premiership;Scozia
+296.;Hearts ;Scottish Premiership;Scozia
+302.;Hibernian ;Scottish Premiership;Scozia
+340.;Kilmarnock ;Scottish Premiership;Scozia
+400.;Motherwell ;Scottish Premiership;Scozia
+473.;Rangers ;Scottish Premiership;Scozia
+500.;Ross County ;Scottish Premiership;Scozia
+565.;St. Johnstone ;Scottish Premiership;Scozia
+567.;St. Mirren ;Scottish Premiership;Scozia
+57.;Athletic Club ;Spanish Primera Division;Spagna
+60.;Atlético de Madrid ;Spanish Primera Division;Spagna
+109.;CA Osasuna ;Spanish Primera Division;Spagna
+124.;CD Leganés ;Spanish Primera Division;Spagna
+164.;D. Alavés ;Spanish Primera Division;Spagna
+209.;FC Barcelona ;Spanish Primera Division;Spagna
+269.;Getafe CF ;Spanish Primera Division;Spagna
+274.;Girona FC ;Spanish Primera Division;Spagna
+466.;R. Valladolid CF ;Spanish Primera Division;Spagna
+474.;Rayo Vallecano ;Spanish Primera Division;Spagna
+478.;RC Celta ;Spanish Primera Division;Spagna
+481.;RCD Espanyol ;Spanish Primera Division;Spagna
+482.;RCD Mallorca ;Spanish Primera Division;Spagna
+484.;Real Betis ;Spanish Primera Division;Spagna
+485.;Real Madrid ;Spanish Primera Division;Spagna
+487.;Real Sociedad ;Spanish Primera Division;Spagna
+530.;Sevilla FC ;Spanish Primera Division;Spagna
+609.;UD Las Palmas ;Spanish Primera Division;Spagna
+623.;Valencia CF ;Spanish Primera Division;Spagna
+637.;Villarreal CF ;Spanish Primera Division;Spagna
+38.;Albacete BP ;Spanish Segunda División;Spagna
+106.;Burgos CF ;Spanish Segunda División;Spagna
+110.;Cádiz CF ;Spanish Segunda División;Spagna
+122.;CD Castellón ;Spanish Segunda División;Spagna
+123.;CD Eldense ;Spanish Segunda División;Spagna
+125.;CD Mirandés ;Spanish Segunda División;Spagna
+126.;CD Tenerife ;Spanish Segunda División;Spagna
+156.;Córdoba CF ;Spanish Segunda División;Spagna
+191.;Elche CF ;Spanish Segunda División;Spagna
+213.;FC Cartagena ;Spanish Segunda División;Spagna
+280.;Granada CF ;Spanish Segunda División;Spagna
+361.;Levante UD ;Spanish Segunda División;Spagna
+375.;Málaga CF ;Spanish Segunda División;Spagna
+462.;R. Oviedo ;Spanish Segunda División;Spagna
+463.;R. Racing Club ;Spanish Segunda División;Spagna
+464.;R. Sporting ;Spanish Segunda División;Spagna
+469.;Racing de Ferrol ;Spanish Segunda División;Spagna
+479.;RC Deportivo ;Spanish Segunda División;Spagna
+489.;Real Zaragoza ;Spanish Segunda División;Spagna
+526.;SD Eibar ;Spanish Segunda División;Spagna
+527.;SD Huesca ;Spanish Segunda División;Spagna
+608.;UD Almería ;Spanish Segunda División;Spagna
+17.;AIK ;Swedish Allsvenskan;Svezia
+82.;BK Häcken ;Swedish Allsvenskan;Svezia
+103.;Brommapojkarna ;Swedish Allsvenskan;Svezia
+181.;Djurgårdens IF ;Swedish Allsvenskan;Svezia
+262.;GAIS ;Swedish Allsvenskan;Svezia
+287.;Halmstads BK ;Swedish Allsvenskan;Svezia
+290.;Hammarby IF ;Swedish Allsvenskan;Svezia
+312.;IF Elfsborg ;Swedish Allsvenskan;Svezia
+313.;IFK Göteborg ;Swedish Allsvenskan;Svezia
+314.;IFK Norrköping ;Swedish Allsvenskan;Svezia
+315.;IFK Värnamo ;Swedish Allsvenskan;Svezia
+316.;IK Sirius ;Swedish Allsvenskan;Svezia
+334.;Kalmar FF ;Swedish Allsvenskan;Svezia
+376.;Malmö FF ;Swedish Allsvenskan;Svezia
+390.;Mjällby AIF ;Swedish Allsvenskan;Svezia
+624.;Västerås SK ;Swedish Allsvenskan;Svezia
+105.;BSC Young Boys ;Swiss Super League;Svizzera
+210.;FC Basel 1893 ;Swiss Super League;Svizzera
+226.;FC Lugano ;Swiss Super League;Svizzera
+227.;FC Luzern ;Swiss Super League;Svizzera
+238.;FC Sion ;Swiss Super League;Svizzera
+239.;FC St. Gallen ;Swiss Super League;Svizzera
+244.;FC Winterthur ;Swiss Super League;Svizzera
+245.;FC Zürich ;Swiss Super League;Svizzera
+267.;GC Zürich ;Swiss Super League;Svizzera
+352.;Lausanne-Sport ;Swiss Super League;Svizzera
+529.;Servette FC ;Swiss Super League;Svizzera
+660.;Yverdon Sport FC ;Swiss Super League;Svizzera
+10.;Adana Demirspor ;Turkish Süper Lig;Turchia
+37.;Alanyaspor ;Turkish Süper Lig;Turchia
+47.;Antalyaspor ;Turkish Süper Lig;Turchia
+74.;Başakşehir ;Turkish Süper Lig;Turchia
+80.;Beşiktaş ;Turkish Süper Lig;Turchia
+88.;Bodrum FK ;Turkish Süper Lig;Turchia
+121.;Çaykur Rizespor ;Turkish Süper Lig;Turchia
+203.;Eyüpspor ;Turkish Süper Lig;Turchia
+248.;Fenerbahçe ;Turkish Süper Lig;Turchia
+263.;Galatasaray ;Turkish Süper Lig;Turchia
+266.;Gaziantep ;Turkish Süper Lig;Turchia
+279.;Göztepe ;Turkish Süper Lig;Turchia
+294.;Hatayspor ;Turkish Süper Lig;Turchia
+336.;Kasımpaşa ;Turkish Süper Lig;Turchia
+337.;Kayserispor ;Turkish Süper Lig;Turchia
+341.;Konyaspor ;Turkish Süper Lig;Turchia
+511.;Samsunspor ;Turkish Süper Lig;Turchia
+541.;Sivasspor ;Turkish Süper Lig;Turchia
+601.;Trabzonspor ;Turkish Süper Lig;Turchia
+21.;Al Ain FC ;UAE Pro League;Emirati Arabi
+189.;Dynamo Kyiv ;Ukrainian Premier League;Ucraina
+531.;Shakhtar Donetsk ;Ukrainian Premier League;Ucraina
+59.;Atlanta United ;USA Major League Soccer;USA
+63.;Austin FC ;USA Major League Soccer;USA
+134.;CF Montréal ;USA Major League Soccer;USA
+137.;Charlotte FC ;USA Major League Soccer;USA
+143.;Chicago Fire FC ;USA Major League Soccer;USA
+152.;Colorado Rapids ;USA Major League Soccer;USA
+153.;Columbus Crew ;USA Major League Soccer;USA
+165.;D.C. United ;USA Major League Soccer;USA
+214.;FC Cincinnati ;USA Major League Soccer;USA
+215.;FC Dallas ;USA Major League Soccer;USA
+305.;Houston Dynamo ;USA Major League Soccer;USA
+322.;Inter Miami CF ;USA Major League Soccer;USA
+348.;LA Galaxy ;USA Major League Soccer;USA
+369.;Los Angeles FC ;USA Major League Soccer;USA
+389.;Minnesota United ;USA Major League Soccer;USA
+408.;Nashville SC ;USA Major League Soccer;USA
+409.;New England ;USA Major League Soccer;USA
+410.;New York City FC ;USA Major League Soccer;USA
+428.;Orlando City ;USA Major League Soccer;USA
+442.;Philadelphia ;USA Major League Soccer;USA
+451.;Portland Timbers ;USA Major League Soccer;USA
+486.;Real Salt Lake ;USA Major League Soccer;USA
+490.;Red Bulls ;USA Major League Soccer;USA
+542.;SJ Earthquakes ;USA Major League Soccer;USA
+551.;Sounders FC ;USA Major League Soccer;USA
+560.;Sporting KC ;USA Major League Soccer;USA
+566.;St. Louis CITY SC ;USA Major League Soccer;USA
+598.;Toronto FC ;USA Major League Soccer;USA
+648.;Whitecaps FC ;USA Major League Soccer;USA
+41.;Alianza Lima ;Venezuelan Primera División;Venezuela
+69.;Barcelona SC ;Venezuelan Primera División;Venezuela
+90.;Bolívar ;Venezuelan Primera División;Venezuela
+115.;Caracas FC ;Venezuelan Primera División;Venezuela
+132.;Cerro Porteño ;Venezuelan Primera División;Venezuela
+149.;Cobresal ;Venezuelan Primera División;Venezuela
+151.;Colo-Colo ;Venezuelan Primera División;Venezuela
+176.;Dep. Táchira ;Venezuelan Primera División;Venezuela
+198.;Estudiantes ;Venezuelan Primera División;Venezuela
+306.;Huachipato ;Venezuelan Primera División;Venezuela
+311.;IDV ;Venezuelan Primera División;Venezuela
+329.;Junior ;Venezuelan Primera División;Venezuela
+354.;LDU Quito ;Venezuelan Primera División;Venezuela
+363.;Libertad ;Venezuelan Primera División;Venezuela
+367.;Liverpool F.C. (Montevideo) ;Venezuelan Primera División;Venezuela
+387.;Millonarios ;Venezuelan Primera División;Venezuela
+405.;Nacional ;Venezuelan Primera División;Venezuela
+431.;Palestino ;Venezuelan Primera División;Venezuela
+439.;Peñarol ;Venezuelan Primera División;Venezuela
+494.;River Plate ;Venezuelan Primera División;Venezuela
+498.;Rosario Central ;Venezuelan Primera División;Venezuela
+512.;San Lorenzo ;Venezuelan Primera División;Venezuela
+592.;Talleres ;Venezuelan Primera División;Venezuela
+594.;The Strongest ;Venezuelan Primera División;Venezuela
+618.;Universitario ;Venezuelan Primera División;Venezuela
