@@ -30,12 +30,21 @@ def save_match_to_csv(player1, team1, goals1, player2, team2, goals2, match_type
 
 # Autenticazione per Google Sheets
 def authenticate_google_sheets():
+    # Recupera il dizionario delle credenziali dal file .streamlit/secrets.toml
+    json_keyfile_dict = st.secrets["google"]
 
-    # Carica il percorso del file JSON dalle variabili di Streamlit
-    json_keyfile = st.secrets["google"]["json_keyfile_path"]
-    scope = ["https://spreadsheets.google.com/feeds", "https://www.googleapis.com/auth/drive"]
-    creds = ServiceAccountCredentials.from_json_keyfile_name(json_keyfile, scope)
+    # Definisce gli scope per l'accesso a Google Sheets e Google Drive
+    scope = [
+        "https://spreadsheets.google.com/feeds",
+        "https://www.googleapis.com/auth/drive"
+    ]
+
+    # Crea le credenziali dal dizionario JSON
+    creds = ServiceAccountCredentials.from_json_keyfile_dict(json_keyfile_dict, scope)
+
+    # Autorizza il client gspread
     client = gspread.authorize(creds)
+
     return client
 
 # Salva anche su Google Sheets
