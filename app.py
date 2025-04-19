@@ -45,5 +45,5 @@ goals2 = st.number_input(f"Gol segnati da {player2 or 'Giocatore 2'}", min_value
 
 if st.button("💾 Registra Partita"):
     # save_match_to_csv(player1, team1, goals1, player2, team2, goals2, match_type)
-    save_match_to_google_sheets("FIFA_Results", player1, team1, goals1, player2, team2, goals2, match_type)
+    save_match_to_google_sheets("fifa_match_results", player1, team1, goals1, player2, team2, goals2, match_type)
     st.success("✅ Partita registrata su CSV e Google Sheets!")
