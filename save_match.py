@@ -3,6 +3,7 @@ import os
 import gspread
 from oauth2client.service_account import ServiceAccountCredentials
 from datetime import datetime
+import streamlit as st
 
 # Percorso del file CSV (nella stessa cartella del main script)
 CSV_FILE = "match_results.csv"
@@ -30,6 +31,8 @@ def save_match_to_csv(player1, team1, goals1, player2, team2, goals2, match_type
 def authenticate_google_sheets():
 
     # Carica il percorso del file JSON dalle variabili di Streamlit
+
+    # Stampa per vedere cosa contiene st.secrets
     json_keyfile = st.secrets["google"]["json_keyfile"]
     scope = ["https://spreadsheets.google.com/feeds", "https://www.googleapis.com/auth/drive"]
     creds = ServiceAccountCredentials.from_json_keyfile_name("credentials.json", scope)
