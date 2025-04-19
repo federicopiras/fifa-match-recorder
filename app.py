@@ -1,6 +1,9 @@
 import streamlit as st
 import pandas as pd
-from save_match import save_match_to_csv
+import gspread
+from oauth2client.service_account import ServiceAccountCredentials
+from datetime import datetime
+from save_match import save_match_to_csv, save_match_to_google_sheets, authenticate_google_sheets
 
 # Carica squadre da CSV
 @st.cache_data
@@ -40,20 +43,7 @@ st.subheader("🔢 Risultato")
 goals1 = st.number_input(f"Gol segnati da {player1 or 'Giocatore 1'}", min_value=0, step=1)
 goals2 = st.number_input(f"Gol segnati da {player2 or 'Giocatore 2'}", min_value=0, step=1)
 
-# # Mostra dati quando si preme il pulsante
-# if st.button("💾 Registra Partita"):
-#     st.success("✅ Partita registrata (non ancora salvata)")
-#     st.write({
-#         "Giocatore 1": player1,
-#         "Squadra 1": team1,
-#         "Gol 1": goals1,
-#         "Giocatore 2": player2,
-#         "Squadra 2": team2,
-#         "Gol 2": goals2,
-#         "Modalità": match_type
-#     })
-
-# Definisci il comportamento per il salvataggio dei dati nel CSV
 if st.button("💾 Registra Partita"):
-    save_match_to_csv(player1, team1, goals1, player2, team2, goals2, match_type)
-    st.success("✅ Partita registrata nel file CSV!")
+    # save_match_to_csv(player1, team1, goals1, player2, team2, goals2, match_type)
+    save_match_to_google_sheets("FIFA_Results", player1, team1, goals1, player2, team2, goals2, match_type)
+    st.success("✅ Partita registrata su CSV e Google Sheets!")
