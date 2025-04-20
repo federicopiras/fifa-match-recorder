@@ -27,8 +27,21 @@ def select_team_stars(player_label):
 st.title("FIFA Match Recorder 🎮")
 
 st.subheader("🧑‍🤝‍🧑 Giocatori")
-player1 = st.selectbox("Giocatore 1", ['Master', 'Peres', 'Ufo', 'Angi'])
-player2 = st.selectbox("Giocatore 2", ['Peres', 'Master', 'Ufo', 'Angi'])
+giocatori = ['Master', 'Peres', 'Ufo', 'Angi', 'Altro...']
+
+# Giocatore 1
+player1_choice = st.selectbox("Giocatore 1", giocatori)
+if player1_choice == "Altro...":
+    player1 = st.text_input("Inserisci nome Giocatore 1")
+else:
+    player1 = player1_choice
+
+# Giocatore 2
+player2_choice = st.selectbox("Giocatore 2", giocatori)
+if player2_choice == "Altro...":
+    player2 = st.text_input("Inserisci nome Giocatore 2")
+else:
+    player2 = player2_choice
 
 st.subheader("⚽ Selezione Squadre")
 team1, stars1 = select_team_stars(player1)
