@@ -54,11 +54,23 @@ def save_match_to_google_sheets(sheet_name, player1, team1, goals1, stars1, play
     client = authenticate_google_sheets()
     sheet = client.open(sheet_name).sheet1
 
+    winner = ""
+    loser = ""
+    if goals1 > goals2:
+        winner = player1
+        loser = player2
+    elif goals1 < goals2:
+        winner = player2
+        loser = player1
+    else:
+        winner = "patta"
+        loser = "patta"
+
     match_data = [
         datetime.now().strftime("%Y-%m-%d %H:%M:%S"),
         player1, team1, goals1, stars1,
         player2, team2, goals2, stars2,
-        match_type
+        match_type, winner, loser
     ]
 
     sheet.append_row(match_data)
