@@ -14,18 +14,56 @@ def load_teams():
 df_teams = load_teams()
 
 # Funzione per scegliere la squadra
-def select_team_stars(player_label):
+def select_team_stars_flexible(player_label, df):
     st.markdown(f"### 🧍‍♂️ {player_label}")
-    nationality = st.selectbox(f"Nazione campionato ({player_label})", df_teams["Nationality"].unique())
-    championships = df_teams[df_teams["Nationality"] == nationality]["Championship"].unique()
-    championship = st.selectbox(f"Campionato ({player_label})", championships)
-    teams = df_teams[(df_teams["Nationality"] == nationality) & (df_teams["Championship"] == championship)]["Team"].unique()
-    team = st.selectbox(f"Squadra scelta ({player_label})", teams)
+
+    search_input = st.text_input(f"Scrivi il nome della squadra ({player_label})", "")
+
+    # Suggerimenti live
+    team_names = df["Team"].unique()
+    matching_teams = [team for team in team_names if search_input.lower() in team.lower()]
+
+    selected_team = None
+    team_info = None
+
+    if matching_teams:
+        selected_team = st.selectbox(f"Squadre trovate per '{search_input}'", matching_teams)
+        team_info = df[df["Team"] == selected_team].iloc[0]
+        st.write(f"**Campionato**: {team_info['Championship']}  \n**Nazionalità**: {team_info['Nationality']}")
+    else:
+        st.info("❌ Nessuna squadra trovata. Puoi cercarla per nazionalità e campionato.")
+        nationality = st.selectbox(f"Nazione campionato ({player_label})", df["Nationality"].unique())
+        championships = df[df["Nationality"] == nationality]["Championship"].unique()
+        championship = st.selectbox(f"Campionato ({player_label})", championships)
+        filtered_teams = df[(df["Nationality"] == nationality) & (df["Championship"] == championship)]["Team"].unique()
+        selected_team = st.selectbox(f"Squadra ({player_label})", filtered_teams)
+        if selected_team:
+            team_info = df[df["Team"] == selected_team].iloc[0]
+
+    # Inserimento manuale in caso nessuna squadra sia selezionata
+    use_manual = st.checkbox(f"⚙️ Inserisci manualmente squadra ({player_label})")
+
+    if use_manual:
+        selected_team = st.text_input(f"Nome squadra manuale ({player_label})")
+        championship = st.text_input(f"Campionato manuale ({player_label})")
+        nationality = st.text_input(f"Nazionalità manuale ({player_label})")
+    else:
+        if team_info is not None:
+            championship = team_info["Championship"]
+            nationality = team_info["Nationality"]
+
     stars = st.selectbox(f"Stelle squadra ({player_label})", [0.5, 1, 1.5, 2, 2.5, 3, 3.5, 4, 4.5, 5])
-    return team, stars
+
+    return selected_team, stars, championship, nationality
 
 st.title("FIFA Match Recorder 🎮")
 
+# Seleziona la versione di FIFA a cui stai giocando
+fifa_versions = df_teams['fifa_version'].unique()
+selected_version = st.selectbox("Seleziona FIFA", sorted(fifa_versions, reverse=True))
+df_teams = df_teams[df_teams['fifa_version'] == selected_version]
+
+# Inserimento dati giocatori e squadre
 st.subheader("🧑‍🤝‍🧑 Giocatori")
 giocatori = ['Master', 'Peres', 'Ufo', 'Angi', 'Altro...']
 
@@ -44,8 +82,8 @@ else:
     player2 = player2_choice
 
 st.subheader("⚽ Selezione Squadre")
-team1, stars1 = select_team_stars(player1)
-team2, stars2 = select_team_stars(player2)
+team1, stars1, champ1, nation1 = select_team_stars_flexible(player1, df_teams)
+team2, stars2, champ2, nation2 = select_team_stars_flexible(player2, df_teams)
 
 st.subheader("🎯 Modalità Partita")
 match_type = st.radio(
@@ -59,5 +97,10 @@ goals2 = st.number_input(f"Gol segnati da {player2 or 'Giocatore 2'}", min_value
 
 if st.button("💾 Registra Partita"):
     # save_match_to_csv(player1, team1, goals1, player2, team2, goals2, match_type)
-    save_match_to_google_sheets("fifa_match_results", player1, team1, goals1, stars1, player2, team2, goals2, stars2, match_type)
-    st.success("✅ Partita registrata su CSV e Google Sheets!")
+    save_match_to_google_sheets(
+        "fifa_match_results",
+        player1, team1, goals1, stars1, champ1, nation1,
+        player2, team2, goals2, stars2, champ2, nation2,
+        match_type
+    )
+    st.success("✅ Partita registrata su Google Sheets!")
