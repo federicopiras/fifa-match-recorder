@@ -50,7 +50,8 @@ def authenticate_google_sheets():
     return client
 
 # Salva anche su Google Sheets
-def save_match_to_google_sheets(sheet_name, player1, team1, goals1, stars1, player2, team2, goals2, stars2, match_type):
+def save_match_to_google_sheets(sheet_name, player1, team1, goals1, stars1, champ1, nation1,
+        player2, team2, goals2, stars2, champ2, nation2, match_type):
     client = authenticate_google_sheets()
     sheet = client.open(sheet_name).sheet1
 
@@ -68,8 +69,8 @@ def save_match_to_google_sheets(sheet_name, player1, team1, goals1, stars1, play
 
     match_data = [
         datetime.now().strftime("%Y-%m-%d %H:%M:%S"),
-        player1, team1, goals1, stars1,
-        player2, team2, goals2, stars2,
+        player1, team1, goals1, stars1, champ1, nation1,
+        player2, team2, goals2, stars2, champ2, nation2,
         match_type, winner, loser
     ]
 
