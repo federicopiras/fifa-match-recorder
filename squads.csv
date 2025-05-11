@@ -1,663 +1,2710 @@
-﻿#;Team;Championship;Nationality
-61.;Atlético Tucumán ;Argentina Primera División;Argentina
-68.;Banfield ;Argentina Primera División;Argentina
-72.;Barracas Central ;Argentina Primera División;Argentina
-129.;Central Córdoba ;Argentina Primera División;Argentina
-175.;Dep. Riestra ;Argentina Primera División;Argentina
-273.;Gimnasia ;Argentina Primera División;Argentina
-277.;Godoy Cruz ;Argentina Primera División;Argentina
-309.;Huracán ;Argentina Primera División;Argentina
-318.;Ind. Rivadavia ;Argentina Primera División;Argentina
-320.;Independiente ;Argentina Primera División;Argentina
-321.;Instituto ;Argentina Primera División;Argentina
-413.;Newell’s ;Argentina Primera División;Argentina
-445.;Platense ;Argentina Primera División;Argentina
-515.;Sarmiento ;Argentina Primera División;Argentina
-596.;Tigre ;Argentina Primera División;Argentina
-613.;Unión ;Argentina Primera División;Argentina
-626.;Vélez Sarsfield ;Argentina Primera División;Argentina
-11.;Adelaide United ;Australian A-League;Australia
-62.;Auckland FC ;Australian A-League;Australia
-99.;Brisbane Roar ;Australian A-League;Australia
-128.;Central Coast ;Australian A-League;Australia
-374.;Macarthur FC ;Australian A-League;Australia
-382.;Melb. Victory ;Australian A-League;Australia
-383.;Melbourne City ;Australian A-League;Australia
-411.;Newcastle Jets ;Australian A-League;Australia
-440.;Perth Glory ;Australian A-League;Australia
-590.;Sydney FC ;Australian A-League;Australia
-644.;Well. Phoenix ;Australian A-League;Australia
-647.;Western United ;Australian A-League;Australia
-656.;WS Wanderers ;Australian A-League;Australia
-64.;Austria Klagenfurt ;Austrian Football Bundesliga;Austria
-85.;Blau-Weiss Linz ;Austrian Football Bundesliga;Austria
-252.;FK Austria Wien ;Austrian Football Bundesliga;Austria
-281.;Grazer AK ;Austrian Football Bundesliga;Austria
-350.;LASK ;Austrian Football Bundesliga;Austria
-477.;RB Salzburg ;Austrian Football Bundesliga;Austria
-525.;SCR Altach ;Austrian Football Bundesliga;Austria
-544.;SK Rapid ;Austrian Football Bundesliga;Austria
-545.;SK Sturm Graz ;Austrian Football Bundesliga;Austria
-605.;TSV Hartberg ;Austrian Football Bundesliga;Austria
-653.;Wolfsberger AC ;Austrian Football Bundesliga;Austria
-657.;WSG Tirol ;Austrian Football Bundesliga;Austria
-458.;Qarabağ FK ;Azerbaijan Premier League;Azerbaijan
-130.;Cercle Brugge ;Belgian Pro League;Belgio
-146.;Club Brugge ;Belgian Pro League;Belgio
-247.;FCV Dender EH ;Belgian Pro League;Belgio
-331.;K. Beerschot VA ;Belgian Pro League;Belgio
-332.;KAA Gent ;Belgian Pro League;Belgio
-343.;KRC Genk ;Belgian Pro League;Belgio
-345.;KV Kortrijk ;Belgian Pro League;Belgio
-346.;KV Mechelen ;Belgian Pro League;Belgio
-347.;KVC Westerlo ;Belgian Pro League;Belgio
-423.;OH Leuven ;Belgian Pro League;Belgio
-465.;R. Union St.-G. ;Belgian Pro League;Belgio
-503.;Royal Antwerp FC ;Belgian Pro League;Belgio
-504.;RSC Anderlecht ;Belgian Pro League;Belgio
-554.;Sp. Charleroi ;Belgian Pro League;Belgio
-573.;Standard Liège ;Belgian Pro League;Belgio
-579.;STVV ;Belgian Pro League;Belgio
-76.;Beijing FC ;Chinese Super League;Cina
-113.;Cangzhou FC ;Chinese Super League;Cina
-136.;Changchun Yatai ;Chinese Super League;Cina
-299.;Henan FC ;Chinese Super League;Cina
-381.;Meizhou Hakka FC ;Chinese Super League;Cina
-407.;Nantong Zhiyun FC ;Chinese Super League;Cina
-459.;Qingdao Hainiu ;Chinese Super League;Cina
-460.;Qingdao W. Coast ;Chinese Super League;Cina
-497.;Rongcheng FC ;Chinese Super League;Cina
-533.;Shandong Taishan ;Chinese Super League;Cina
-534.;Shanghai Port FC ;Chinese Super League;Cina
-535.;Shanghai Shenhua ;Chinese Super League;Cina
-591.;SZ Peng City ;Chinese Super League;Cina
-595.;Tianjin JMT FC ;Chinese Super League;Cina
-658.;Wuhan Three Towns ;Chinese Super League;Cina
-662.;Zhejiang Pro ;Chinese Super League;Cina
-58.;Atl. Nacional ;Colombian Categoría Primera A;Colombia
-12.;ADT ;Copa Libertadores de América;
-40.;Alianza FC ;Copa Libertadores de América;
-43.;Always Ready ;Copa Libertadores de América;
-44.;América de Cali ;Copa Libertadores de América;
-49.;Argentinos Jrs. ;Copa Libertadores de América;
-77.;Belgrano ;Copa Libertadores de América;
-87.;Boca Juniors ;Copa Libertadores de América;
-114.;Carabobo FC ;Copa Libertadores de América;
-131.;Cerro Largo ;Copa Libertadores de América;
-147.;Club Nacional ;Copa Libertadores de América;
-155.;Coquimbo Unido ;Copa Libertadores de América;
-169.;Danubio ;Copa Libertadores de América;
-170.;Defensa ;Copa Libertadores de América;
-171.;Delfín SC ;Copa Libertadores de América;
-172.;Dep. Cuenca ;Copa Libertadores de América;
-173.;Dep. Garcilaso ;Copa Libertadores de América;
-174.;Dep. La Guaira ;Copa Libertadores de América;
-177.;Deportes Tolima ;Copa Libertadores de América;
-201.;Everton de Viña del Mar ;Copa Libertadores de América;
-284.;Guaraní ;Copa Libertadores de América;
-319.;Indep. Medellín ;Copa Libertadores de América;
-349.;Lanús ;Copa Libertadores de América;
-384.;Metropolitanos ;Copa Libertadores de América;
-406.;Nacional Potosí ;Copa Libertadores de América;
-424.;Olimpia ;Copa Libertadores de América;
-467.;Racing Club ;Copa Libertadores de América;
-468.;Racing Club de Montevideo ;Copa Libertadores de América;
-475.;Rayo Zuliano ;Copa Libertadores de América;
-488.;Real Tomayapo ;Copa Libertadores de América;
-505.;S. Ameliano ;Copa Libertadores de América;
-506.;S. Trinidense ;Copa Libertadores de América;
-558.;Sport Huancayo ;Copa Libertadores de América;
-561.;Sportivo Luqueño ;Copa Libertadores de América;
-593.;Técnico U. ;Copa Libertadores de América;
-606.;U. Católica ;Copa Libertadores de América;
-607.;UCV ;Copa Libertadores de América;
-612.;Uni. Católica ;Copa Libertadores de América;
-615.;Unión La Calera ;Copa Libertadores de América;
-619.;Universitario de Vinto ;Copa Libertadores de América;
-640.;Wanderers ;Copa Libertadores de América;
-652.;Wilstermann ;Copa Libertadores de América;
-180.;Dinamo Zagreb ;Croatian First Football League;Croazia
-286.;Hajduk Split ;Croatian First Football League;Croazia
-48.;APOEL FC ;Cypriot First Division;Cipro
-548.;Slavia Praha ;Czech First League;Repubblica ceca
-555.;Sparta Praha ;Czech First League;Repubblica ceca
-636.;Viktoria Plzeň ;Czech First League;Repubblica ceca
-6.;AaB ;Danish Superliga;Danimarca
-16.;AGF ;Danish Superliga;Danimarca
-104.;Brøndby IF ;Danish Superliga;Danimarca
-204.;F.C. København ;Danish Superliga;Danimarca
-230.;FC Midtjylland ;Danish Superliga;Danimarca
-232.;FC Nordsjælland ;Danish Superliga;Danimarca
-372.;Lyngby BK ;Danish Superliga;Danimarca
-472.;Randers FC ;Danish Superliga;Danimarca
-540.;Silkeborg IF ;Danish Superliga;Danimarca
-553.;Sønderjyske ;Danish Superliga;Danimarca
-625.;Vejle Boldklub ;Danish Superliga;Danimarca
-633.;Viborg FF ;Danish Superliga;Danimarca
-83.;Blackburn Rovers ;English League Championship;Inghilterra
-100.;Bristol City ;English League Championship;Inghilterra
-107.;Burnley ;English League Championship;Inghilterra
-116.;Cardiff City ;English League Championship;Inghilterra
-158.;Coventry City ;English League Championship;Inghilterra
-178.;Derby County ;English League Championship;Inghilterra
-308.;Hull City ;English League Championship;Inghilterra
-358.;Leeds United ;English League Championship;Inghilterra
-371.;Luton Town ;English League Championship;Inghilterra
-385.;Middlesbrough ;English League Championship;Inghilterra
-388.;Millwall ;English League Championship;Inghilterra
-417.;Norwich ;English League Championship;Inghilterra
-429.;Oxford United ;English League Championship;Inghilterra
-446.;Plymouth Argyle ;English League Championship;Inghilterra
-452.;Portsmouth ;English League Championship;Inghilterra
-453.;Preston ;English League Championship;Inghilterra
-461.;QPR ;English League Championship;Inghilterra
-536.;Sheffield United ;English League Championship;Inghilterra
-537.;Sheffield Wed ;English League Championship;Inghilterra
-576.;Stoke City ;English League Championship;Inghilterra
-581.;Sunderland ;English League Championship;Inghilterra
-588.;Swansea City ;English League Championship;Inghilterra
-642.;Watford ;English League Championship;Inghilterra
-645.;West Brom ;English League Championship;Inghilterra
-71.;Barnsley ;English League One;Inghilterra
-81.;Birmingham City ;English League One;Inghilterra
-84.;Blackpool ;English League One;Inghilterra
-92.;Bolton ;English League One;Inghilterra
-101.;Bristol Rovers ;English League One;Inghilterra
-108.;Burton Albion ;English League One;Inghilterra
-112.;Cambridge United ;English League One;Inghilterra
-138.;Charlton Ath ;English League One;Inghilterra
-160.;Crawley Town ;English League One;Inghilterra
-202.;Exeter City ;English League One;Inghilterra
-307.;Huddersfield ;English League One;Inghilterra
-362.;Leyton Orient ;English League One;Inghilterra
-365.;Lincoln City ;English League One;Inghilterra
-379.;Mansfield Town ;English League One;Inghilterra
-415.;Northampton ;English League One;Inghilterra
-441.;Peterborough ;English League One;Inghilterra
-483.;Reading ;English League One;Inghilterra
-502.;Rotherham United ;English League One;Inghilterra
-539.;Shrewsbury ;English League One;Inghilterra
-574.;Stevenage ;English League One;Inghilterra
-575.;Stockport ;English League One;Inghilterra
-650.;Wigan Athletic ;English League One;Inghilterra
-655.;Wrexham ;English League One;Inghilterra
-659.;Wycombe ;English League One;Inghilterra
-9.;Accrington ;English League Two;Inghilterra
-15.;AFC Wimbledon ;English League Two;Inghilterra
-73.;Barrow ;English League Two;Inghilterra
-94.;Bradford City ;English League Two;Inghilterra
-102.;Bromley FC ;English League Two;Inghilterra
-117.;Carlisle United ;English League Two;Inghilterra
-140.;Cheltenham Town ;English League Two;Inghilterra
-142.;Chesterfield ;English League Two;Inghilterra
-150.;Colchester ;English League Two;Inghilterra
-162.;Crewe Alexandra ;English League Two;Inghilterra
-182.;Doncaster ;English League Two;Inghilterra
-255.;Fleetwood Town ;English League Two;Inghilterra
-271.;Gillingham ;English League Two;Inghilterra
-283.;Grimsby Town ;English League Two;Inghilterra
-293.;Harrogate Town ;English League Two;Inghilterra
-391.;MK Dons ;English League Two;Inghilterra
-398.;Morecambe ;English League Two;Inghilterra
-414.;Newport County ;English League Two;Inghilterra
-419.;Notts County ;English League Two;Inghilterra
-450.;Port Vale ;English League Two;Inghilterra
-509.;Salford City ;English League Two;Inghilterra
-589.;Swindon Town ;English League Two;Inghilterra
-602.;Tranmere Rovers ;English League Two;Inghilterra
-639.;Walsall ;English League Two;Inghilterra
-14.;AFC Bournemouth ;English Premier League;Inghilterra
-52.;Arsenal ;English Premier League;Inghilterra
-56.;Aston Villa ;English Premier League;Inghilterra
-96.;Brentford ;English Premier League;Inghilterra
-98.;Brighton ;English Premier League;Inghilterra
-139.;Chelsea ;English Premier League;Inghilterra
-163.;Crystal Palace ;English Premier League;Inghilterra
-200.;Everton ;English Premier League;Inghilterra
-260.;Fulham ;English Premier League;Inghilterra
-323.;Ipswich ;English Premier League;Inghilterra
-360.;Leicester City ;English Premier League;Inghilterra
-366.;Liverpool ;English Premier League;Inghilterra
-377.;Manchester City ;English Premier League;Inghilterra
-378.;Manchester United ;English Premier League;Inghilterra
-412.;Newcastle United ;English Premier League;Inghilterra
-418.;Nott’m Forest ;English Premier League;Inghilterra
-552.;Southampton ;English Premier League;Inghilterra
-599.;Tottenham Hotspur ;English Premier League;Inghilterra
-646.;West Ham ;English Premier League;Inghilterra
-654.;Wolves ;English Premier League;Inghilterra
-303.;HJK Helsinki ;Finnish Veikkausliiga;Finlandia
-18.;AJ Auxerre ;French Ligue 1;Francia
-46.;Angers SCO ;French Ligue 1;Francia
-53.;AS Monaco ;French Ligue 1;Francia
-55.;AS Saint-Étienne ;French Ligue 1;Francia
-231.;FC Nantes ;French Ligue 1;Francia
-295.;Havre AC ;French Ligue 1;Francia
-370.;LOSC Lille ;French Ligue 1;Francia
-396.;Montpellier ;French Ligue 1;Francia
-422.;OGC Nice ;French Ligue 1;Francia
-426.;Olympique de Marseille ;French Ligue 1;Francia
-427.;Olympique Lyonnais ;French Ligue 1;Francia
-435.;Paris Saint-Germain ;French Ligue 1;Francia
-480.;RC Lens ;French Ligue 1;Francia
-569.;Stade Brestois 29 ;French Ligue 1;Francia
-570.;Stade de Reims ;French Ligue 1;Francia
-571.;Stade Rennais FC ;French Ligue 1;Francia
-577.;Strasbourg ;French Ligue 1;Francia
-600.;Toulouse FC ;French Ligue 1;Francia
-8.;AC Ajaccio ;French Ligue 2;Francia
-45.;Amiens SC ;French Ligue 2;Francia
-145.;Clermont Foot 63 ;French Ligue 2;Francia
-193.;En Avant Guingamp ;French Ligue 2;Francia
-195.;ESTAC Troyes ;French Ligue 2;Francia
-207.;FC Annecy ;French Ligue 2;Francia
-225.;FC Lorient ;French Ligue 2;Francia
-228.;FC Martigues ;French Ligue 2;Francia
-229.;FC Metz ;French Ligue 2;Francia
-282.;Grenoble Foot 38 ;French Ligue 2;Francia
-353.;Laval MFC ;French Ligue 2;Francia
-434.;Paris FC ;French Ligue 2;Francia
-437.;Pau FC ;French Ligue 2;Francia
-491.;Red Star FC ;French Ligue 2;Francia
-496.;Rodez AF ;French Ligue 2;Francia
-518.;SC Bastia ;French Ligue 2;Francia
-550.;SM Caen ;French Ligue 2;Francia
-621.;USL Dunkerque ;French Ligue 2;Francia
-4.;1. FSV Mainz 05 ;German 1. Bundesliga;Germania
-75.;Bayer Leverkusen ;German 1. Bundesliga;Germania
-93.;Borussia Dortmund ;German 1. Bundesliga;Germania
-208.;FC Augsburg ;German 1. Bundesliga;Germania
-211.;FC Bayern München ;German 1. Bundesliga;Germania
-240.;FC St. Pauli ;German 1. Bundesliga;Germania
-257.;Frankfurt ;German 1. Bundesliga;Germania
-297.;Heidenheim ;German 1. Bundesliga;Germania
-304.;Holstein Kiel ;German 1. Bundesliga;Germania
-373.;M’gladbach ;German 1. Bundesliga;Germania
-476.;RB Leipzig ;German 1. Bundesliga;Germania
-520.;SC Freiburg ;German 1. Bundesliga;Germania
-587.;SV Werder Bremen ;German 1. Bundesliga;Germania
-604.;TSG Hoffenheim ;German 1. Bundesliga;Germania
-614.;Union Berlin ;German 1. Bundesliga;Germania
-628.;VfB Stuttgart ;German 1. Bundesliga;Germania
-630.;VfL Bochum 1848 ;German 1. Bundesliga;Germania
-632.;VfL Wolfsburg ;German 1. Bundesliga;Germania
-1.;1. FC Köln ;German 2. Bundesliga;Germania
-2.;1. FC Magdeburg ;German 2. Bundesliga;Germania
-3.;1. FC Nürnberg ;German 2. Bundesliga;Germania
-95.;Braunschweig ;German 2. Bundesliga;Germania
-187.;Düsseldorf ;German 2. Bundesliga;Germania
-236.;FC Schalke 04 ;German 2. Bundesliga;Germania
-261.;Fürth ;German 2. Bundesliga;Germania
-288.;Hamburger SV ;German 2. Bundesliga;Germania
-291.;Hannover 96 ;German 2. Bundesliga;Germania
-301.;Hertha BSC ;German 2. Bundesliga;Germania
-325.;Jahn Regensburg ;German 2. Bundesliga;Germania
-333.;Kaiserslautern ;German 2. Bundesliga;Germania
-335.;Karlsruher SC ;German 2. Bundesliga;Germania
-454.;Preußen Münster ;German 2. Bundesliga;Germania
-523.;SC Paderborn 07 ;German 2. Bundesliga;Germania
-564.;SSV Ulm 1846 ;German 2. Bundesliga;Germania
-583.;SV Darmstadt 98 ;German 2. Bundesliga;Germania
-584.;SV Elversberg ;German 2. Bundesliga;Germania
-5.;1860 München ;German 3. Bundesliga;Germania
-39.;Aleman. Aachen ;German 3. Bundesliga;Germania
-50.;Arminia Bielefeld ;German 3. Bundesliga;Germania
-67.;B. Dortmund II ;German 3. Bundesliga;Germania
-188.;Dynamo Dresden ;German 3. Bundesliga;Germania
-194.;Energie Cottbus ;German 3. Bundesliga;Germania
-217.;FC Erzgebirge Aue ;German 3. Bundesliga;Germania
-222.;FC Hansa Rostock ;German 3. Bundesliga;Germania
-224.;FC Ingolstadt 04 ;German 3. Bundesliga;Germania
-292.;Hannover 96 II ;German 3. Bundesliga;Germania
-501.;Rot-Weiss Essen ;German 3. Bundesliga;Germania
-507.;Saarbrücken ;German 3. Bundesliga;Germania
-524.;SC Verl ;German 3. Bundesliga;Germania
-585.;SV Sandhausen ;German 3. Bundesliga;Germania
-586.;SV Waldhof ;German 3. Bundesliga;Germania
-620.;Unterhaching ;German 3. Bundesliga;Germania
-629.;VfB Stuttgart II ;German 3. Bundesliga;Germania
-631.;VfL Osnabrück ;German 3. Bundesliga;Germania
-635.;Viktoria Köln ;German 3. Bundesliga;Germania
-643.;Wehen Wiesbaden ;German 3. Bundesliga;Germania
-13.;AEK Athens ;Greek Super League;Grecia
-425.;Olympiacos FC ;Greek Super League;Grecia
-432.;Panathinaikos ;Greek Super League;Grecia
-433.;PAOK FC ;Greek Super League;Grecia
-19.;Ajax ;Holland Eredivisie;Olanda
-42.;Almere City FC ;Holland Eredivisie;Olanda
-66.;AZ ;Holland Eredivisie;Olanda
-221.;FC Groningen ;Holland Eredivisie;Olanda
-241.;FC Twente ;Holland Eredivisie;Olanda
-243.;FC Utrecht ;Holland Eredivisie;Olanda
-250.;Feyenoord ;Holland Eredivisie;Olanda
-256.;Fortuna Sittard ;Holland Eredivisie;Olanda
-276.;Go Ahead Eagles ;Holland Eredivisie;Olanda
-300.;Heracles Almelo ;Holland Eredivisie;Olanda
-403.;N.E.C. Nijmegen ;Holland Eredivisie;Olanda
-404.;NAC Breda ;Holland Eredivisie;Olanda
-438.;PEC Zwolle ;Holland Eredivisie;Olanda
-455.;PSV ;Holland Eredivisie;Olanda
-495.;RKC Waalwijk ;Holland Eredivisie;Olanda
-521.;sc Heerenveen ;Holland Eredivisie;Olanda
-556.;Sparta Rotterdam ;Holland Eredivisie;Olanda
-651.;Willem II ;Holland Eredivisie;Olanda
-249.;Ferencvárosi TC ;Hungarian Nemzeti Bajnokság I;Ungheria
-78.;Bengaluru FC ;Indian Super League;India
-141.;Chennaiyin FC ;Indian Super League;India
-190.;East Bengal ;Indian Super League;India
-220.;FC Goa ;Indian Super League;India
-310.;Hyderabad FC ;Indian Super League;India
-326.;Jamshedpur FC ;Indian Super League;India
-338.;Kerala Blasters ;Indian Super League;India
-393.;Mohammedan SC ;Indian Super League;India
-394.;Mohun Bagan SG ;Indian Super League;India
-402.;Mumbai City FC ;Indian Super League;India
-416.;NorthEast United ;Indian Super League;India
-421.;Odisha FC ;Indian Super League;India
-456.;Punjab FC ;Indian Super League;India
-54.;AS Roma ;Italian Serie A;Italia
-79.;Bergamo Calcio ;Italian Serie A;Italia
-91.;Bologna ;Italian Serie A;Italia
-111.;Cagliari ;Italian Serie A;Italia
-154.;Como ;Italian Serie A;Italia
-192.;Empoli ;Italian Serie A;Italia
-251.;Fiorentina ;Italian Serie A;Italia
-268.;Genoa ;Italian Serie A;Italia
-298.;Hellas Verona ;Italian Serie A;Italia
-330.;Juventus ;Italian Serie A;Italia
-351.;Latium ;Italian Serie A;Italia
-355.;Lecce ;Italian Serie A;Italia
-368.;Lombardia FC ;Italian Serie A;Italia
-386.;Milano FC ;Italian Serie A;Italia
-397.;Monza ;Italian Serie A;Italia
-436.;Parma ;Italian Serie A;Italia
-563.;SSC Napoli ;Italian Serie A;Italia
-597.;Torino ;Italian Serie A;Italia
-610.;Udinese ;Italian Serie A;Italia
-627.;Venezia ;Italian Serie A;Italia
-70.;Bari ;Italian Serie B;Italia
-97.;Brescia ;Italian Serie B;Italia
-118.;Carrarese Calcio ;Italian Serie B;Italia
-120.;Catanzaro ;Italian Serie B;Italia
-133.;Cesena ;Italian Serie B;Italia
-144.;Cittadella ;Italian Serie B;Italia
-157.;Cosenza ;Italian Serie B;Italia
-161.;Cremonese ;Italian Serie B;Italia
-259.;Frosinone ;Italian Serie B;Italia
-380.;Mantova ;Italian Serie B;Italia
-392.;Modena ;Italian Serie B;Italia
-430.;Palermo ;Italian Serie B;Italia
-444.;Pisa ;Italian Serie B;Italia
-492.;Reggiana ;Italian Serie B;Italia
-508.;Salernitana ;Italian Serie B;Italia
-510.;Sampdoria ;Italian Serie B;Italia
-517.;Sassuolo ;Italian Serie B;Italia
-557.;Spezia ;Italian Serie B;Italia
-562.;SS Juve Stabia ;Italian Serie B;Italia
-580.;Südtirol ;Italian Serie B;Italia
-166.;Daegu FC ;Korean K League 1;Korea
-167.;Daejeon ;Korean K League 1;Korea
-237.;FC Seoul ;Korean K League 1;Korea
-265.;Gangwon FC ;Korean K League 1;Korea
-272.;Gimcheon Sangmu ;Korean K League 1;Korea
-285.;GwangJu FC ;Korean K League 1;Korea
-317.;Incheon United ;Korean K League 1;Korea
-327.;Jeju United ;Korean K League 1;Korea
-328.;Jeonbuk Hyundai ;Korean K League 1;Korea
-448.;Pohang Steelers ;Korean K League 1;Korea
-582.;Suwon FC ;Korean K League 1;Korea
-611.;Ulsan Hyundai ;Korean K League 1;Korea
-253.;FK Bodø/Glimt ;Norwegian Eliteserien;Norvegia
-254.;FK Haugesund ;Norwegian Eliteserien;Norvegia
-258.;Fredrikstad FK ;Norwegian Eliteserien;Norvegia
-289.;HamKam Fotball ;Norwegian Eliteserien;Norvegia
-339.;KFUM-Kameratene ;Norwegian Eliteserien;Norvegia
-344.;Kristiansund BK ;Norwegian Eliteserien;Norvegia
-364.;Lillestrøm SK ;Norwegian Eliteserien;Norvegia
-395.;Molde FK ;Norwegian Eliteserien;Norvegia
-420.;Odds BK ;Norwegian Eliteserien;Norvegia
-499.;Rosenborg BK ;Norwegian Eliteserien;Norvegia
-513.;Sandefjord ;Norwegian Eliteserien;Norvegia
-516.;Sarpsborg 08 ;Norwegian Eliteserien;Norvegia
-543.;SK Brann ;Norwegian Eliteserien;Norvegia
-578.;Strømsgodset IF ;Norwegian Eliteserien;Norvegia
-603.;Tromsø IL ;Norwegian Eliteserien;Norvegia
-634.;Viking FK ;Norwegian Eliteserien;Norvegia
-159.;Cracovia ;Polish Ekstraklasa;Polonia
-275.;GKS Katowice ;Polish Ekstraklasa;Polonia
-278.;Górnik Zabrze ;Polish Ekstraklasa;Polonia
-324.;Jagiellonia ;Polish Ekstraklasa;Polonia
-342.;Korona Kielce ;Polish Ekstraklasa;Polonia
-356.;Lech Poznań ;Polish Ekstraklasa;Polonia
-357.;Lechia Gdańsk ;Polish Ekstraklasa;Polonia
-359.;Legia Warszawa ;Polish Ekstraklasa;Polonia
-401.;Motor Lublin ;Polish Ekstraklasa;Polonia
-443.;Piast Gliwice ;Polish Ekstraklasa;Polonia
-447.;Pogoń Szczecin ;Polish Ekstraklasa;Polonia
-457.;Puszcza ;Polish Ekstraklasa;Polonia
-470.;Radomiak Radom ;Polish Ekstraklasa;Polonia
-471.;Raków ;Polish Ekstraklasa;Polonia
-547.;Śląsk Wrocław ;Polish Ekstraklasa;Polonia
-572.;Stal Mielec ;Polish Ekstraklasa;Polonia
-649.;Widzew Łódź ;Polish Ekstraklasa;Polonia
-661.;Zagłębie Lubin ;Polish Ekstraklasa;Polonia
-51.;Arouca ;Portuguese Primeira Liga;Portogallo
-65.;AVS Futebol SAD ;Portuguese Primeira Liga;Portogallo
-86.;Boavista FC ;Portuguese Primeira Liga;Portogallo
-119.;Casa Pia AC ;Portuguese Primeira Liga;Portogallo
-148.;Clube Desportivo Nacional ;Portuguese Primeira Liga;Portogallo
-196.;Estoril Praia ;Portuguese Primeira Liga;Portogallo
-197.;Estrela Amadora ;Portuguese Primeira Liga;Portogallo
-205.;Farense ;Portuguese Primeira Liga;Portogallo
-218.;FC Famalicão ;Portuguese Primeira Liga;Portogallo
-234.;FC Porto ;Portuguese Primeira Liga;Portogallo
-270.;Gil Vicente ;Portuguese Primeira Liga;Portogallo
-399.;Moreirense FC ;Portuguese Primeira Liga;Portogallo
-493.;Rio Ave FC ;Portuguese Primeira Liga;Portogallo
-514.;Santa Clara ;Portuguese Primeira Liga;Portogallo
-519.;SC Braga ;Portuguese Primeira Liga;Portogallo
-546.;SL Benfica ;Portuguese Primeira Liga;Portogallo
-559.;Sporting CP ;Portuguese Primeira Liga;Portogallo
-638.;Vitória SC ;Portuguese Primeira Liga;Portogallo
-89.;Bohemians ;Rep. Ireland Premier Division;Irlanda
-179.;Derry City ;Rep. Ireland Premier Division;Irlanda
-183.;Drogheda United ;Rep. Ireland Premier Division;Irlanda
-184.;Dundalk ;Rep. Ireland Premier Division;Irlanda
-264.;Galway United ;Rep. Ireland Premier Division;Irlanda
-532.;Shamrock Rovers ;Rep. Ireland Premier Division;Irlanda
-538.;Shelbourne ;Rep. Ireland Premier Division;Irlanda
-549.;Sligo Rovers ;Rep. Ireland Premier Division;Irlanda
-568.;St. Pats ;Rep. Ireland Premier Division;Irlanda
-641.;Waterford ;Rep. Ireland Premier Division;Irlanda
-135.;CFR 1907 Cluj ;Romanian Liga I;Romania
-206.;Farul Constanța ;Romanian Liga I;Romania
-212.;FC Botoșani ;Romanian Liga I;Romania
-216.;FC Dinamo 1948 ;Romanian Liga I;Romania
-219.;FC Gloria Buzău ;Romanian Liga I;Romania
-223.;FC Hermannstadt ;Romanian Liga I;Romania
-233.;FC Petrolul ;Romanian Liga I;Romania
-235.;FC Rapid 1923 ;Romanian Liga I;Romania
-242.;FC Univ. Cluj ;Romanian Liga I;Romania
-246.;FCSB ;Romanian Liga I;Romania
-449.;Politehnica Iași ;Romanian Liga I;Romania
-522.;SC Oțelul Galați ;Romanian Liga I;Romania
-528.;Sepsi OSK ;Romanian Liga I;Romania
-616.;Unirea Slobozia ;Romanian Liga I;Romania
-617.;Univ. Craiova ;Romanian Liga I;Romania
-622.;UTA Arad ;Romanian Liga I;Romania
-20.;Al Ahli ;Saudi Professional League;Arabia Saudita
-22.;Al Fateh ;Saudi Professional League;Arabia Saudita
-23.;Al Fayha ;Saudi Professional League;Arabia Saudita
-24.;Al Hilal ;Saudi Professional League;Arabia Saudita
-25.;Al Ittihad ;Saudi Professional League;Arabia Saudita
-26.;Al Khaleej ;Saudi Professional League;Arabia Saudita
-27.;Al Kholood ;Saudi Professional League;Arabia Saudita
-28.;Al Nassr ;Saudi Professional League;Arabia Saudita
-29.;Al Okhdood ;Saudi Professional League;Arabia Saudita
-30.;Al Orobah ;Saudi Professional League;Arabia Saudita
-31.;Al Qadisiyah ;Saudi Professional League;Arabia Saudita
-32.;Al Raed ;Saudi Professional League;Arabia Saudita
-33.;Al Riyadh ;Saudi Professional League;Arabia Saudita
-34.;Al Shabab ;Saudi Professional League;Arabia Saudita
-35.;Al Taawoun ;Saudi Professional League;Arabia Saudita
-36.;Al Wehda ;Saudi Professional League;Arabia Saudita
-168.;Damac FC ;Saudi Professional League;Arabia Saudita
-199.;Ettifaq FC ;Saudi Professional League;Arabia Saudita
-7.;Aberdeen ;Scottish Premiership;Scozia
-127.;Celtic ;Scottish Premiership;Scozia
-185.;Dundee FC ;Scottish Premiership;Scozia
-186.;Dundee United ;Scottish Premiership;Scozia
-296.;Hearts ;Scottish Premiership;Scozia
-302.;Hibernian ;Scottish Premiership;Scozia
-340.;Kilmarnock ;Scottish Premiership;Scozia
-400.;Motherwell ;Scottish Premiership;Scozia
-473.;Rangers ;Scottish Premiership;Scozia
-500.;Ross County ;Scottish Premiership;Scozia
-565.;St. Johnstone ;Scottish Premiership;Scozia
-567.;St. Mirren ;Scottish Premiership;Scozia
-57.;Athletic Club ;Spanish Primera Division;Spagna
-60.;Atlético de Madrid ;Spanish Primera Division;Spagna
-109.;CA Osasuna ;Spanish Primera Division;Spagna
-124.;CD Leganés ;Spanish Primera Division;Spagna
-164.;D. Alavés ;Spanish Primera Division;Spagna
-209.;FC Barcelona ;Spanish Primera Division;Spagna
-269.;Getafe CF ;Spanish Primera Division;Spagna
-274.;Girona FC ;Spanish Primera Division;Spagna
-466.;R. Valladolid CF ;Spanish Primera Division;Spagna
-474.;Rayo Vallecano ;Spanish Primera Division;Spagna
-478.;RC Celta ;Spanish Primera Division;Spagna
-481.;RCD Espanyol ;Spanish Primera Division;Spagna
-482.;RCD Mallorca ;Spanish Primera Division;Spagna
-484.;Real Betis ;Spanish Primera Division;Spagna
-485.;Real Madrid ;Spanish Primera Division;Spagna
-487.;Real Sociedad ;Spanish Primera Division;Spagna
-530.;Sevilla FC ;Spanish Primera Division;Spagna
-609.;UD Las Palmas ;Spanish Primera Division;Spagna
-623.;Valencia CF ;Spanish Primera Division;Spagna
-637.;Villarreal CF ;Spanish Primera Division;Spagna
-38.;Albacete BP ;Spanish Segunda División;Spagna
-106.;Burgos CF ;Spanish Segunda División;Spagna
-110.;Cádiz CF ;Spanish Segunda División;Spagna
-122.;CD Castellón ;Spanish Segunda División;Spagna
-123.;CD Eldense ;Spanish Segunda División;Spagna
-125.;CD Mirandés ;Spanish Segunda División;Spagna
-126.;CD Tenerife ;Spanish Segunda División;Spagna
-156.;Córdoba CF ;Spanish Segunda División;Spagna
-191.;Elche CF ;Spanish Segunda División;Spagna
-213.;FC Cartagena ;Spanish Segunda División;Spagna
-280.;Granada CF ;Spanish Segunda División;Spagna
-361.;Levante UD ;Spanish Segunda División;Spagna
-375.;Málaga CF ;Spanish Segunda División;Spagna
-462.;R. Oviedo ;Spanish Segunda División;Spagna
-463.;R. Racing Club ;Spanish Segunda División;Spagna
-464.;R. Sporting ;Spanish Segunda División;Spagna
-469.;Racing de Ferrol ;Spanish Segunda División;Spagna
-479.;RC Deportivo ;Spanish Segunda División;Spagna
-489.;Real Zaragoza ;Spanish Segunda División;Spagna
-526.;SD Eibar ;Spanish Segunda División;Spagna
-527.;SD Huesca ;Spanish Segunda División;Spagna
-608.;UD Almería ;Spanish Segunda División;Spagna
-17.;AIK ;Swedish Allsvenskan;Svezia
-82.;BK Häcken ;Swedish Allsvenskan;Svezia
-103.;Brommapojkarna ;Swedish Allsvenskan;Svezia
-181.;Djurgårdens IF ;Swedish Allsvenskan;Svezia
-262.;GAIS ;Swedish Allsvenskan;Svezia
-287.;Halmstads BK ;Swedish Allsvenskan;Svezia
-290.;Hammarby IF ;Swedish Allsvenskan;Svezia
-312.;IF Elfsborg ;Swedish Allsvenskan;Svezia
-313.;IFK Göteborg ;Swedish Allsvenskan;Svezia
-314.;IFK Norrköping ;Swedish Allsvenskan;Svezia
-315.;IFK Värnamo ;Swedish Allsvenskan;Svezia
-316.;IK Sirius ;Swedish Allsvenskan;Svezia
-334.;Kalmar FF ;Swedish Allsvenskan;Svezia
-376.;Malmö FF ;Swedish Allsvenskan;Svezia
-390.;Mjällby AIF ;Swedish Allsvenskan;Svezia
-624.;Västerås SK ;Swedish Allsvenskan;Svezia
-105.;BSC Young Boys ;Swiss Super League;Svizzera
-210.;FC Basel 1893 ;Swiss Super League;Svizzera
-226.;FC Lugano ;Swiss Super League;Svizzera
-227.;FC Luzern ;Swiss Super League;Svizzera
-238.;FC Sion ;Swiss Super League;Svizzera
-239.;FC St. Gallen ;Swiss Super League;Svizzera
-244.;FC Winterthur ;Swiss Super League;Svizzera
-245.;FC Zürich ;Swiss Super League;Svizzera
-267.;GC Zürich ;Swiss Super League;Svizzera
-352.;Lausanne-Sport ;Swiss Super League;Svizzera
-529.;Servette FC ;Swiss Super League;Svizzera
-660.;Yverdon Sport FC ;Swiss Super League;Svizzera
-10.;Adana Demirspor ;Turkish Süper Lig;Turchia
-37.;Alanyaspor ;Turkish Süper Lig;Turchia
-47.;Antalyaspor ;Turkish Süper Lig;Turchia
-74.;Başakşehir ;Turkish Süper Lig;Turchia
-80.;Beşiktaş ;Turkish Süper Lig;Turchia
-88.;Bodrum FK ;Turkish Süper Lig;Turchia
-121.;Çaykur Rizespor ;Turkish Süper Lig;Turchia
-203.;Eyüpspor ;Turkish Süper Lig;Turchia
-248.;Fenerbahçe ;Turkish Süper Lig;Turchia
-263.;Galatasaray ;Turkish Süper Lig;Turchia
-266.;Gaziantep ;Turkish Süper Lig;Turchia
-279.;Göztepe ;Turkish Süper Lig;Turchia
-294.;Hatayspor ;Turkish Süper Lig;Turchia
-336.;Kasımpaşa ;Turkish Süper Lig;Turchia
-337.;Kayserispor ;Turkish Süper Lig;Turchia
-341.;Konyaspor ;Turkish Süper Lig;Turchia
-511.;Samsunspor ;Turkish Süper Lig;Turchia
-541.;Sivasspor ;Turkish Süper Lig;Turchia
-601.;Trabzonspor ;Turkish Süper Lig;Turchia
-21.;Al Ain FC ;UAE Pro League;Emirati Arabi
-189.;Dynamo Kyiv ;Ukrainian Premier League;Ucraina
-531.;Shakhtar Donetsk ;Ukrainian Premier League;Ucraina
-59.;Atlanta United ;USA Major League Soccer;USA
-63.;Austin FC ;USA Major League Soccer;USA
-134.;CF Montréal ;USA Major League Soccer;USA
-137.;Charlotte FC ;USA Major League Soccer;USA
-143.;Chicago Fire FC ;USA Major League Soccer;USA
-152.;Colorado Rapids ;USA Major League Soccer;USA
-153.;Columbus Crew ;USA Major League Soccer;USA
-165.;D.C. United ;USA Major League Soccer;USA
-214.;FC Cincinnati ;USA Major League Soccer;USA
-215.;FC Dallas ;USA Major League Soccer;USA
-305.;Houston Dynamo ;USA Major League Soccer;USA
-322.;Inter Miami CF ;USA Major League Soccer;USA
-348.;LA Galaxy ;USA Major League Soccer;USA
-369.;Los Angeles FC ;USA Major League Soccer;USA
-389.;Minnesota United ;USA Major League Soccer;USA
-408.;Nashville SC ;USA Major League Soccer;USA
-409.;New England ;USA Major League Soccer;USA
-410.;New York City FC ;USA Major League Soccer;USA
-428.;Orlando City ;USA Major League Soccer;USA
-442.;Philadelphia ;USA Major League Soccer;USA
-451.;Portland Timbers ;USA Major League Soccer;USA
-486.;Real Salt Lake ;USA Major League Soccer;USA
-490.;Red Bulls ;USA Major League Soccer;USA
-542.;SJ Earthquakes ;USA Major League Soccer;USA
-551.;Sounders FC ;USA Major League Soccer;USA
-560.;Sporting KC ;USA Major League Soccer;USA
-566.;St. Louis CITY SC ;USA Major League Soccer;USA
-598.;Toronto FC ;USA Major League Soccer;USA
-648.;Whitecaps FC ;USA Major League Soccer;USA
-41.;Alianza Lima ;Venezuelan Primera División;Venezuela
-69.;Barcelona SC ;Venezuelan Primera División;Venezuela
-90.;Bolívar ;Venezuelan Primera División;Venezuela
-115.;Caracas FC ;Venezuelan Primera División;Venezuela
-132.;Cerro Porteño ;Venezuelan Primera División;Venezuela
-149.;Cobresal ;Venezuelan Primera División;Venezuela
-151.;Colo-Colo ;Venezuelan Primera División;Venezuela
-176.;Dep. Táchira ;Venezuelan Primera División;Venezuela
-198.;Estudiantes ;Venezuelan Primera División;Venezuela
-306.;Huachipato ;Venezuelan Primera División;Venezuela
-311.;IDV ;Venezuelan Primera División;Venezuela
-329.;Junior ;Venezuelan Primera División;Venezuela
-354.;LDU Quito ;Venezuelan Primera División;Venezuela
-363.;Libertad ;Venezuelan Primera División;Venezuela
-367.;Liverpool F.C. (Montevideo) ;Venezuelan Primera División;Venezuela
-387.;Millonarios ;Venezuelan Primera División;Venezuela
-405.;Nacional ;Venezuelan Primera División;Venezuela
-431.;Palestino ;Venezuelan Primera División;Venezuela
-439.;Peñarol ;Venezuelan Primera División;Venezuela
-494.;River Plate ;Venezuelan Primera División;Venezuela
-498.;Rosario Central ;Venezuelan Primera División;Venezuela
-512.;San Lorenzo ;Venezuelan Primera División;Venezuela
-592.;Talleres ;Venezuelan Primera División;Venezuela
-594.;The Strongest ;Venezuelan Primera División;Venezuela
-618.;Universitario ;Venezuelan Primera División;Venezuela
+﻿Team;Championship;Nationality;fifa_version
+Manchester City;Premier League;England;FIFA 25
+Real Madrid;La Liga;Spain;FIFA 25
+Liverpool;Premier League;England;FIFA 25
+FC Bayern M√ºnchen;Bundesliga;Germany;FIFA 25
+Inter;Serie A;Italy;FIFA 25
+FC Barcelona;La Liga;Spain;FIFA 25
+Arsenal;Premier League;England;FIFA 25
+Bayer 04 Leverkusen;Bundesliga;Germany;FIFA 25
+Paris Saint-Germain;Ligue 1;France;FIFA 25
+Atl√©tico Madrid;La Liga;Spain;FIFA 25
+Aston Villa;Premier League;England;FIFA 25
+Newcastle United;Premier League;England;FIFA 25
+Tottenham Hotspur;Premier League;England;FIFA 25
+Borussia Dortmund;Bundesliga;Germany;FIFA 25
+AC Milan;Serie A;Italy;FIFA 25
+Chelsea;Premier League;England;FIFA 25
+Manchester United;Premier League;England;FIFA 25
+RB Leipzig;Bundesliga;Germany;FIFA 25
+Juventus;Serie A;Italy;FIFA 25
+Fenerbah√ße SK;S√ºper Lig;T√ºrkiye;FIFA 25
+Athletic Club;La Liga;Spain;FIFA 25
+Atalanta;Serie A;Italy;FIFA 25
+Lazio;Serie A;Italy;FIFA 25
+Napoli;Serie A;Italy;FIFA 25
+Roma;Serie A;Italy;FIFA 25
+Galatasaray SK;S√ºper Lig;T√ºrkiye;FIFA 25
+SL Benfica;Primeira Liga;Portugal;FIFA 25
+Sporting CP;Primeira Liga;Portugal;FIFA 25
+Crystal Palace;Premier League;England;FIFA 25
+Nottingham Forest;Premier League;England;FIFA 25
+Brighton & Hove Albion;Premier League;England;FIFA 25
+West Ham United;Premier League;England;FIFA 25
+Real Betis Balompi√©;La Liga;Spain;FIFA 25
+Real Sociedad;La Liga;Spain;FIFA 25
+Olympique de Marseille;Ligue 1;France;FIFA 25
+Villarreal CF;La Liga;Spain;FIFA 25
+Girona FC;La Liga;Spain;FIFA 25
+PSV;Eredivisie;Netherlands;FIFA 25
+Eintracht Frankfurt;Bundesliga;Germany;FIFA 25
+VfB Stuttgart;Bundesliga;Germany;FIFA 25
+Fiorentina;Serie A;Italy;FIFA 25
+Lille OSC;Ligue 1;France;FIFA 25
+Olympique Lyonnais;Ligue 1;France;FIFA 25
+AS Monaco;Ligue 1;France;FIFA 25
+OGC Nice;Ligue 1;France;FIFA 25
+River Plate;Liga Profesional de F√∫tbol;Argentina;FIFA 25
+Al Hilal;Pro League;Saudi Arabia;FIFA 25
+Brentford;Premier League;England;FIFA 25
+Fulham FC;Premier League;England;FIFA 25
+AFC Bournemouth;Premier League;England;FIFA 25
+VfL Wolfsburg;Bundesliga;Germany;FIFA 25
+Valencia CF;La Liga;Spain;FIFA 25
+CA Osasuna;La Liga;Spain;FIFA 25
+Rayo Vallecano;La Liga;Spain;FIFA 25
+Everton;Premier League;England;FIFA 25
+Al Nassr;Pro League;Saudi Arabia;FIFA 25
+Flamengo;S√©rie A;Brazil;FIFA 25
+Borussia M√∂nchengladbach;Bundesliga;Germany;FIFA 25
+Olympiacos FC;Super League;Greece;FIFA 25
+SC Freiburg;Bundesliga;Germany;FIFA 25
+Torino;Serie A;Italy;FIFA 25
+Be≈üikta≈ü JK;S√ºper Lig;T√ºrkiye;FIFA 25
+Stade Rennais FC;Ligue 1;France;FIFA 25
+Wolverhampton Wanderers;Premier League;England;FIFA 25
+Stade Brestois 29;Ligue 1;France;FIFA 25
+Bologna;Serie A;Italy;FIFA 25
+RC Celta;La Liga;Spain;FIFA 25
+RCD Mallorca;La Liga;Spain;FIFA 25
+Sevilla FC;La Liga;Spain;FIFA 25
+FC Porto;Primeira Liga;Portugal;FIFA 25
+Ajax;Eredivisie;Netherlands;FIFA 25
+Feyenoord;Eredivisie;Netherlands;FIFA 25
+Al Ahli SFC;Pro League;Saudi Arabia;FIFA 25
+Botafogo;S√©rie A;Brazil;FIFA 25
+Atl√©tico Mineiro;S√©rie A;Brazil;FIFA 25
+AEK Athens;Super League;Greece;FIFA 25
+SV Werder Bremen;Bundesliga;Germany;FIFA 25
+1. FC Union Berlin;Bundesliga;Germany;FIFA 25
+TSG 1899 Hoffenheim;Bundesliga;Germany;FIFA 25
+RC Lens;Ligue 1;France;FIFA 25
+Getafe CF;La Liga;Spain;FIFA 25
+Celtic;Premiership;Scotland;FIFA 25
+Ipswich Town;Premier League;England;FIFA 25
+Leicester City;Premier League;England;FIFA 25
+Palmeiras;S√©rie A;Brazil;FIFA 25
+1. FSV Mainz 05;Bundesliga;Germany;FIFA 25
+Trabzonspor;S√ºper Lig;T√ºrkiye;FIFA 25
+Como;Serie A;Italy;FIFA 25
+UD Las Palmas;La Liga;Spain;FIFA 25
+Burnley;Championship;England;FIFA 25
+Leeds United;Championship;England;FIFA 25
+SK Slavia Praha;Prvn√≠ liga;Czechia;FIFA 25
+Sparta Praha;Prvn√≠ liga;Czechia;FIFA 25
+Southampton;Premier League;England;FIFA 25
+Internacional;S√©rie A;Brazil;FIFA 25
+CD Legan√©s;La Liga;Spain;FIFA 25
+FC Augsburg;Bundesliga;Germany;FIFA 25
+FC Nantes;Ligue 1;France;FIFA 25
+RC Strasbourg Alsace;Ligue 1;France;FIFA 25
+Boca Juniors;Liga Profesional de F√∫tbol;Argentina;FIFA 25
+Rangers FC;Premiership;Scotland;FIFA 25
+Panathinaikos FC;Super League;Greece;FIFA 25
+Al Ittihad;Pro League;Saudi Arabia;FIFA 25
+Sporting Clube de Braga;Primeira Liga;Portugal;FIFA 25
+PAOK;Super League;Greece;FIFA 25
+RCD Espanyol;La Liga;Spain;FIFA 25
+Deportivo Alav√©s;La Liga;Spain;FIFA 25
+Club Brugge KV;Pro League;Belgium;FIFA 25
+Sheffield United;Championship;England;FIFA 25
+Corinthians;S√©rie A;Brazil;FIFA 25
+Toulouse FC;Ligue 1;France;FIFA 25
+Talleres;Liga Profesional de F√∫tbol;Argentina;FIFA 25
+Parma;Serie A;Italy;FIFA 25
+Cagliari;Serie A;Italy;FIFA 25
+Udinese;Serie A;Italy;FIFA 25
+UD Almer√≠a;La Liga 2;Spain;FIFA 25
+Montpellier HSC;Ligue 1;France;FIFA 25
+Ferencv√°rosi Torna Club;Nemzeti Bajnoks√°g I;Hungary;FIFA 25
+S√£o Paulo;S√©rie A;Brazil;FIFA 25
+Lecce;Serie A;Italy;FIFA 25
+Stade de Reims;Ligue 1;France;FIFA 25
+VfL Bochum 1848;Bundesliga;Germany;FIFA 25
+Monza;Serie A;Italy;FIFA 25
+Hellas Verona FC;Serie A;Italy;FIFA 25
+Estudiantes de La Plata;Liga Profesional de F√∫tbol;Argentina;FIFA 25
+Genoa;Serie A;Italy;FIFA 25
+Racing Club;Liga Profesional de F√∫tbol;Argentina;FIFA 25
+RSC Anderlecht;Pro League;Belgium;FIFA 25
+Inter Miami;Major League Soccer;United States;FIFA 25
+Middlesbrough;Championship;England;FIFA 25
+1. FC K√∂ln;2. Bundesliga;Germany;FIFA 25
+FC K√∏benhavn;Superliga;Denmark;FIFA 25
+Palermo FC;Serie B;Italy;FIFA 25
+Fluminense;S√©rie A;Brazil;FIFA 25
+Cruzeiro;S√©rie A;Brazil;FIFA 25
+AJ Auxerre;Ligue 1;France;FIFA 25
+Lan√∫s;Liga Profesional de F√∫tbol;Argentina;FIFA 25
+Bahia;S√©rie A;Brazil;FIFA 25
+Gr√™mio;S√©rie A;Brazil;FIFA 25
+Los Angeles FC;Major League Soccer;United States;FIFA 25
+Sassuolo;Serie B;Italy;FIFA 25
+Sunderland;Championship;England;FIFA 25
+FC Twente;Eredivisie;Netherlands;FIFA 25
+Luton Town;Championship;England;FIFA 25
+1. FC Heidenheim 1846;Bundesliga;Germany;FIFA 25
+Viktoria Plze≈à;Prvn√≠ liga;Czechia;FIFA 25
+Medipol Ba≈üak≈üehir FK;S√ºper Lig;T√ºrkiye;FIFA 25
+KRC Genk;Pro League;Belgium;FIFA 25
+Dynamo Kyiv;Premier League;Ukraine;FIFA 25
+Shakhtar Donetsk;Premier League;Ukraine;FIFA 25
+Le Havre AC;Ligue 1;France;FIFA 25
+Real Valladolid CF;La Liga;Spain;FIFA 25
+Empoli;Serie A;Italy;FIFA 25
+V√©lez Sarsfield;Liga Profesional de F√∫tbol;Argentina;FIFA 25
+Royal Antwerp FC;Pro League;Belgium;FIFA 25
+FC St. Pauli;Bundesliga;Germany;FIFA 25
+Coventry City;Championship;England;FIFA 25
+Independiente;Liga Profesional de F√∫tbol;Argentina;FIFA 25
+AS Saint-√âtienne;Ligue 1;France;FIFA 25
+Hamburger SV;2. Bundesliga;Germany;FIFA 25
+Sampdoria;Serie B;Italy;FIFA 25
+Al Shabab;Pro League;Saudi Arabia;FIFA 25
+Newell's Old Boys;Liga Profesional de F√∫tbol;Argentina;FIFA 25
+Al Ain;Pro League;United Arab Emirates;FIFA 25
+Vit√≥ria SC;Primeira Liga;Portugal;FIFA 25
+West Bromwich Albion;Championship;England;FIFA 25
+AZ Alkmaar;Eredivisie;Netherlands;FIFA 25
+Colo-Colo;Primera Division;Chile;FIFA 25
+Hull City;Championship;England;FIFA 25
+KAA Gent;Pro League;Belgium;FIFA 25
+Argentinos Juniors;Liga Profesional de F√∫tbol;Argentina;FIFA 25
+Belgrano de C√≥rdoba;Liga Profesional de F√∫tbol;Argentina;FIFA 25
+C√°diz CF;La Liga 2;Spain;FIFA 25
+LA Galaxy;Major League Soccer;United States;FIFA 25
+FC Red Bull Salzburg;Bundesliga;Austria;FIFA 25
+Real Sporting de Gij√≥n;La Liga 2;Spain;FIFA 25
+Fortaleza;S√©rie A;Brazil;FIFA 25
+Venezia;Serie A;Italy;FIFA 25
+Dinamo Zagreb;Hrvatska nogometna liga;Croatia;FIFA 25
+FC Lorient;Ligue 2;France;FIFA 25
+Club Nacional de Football;Primera Divisi√≥n;Uruguay;FIFA 25
+Union Saint-Gilloise;Pro League;Belgium;FIFA 25
+Real Oviedo;La Liga 2;Spain;FIFA 25
+Kasƒ±mpa≈üa SK;S√ºper Lig;T√ºrkiye;FIFA 25
+Atl√©tico Nacional;Categor√≠a Primera A;Colombia;FIFA 25
+Granada CF;La Liga 2;Spain;FIFA 25
+Rosario Central;Liga Profesional de F√∫tbol;Argentina;FIFA 25
+Atlanta United;Major League Soccer;United States;FIFA 25
+Pe√±arol;Primera Divisi√≥n;Uruguay;FIFA 25
+Angers SCO;Ligue 1;France;FIFA 25
+FC Cincinnati;Major League Soccer;United States;FIFA 25
+Norwich City;Championship;England;FIFA 25
+Blackburn Rovers;Championship;England;FIFA 25
+Watford;Championship;England;FIFA 25
+Hajduk Split;Hrvatska nogometna liga;Croatia;FIFA 25
+Al Qadsiah FC;Pro League;Saudi Arabia;FIFA 25
+Preston North End;Championship;England;FIFA 25
+Al Taawoun FC;Pro League;Saudi Arabia;FIFA 25
+Br√∏ndby IF;Superliga;Denmark;FIFA 25
+Queens Park Rangers;Championship;England;FIFA 25
+Aarhus Gymnastikforening;Superliga;Denmark;FIFA 25
+Sheffield Wednesday;Championship;England;FIFA 25
+GD Estoril Praia;Primeira Liga;Portugal;FIFA 25
+APOEL FC;1. Division;Cyprus;FIFA 25
+Seattle Sounders FC;Major League Soccer;United States;FIFA 25
+Fortuna D√ºsseldorf;2. Bundesliga;Germany;FIFA 25
+Vasco da Gama;S√©rie A;Brazil;FIFA 25
+Levante UD;La Liga 2;Spain;FIFA 25
+Malm√∂ FF;Allsvenskan;Sweden;FIFA 25
+Holstein Kiel;Bundesliga;Germany;FIFA 25
+FC Metz;Ligue 2;France;FIFA 25
+Cremonese;Serie B;Italy;FIFA 25
+Cerro Porte√±o;Divisi√≥n Profesional;Paraguay;FIFA 25
+Birmingham City;League One;England;FIFA 25
+Godoy Cruz;Liga Profesional de F√∫tbol;Argentina;FIFA 25
+Burgos CF;La Liga 2;Spain;FIFA 25
+Defensa y Justicia;Liga Profesional de F√∫tbol;Argentina;FIFA 25
+Hurac√°n;Liga Profesional de F√∫tbol;Argentina;FIFA 25
+Millwall FC;Championship;England;FIFA 25
+Ey√ºpspor;S√ºper Lig;T√ºrkiye;FIFA 25
+FC Utrecht;Eredivisie;Netherlands;FIFA 25
+St. Louis CITY SC;Major League Soccer;United States;FIFA 25
+Bristol City;Championship;England;FIFA 25
+FC Basel 1893;Super League;Switzerland;FIFA 25
+FC Arouca;Primeira Liga;Portugal;FIFA 25
+BSC Young Boys;Super League;Switzerland;FIFA 25
+LDU Quito;Serie A;Ecuador;FIFA 25
+Spezia;Serie B;Italy;FIFA 25
+Alianza Lima;Liga 1;Peru;FIFA 25
+Sporting Cristal;Liga 1;Peru;FIFA 25
+Hertha BSC;2. Bundesliga;Germany;FIFA 25
+SV Darmstadt 98;2. Bundesliga;Germany;FIFA 25
+Universitario de Deportes;Liga 1;Peru;FIFA 25
+Cardiff City;Championship;England;FIFA 25
+Universidad de Chile;Primera Division;Chile;FIFA 25
+Paris FC;Ligue 2;France;FIFA 25
+Charlotte FC;Major League Soccer;United States;FIFA 25
+Elche CF;La Liga 2;Spain;FIFA 25
+Gimnasia y Esgrima La Plata;Liga Profesional de F√∫tbol;Argentina;FIFA 25
+Hannover 96;2. Bundesliga;Germany;FIFA 25
+Am√©rica de Cali;Categor√≠a Primera A;Colombia;FIFA 25
+Samsunspor;S√ºper Lig;T√ºrkiye;FIFA 25
+FC Midtjylland;Superliga;Denmark;FIFA 25
+RC Deportivo de La Coru√±a;La Liga 2;Spain;FIFA 25
+Real Zaragoza;La Liga 2;Spain;FIFA 25
+Club Olimpia;Divisi√≥n Profesional;Paraguay;FIFA 25
+San Lorenzo de Almagro;Liga Profesional de F√∫tbol;Argentina;FIFA 25
+Independiente del Valle;Serie A;Ecuador;FIFA 25
+Stoke City;Championship;England;FIFA 25
+1. FC Kaiserslautern;2. Bundesliga;Germany;FIFA 25
+FC Schalke 04;2. Bundesliga;Germany;FIFA 25
+Portland Timbers;Major League Soccer;United States;FIFA 25
+US Salernitana 1919;Serie B;Italy;FIFA 25
+Karlsruher SC;2. Bundesliga;Germany;FIFA 25
+FC Lugano;Super League;Switzerland;FIFA 25
+Platense;Liga Profesional de F√∫tbol;Argentina;FIFA 25
+San Jose Earthquakes;Major League Soccer;United States;FIFA 25
+Servette FC;Super League;Switzerland;FIFA 25
+Central Cordoba SdE;Liga Profesional de F√∫tbol;Argentina;FIFA 25
+FC Lausanne-Sport;Super League;Switzerland;FIFA 25
+Casa Pia;Primeira Liga;Portugal;FIFA 25
+Hearts;Premiership;Scotland;FIFA 25
+Derby County;Championship;England;FIFA 25
+Atl√©tico Tucum√°n;Liga Profesional de F√∫tbol;Argentina;FIFA 25
+Gil Vicente FC;Primeira Liga;Portugal;FIFA 25
+CD Nacional;Primeira Liga;Portugal;FIFA 25
+Club Atl√©tico Uni√≥n;Liga Profesional de F√∫tbol;Argentina;FIFA 25
+Lech Pozna≈Ñ;Ekstraklasa;Poland;FIFA 25
+Instituto Atl√©tico Central C√≥rdoba;Liga Profesional de F√∫tbol;Argentina;FIFA 25
+Boavista FC;Primeira Liga;Portugal;FIFA 25
+Moreirense FC;Primeira Liga;Portugal;FIFA 25
+NEC Nijmegen;Eredivisie;Netherlands;FIFA 25
+FC St.Gallen 1879;Super League;Switzerland;FIFA 25
+KV Mechelen;Pro League;Belgium;FIFA 25
+Barcelona de Guayaquil;Serie A;Ecuador;FIFA 25
+AVS Futebol SAD;Primeira Liga;Portugal;FIFA 25
+Pisa;Serie B;Italy;FIFA 25
+Barracas Central;Liga Profesional de F√∫tbol;Argentina;FIFA 25
+FK Bod√∏/Glimt;Eliteserien;Norway;FIFA 25
+FCSB;Liga I;Romania;FIFA 25
+Royal Charleroi Sporting Club;Pro League;Belgium;FIFA 25
+Santa Clara;Primeira Liga;Portugal;FIFA 25
+Libertad;Divisi√≥n Profesional;Paraguay;FIFA 25
+Sint-Truidense VV;Pro League;Belgium;FIFA 25
+Swansea City;Championship;England;FIFA 25
+KVC Westerlo;Pro League;Belgium;FIFA 25
+Famalic√£o;Primeira Liga;Portugal;FIFA 25
+√áaykur Rizespor;S√ºper Lig;T√ºrkiye;FIFA 25
+Columbus Crew;Major League Soccer;United States;FIFA 25
+New York Red Bulls;Major League Soccer;United States;FIFA 25
+Sivasspor;S√ºper Lig;T√ºrkiye;FIFA 25
+New England Revolution;Major League Soccer;United States;FIFA 25
+Vit√≥ria;S√©rie A;Brazil;FIFA 25
+Sporting Kansas City;Major League Soccer;United States;FIFA 25
+Gaziantep FK;S√ºper Lig;T√ºrkiye;FIFA 25
+Houston Dynamo;Major League Soccer;United States;FIFA 25
+Ulsan HD FC;K League 1;Korea Republic;FIFA 25
+BK H√§cken;Allsvenskan;Sweden;FIFA 25
+Racing Santander;La Liga 2;Spain;FIFA 25
+Modena;Serie B;Italy;FIFA 25
+SK Sturm Graz;Bundesliga;Austria;FIFA 25
+SD Eibar;La Liga 2;Spain;FIFA 25
+Orlando City SC;Major League Soccer;United States;FIFA 25
+Al Ettifaq;Pro League;Saudi Arabia;FIFA 25
+Qarabaƒü FK;Premyer Liqa;Azerbaijan;FIFA 25
+Standard de Li√®ge;Pro League;Belgium;FIFA 25
+Rio Ave FC;Primeira Liga;Portugal;FIFA 25
+Farense;Primeira Liga;Portugal;FIFA 25
+Nashville SC;Major League Soccer;United States;FIFA 25
+Oud-Heverlee Leuven;Pro League;Belgium;FIFA 25
+Vancouver Whitecaps FC;Major League Soccer;United States;FIFA 25
+LASK Linz;Bundesliga;Austria;FIFA 25
+1. FC Magdeburg;2. Bundesliga;Germany;FIFA 25
+SK Rapid;Bundesliga;Austria;FIFA 25
+Portsmouth;Championship;England;FIFA 25
+FK Austria Wien;Bundesliga;Austria;FIFA 25
+CD Tenerife;La Liga 2;Spain;FIFA 25
+Philadelphia Union;Major League Soccer;United States;FIFA 25
+Go Ahead Eagles;Eredivisie;Netherlands;FIFA 25
+Minnesota United FC;Major League Soccer;United States;FIFA 25
+Toronto FC;Major League Soccer;United States;FIFA 25
+CD Eldense;La Liga 2;Spain;FIFA 25
+Sparta Rotterdam;Eredivisie;Netherlands;FIFA 25
+Frosinone;Serie B;Italy;FIFA 25
+SC Paderborn 07;2. Bundesliga;Germany;FIFA 25
+SSC Bari;Serie B;Italy;FIFA 25
+Bodrumspor;S√ºper Lig;T√ºrkiye;FIFA 25
+Catanzaro;Serie B;Italy;FIFA 25
+M√°laga CF;La Liga 2;Spain;FIFA 25
+Cesena FC;Serie B;Italy;FIFA 25
+SV Elversberg;2. Bundesliga;Germany;FIFA 25
+Club Atl√©tico Sarmiento;Liga Profesional de F√∫tbol;Argentina;FIFA 25
+Aberdeen;Premiership;Scotland;FIFA 25
+Legia Warszawa;Ekstraklasa;Poland;FIFA 25
+Atl√©tico Bucaramanga;Categor√≠a Primera A;Colombia;FIFA 25
+Tigre;Liga Profesional de F√∫tbol;Argentina;FIFA 25
+Shandong Taishan;Super League;China PR;FIFA 25
+Bol√≠var;Divisi√≥n de F√∫tbol Profesional;Bolivia;FIFA 25
+Fortuna Sittard;Eredivisie;Netherlands;FIFA 25
+Universidad Cat√≥lica;Primera Division;Chile;FIFA 25
+Uni√≥n Espa√±ola;Primera Division;Chile;FIFA 25
+Plymouth Argyle;Championship;England;FIFA 25
+Al Riyadh;Pro League;Saudi Arabia;FIFA 25
+Rak√≥w Czƒôstochowa;Ekstraklasa;Poland;FIFA 25
+Jagiellonia Bia≈Çystok;Ekstraklasa;Poland;FIFA 25
+Shanghai Port;Super League;China PR;FIFA 25
+Oxford United;Championship;England;FIFA 25
+Molde FK;Eliteserien;Norway;FIFA 25
+G√∂ztepe SK;S√ºper Lig;T√ºrkiye;FIFA 25
+SpVgg Greuther F√ºrth;2. Bundesliga;Germany;FIFA 25
+Konyaspor;S√ºper Lig;T√ºrkiye;FIFA 25
+1. FC N√ºrnberg;2. Bundesliga;Germany;FIFA 25
+Independiente Rivadavia;Liga Profesional de F√∫tbol;Argentina;FIFA 25
+AIK;Allsvenskan;Sweden;FIFA 25
+Chicago Fire;Major League Soccer;United States;FIFA 25
+Colorado Rapids;Major League Soccer;United States;FIFA 25
+FC Dallas;Major League Soccer;United States;FIFA 25
+Pohang Steelers;K League 1;Korea Republic;FIFA 25
+Estrela da Amadora;Primeira Liga;Portugal;FIFA 25
+Daejeon Citizen;K League 1;Korea Republic;FIFA 25
+Cercle Brugge KSV;Pro League;Belgium;FIFA 25
+Real Salt Lake;Major League Soccer;United States;FIFA 25
+Antalyaspor;S√ºper Lig;T√ºrkiye;FIFA 25
+FBC Melgar;Liga 1;Peru;FIFA 25
+KV Kortrijk;Pro League;Belgium;FIFA 25
+Austin FC;Major League Soccer;United States;FIFA 25
+CD Mirand√©s;La Liga 2;Spain;FIFA 25
+Alanyaspor;S√ºper Lig;T√ºrkiye;FIFA 25
+SD Huesca;La Liga 2;Spain;FIFA 25
+Randers FC;Superliga;Denmark;FIFA 25
+Rotherham United;League One;England;FIFA 25
+Al Raed;Pro League;Saudi Arabia;FIFA 25
+Cosenza;Serie B;Italy;FIFA 25
+Viking FK;Eliteserien;Norway;FIFA 25
+Universitatea Craiova;Liga I;Romania;FIFA 25
+En Avant Guingamp;Ligue 2;France;FIFA 25
+Albacete Balompi√©;La Liga 2;Spain;FIFA 25
+Damac FC;Pro League;Saudi Arabia;FIFA 25
+Grasshopper Club Z√ºrich;Super League;Switzerland;FIFA 25
+CA Banfield;Liga Profesional de F√∫tbol;Argentina;FIFA 25
+Mantova;Serie B;Italy;FIFA 25
+Hibernian;Premiership;Scotland;FIFA 25
+Shanghai Shenhua;Super League;China PR;FIFA 25
+S√ºdtirol;Serie B;Italy;FIFA 25
+NAC Breda;Eredivisie;Netherlands;FIFA 25
+SC Heerenveen;Eredivisie;Netherlands;FIFA 25
+PEC Zwolle;Eredivisie;Netherlands;FIFA 25
+FC Groningen;Eredivisie;Netherlands;FIFA 25
+FC Z√ºrich;Super League;Switzerland;FIFA 25
+FC Luzern;Super League;Switzerland;FIFA 25
+Chengdu Rongcheng;Super League;China PR;FIFA 25
+Wycombe Wanderers;League One;England;FIFA 25
+Deportivo T√°chira;Primera Division;Venezuela;FIFA 25
+Deportes Iquique;Primera Division;Chile;FIFA 25
+Reggiana;Serie B;Italy;FIFA 25
+Universidad Cat√≥lica del Ecuador;Serie A;Ecuador;FIFA 25
+Beijing Guoan;Super League;China PR;FIFA 25
+Kayserispor;S√ºper Lig;T√ºrkiye;FIFA 25
+Cienciano;Liga 1;Peru;FIFA 25
+Hatayspor;S√ºper Lig;T√ºrkiye;FIFA 25
+Eintracht Braunschweig;2. Bundesliga;Germany;FIFA 25
+Yverdon Sport;Super League;Switzerland;FIFA 25
+USL Dunkerque;Ligue 2;France;FIFA 25
+DC United;Major League Soccer;United States;FIFA 25
+FC Sion;Super League;Switzerland;FIFA 25
+IF Elfsborg;Allsvenskan;Sweden;FIFA 25
+New York City FC;Major League Soccer;United States;FIFA 25
+Brescia;Serie B;Italy;FIFA 25
+Hammarby Fotboll;Allsvenskan;Sweden;FIFA 25
+Jeonbuk Hyundai Motors;K League 1;Korea Republic;FIFA 25
+Djurg√•rdens IF;Allsvenskan;Sweden;FIFA 25
+Wolfsberger AC;Bundesliga;Austria;FIFA 25
+Stade Malherbe Caen;Ligue 2;France;FIFA 25
+FC Seoul;K League 1;Korea Republic;FIFA 25
+CFR Cluj;Liga I;Romania;FIFA 25
+CD Palestino;Primera Division;Chile;FIFA 25
+Once Caldas;Categor√≠a Primera A;Colombia;FIFA 25
+FC Cartagena;La Liga 2;Spain;FIFA 25
+Al Khaleej;Pro League;Saudi Arabia;FIFA 25
+CD Castell√≥n;La Liga 2;Spain;FIFA 25
+Bolton Wanderers;League One;England;FIFA 25
+Al Fateh;Pro League;Saudi Arabia;FIFA 25
+Gimcheon Sangmu FC;K League 1;Korea Republic;FIFA 25
+Grenoble Foot 38;Ligue 2;France;FIFA 25
+Silkeborg IF;Superliga;Denmark;FIFA 25
+Deportivo Riestra;Liga Profesional de F√∫tbol;Argentina;FIFA 25
+SC Preu√üen M√ºnster;2. Bundesliga;Germany;FIFA 25
+Almere City FC;Eredivisie;Netherlands;FIFA 25
+Stade Lavallois Mayenne FC;Ligue 2;France;FIFA 25
+Clermont Foot 63;Ligue 2;France;FIFA 25
+Amiens SC;Ligue 2;France;FIFA 25
+FCV Dender EH;Pro League;Belgium;FIFA 25
+Heracles Almelo;Eredivisie;Netherlands;FIFA 25
+Nacional Potos√≠;Divisi√≥n de F√∫tbol Profesional;Bolivia;FIFA 25
+SSV Jahn Regensburg;2. Bundesliga;Germany;FIFA 25
+CF Montr√©al;Major League Soccer;United States;FIFA 25
+Al Orobah FC;Pro League;Saudi Arabia;FIFA 25
+ESTAC Troyes;Ligue 2;France;FIFA 25
+Rosenborg BK;Eliteserien;Norway;FIFA 25
+Rodez Aveyron Football;Ligue 2;France;FIFA 25
+Rapid Bucuresti;Liga I;Romania;FIFA 25
+Sporting Club Bastia;Ligue 2;France;FIFA 25
+C√≥rdoba CF;La Liga 2;Spain;FIFA 25
+SSV Ulm 1846;2. Bundesliga;Germany;FIFA 25
+Carrarese;Serie B;Italy;FIFA 25
+RKC Waalwijk;Eredivisie;Netherlands;FIFA 25
+Willem II;Eredivisie;Netherlands;FIFA 25
+Cittadella;Serie B;Italy;FIFA 25
+Blackpool FC;League One;England;FIFA 25
+Barnsley;League One;England;FIFA 25
+Carabobo FC;Primera Division;Venezuela;FIFA 25
+Huddersfield Town;League One;England;FIFA 25
+Dinamo Bucure≈üti;Liga I;Romania;FIFA 25
+SK Brann;Eliteserien;Norway;FIFA 25
+Pogo≈Ñ Szczecin;Ekstraklasa;Poland;FIFA 25
+Auckland FC;A-League Men;Australia;FIFA 25
+Wrexham;League One;England;FIFA 25
+Cracovia;Ekstraklasa;Poland;FIFA 25
+Sportivo Luque√±o;Divisi√≥n Profesional;Paraguay;FIFA 25
+Universitatea Cluj;Liga I;Romania;FIFA 25
+Al Fayha;Pro League;Saudi Arabia;FIFA 25
+Racing de Ferrol;La Liga 2;Spain;FIFA 25
+Viborg FF;Superliga;Denmark;FIFA 25
+Jeju United FC;K League 1;Korea Republic;FIFA 25
+TSV Hartberg;Bundesliga;Austria;FIFA 25
+Guaran√≠;Divisi√≥n Profesional;Paraguay;FIFA 25
+Racing Club de Montevideo;Primera Divisi√≥n;Uruguay;FIFA 25
+Piast Gliwice;Ekstraklasa;Poland;FIFA 25
+Pau FC;Ligue 2;France;FIFA 25
+Dynamo Dresden;3. Liga;Germany;FIFA 25
+SS Juve Stabia;Serie B;Italy;FIFA 25
+Reading FC;League One;England;FIFA 25
+Daegu FC;K League 1;Korea Republic;FIFA 25
+1. FC Saarbr√ºcken;3. Liga;Germany;FIFA 25
+Al Wahda;Pro League;Saudi Arabia;FIFA 25
+FC Hansa Rostock;3. Liga;Germany;FIFA 25
+TSV 1860 M√ºnchen;3. Liga;Germany;FIFA 25
+FC Annecy;Ligue 2;France;FIFA 25
+Sydney FC;A-League Men;Australia;FIFA 25
+Lillestr√∏m SK;Eliteserien;Norway;FIFA 25
+IFK G√∂teborg;Allsvenskan;Sweden;FIFA 25
+Cerro Largo;Primera Divisi√≥n;Uruguay;FIFA 25
+Kilmarnock;Premiership;Scotland;FIFA 25
+Charlton Athletic;League One;England;FIFA 25
+Melbourne City FC;A-League Men;Australia;FIFA 25
+SV Sandhausen;3. Liga;Germany;FIFA 25
+AC Ajaccio;Ligue 2;France;FIFA 25
+Stevenage;League One;England;FIFA 25
+Wigan Athletic;League One;England;FIFA 25
+Blau-Wei√ü Linz;Bundesliga;Austria;FIFA 25
+Gwangju FC;K League 1;Korea Republic;FIFA 25
+FC Ingolstadt 04;3. Liga;Germany;FIFA 25
+Stockport County;League One;England;FIFA 25
+Lincoln City;League One;England;FIFA 25
+Al Kholood;Pro League;Saudi Arabia;FIFA 25
+Lyngby Boldklub;Superliga;Denmark;FIFA 25
+Zag≈Çƒôbie Lubin;Ekstraklasa;Poland;FIFA 25
+DSC Arminia Bielefeld;3. Liga;Germany;FIFA 25
+SC Rheindorf Altach;Bundesliga;Austria;FIFA 25
+K Beerschot VA;Pro League;Belgium;FIFA 25
+Henan FC;Super League;China PR;FIFA 25
+G√≥rnik Zabrze;Ekstraklasa;Poland;FIFA 25
+Al Akhdoud Saudi Club;Pro League;Saudi Arabia;FIFA 25
+Leyton Orient;League One;England;FIFA 25
+Atl√©tico Grau;Liga 1;Peru;FIFA 25
+Red Star FC;Ligue 2;France;FIFA 25
+Incheon United FC;K League 1;Korea Republic;FIFA 25
+Suwon FC;K League 1;Korea Republic;FIFA 25
+FC Winterthur;Super League;Switzerland;FIFA 25
+Academia Puerto Cabello;Primera Division;Venezuela;FIFA 25
+Dundee United FC;Premiership;Scotland;FIFA 25
+Mushuc Runa;Serie A;Ecuador;FIFA 25
+IFK Norrk√∂ping;Allsvenskan;Sweden;FIFA 25
+WSG Tirol;Bundesliga;Austria;FIFA 25
+Sepsi OSK;Liga I;Romania;FIFA 25
+Boston River;Primera Divisi√≥n;Uruguay;FIFA 25
+VfL Osnabr√ºck;3. Liga;Germany;FIFA 25
+SV Wehen Wiesbaden;3. Liga;Germany;FIFA 25
+Radomiak Radom;Ekstraklasa;Poland;FIFA 25
+Gangwon FC;K League 1;Korea Republic;FIFA 25
+≈ölƒÖsk Wroc≈Çaw;Ekstraklasa;Poland;FIFA 25
+SK Austria Klagenfurt;Bundesliga;Austria;FIFA 25
+FC Nordsj√¶lland;Superliga;Denmark;FIFA 25
+Rot-Weiss Essen;3. Liga;Germany;FIFA 25
+Alemannia Aachen;3. Liga;Germany;FIFA 25
+Zhejiang FC;Super League;China PR;FIFA 25
+Melbourne Victory;A-League Men;Australia;FIFA 25
+Perth Glory;A-League Men;Australia;FIFA 25
+Western Sydney Wanderers;A-League Men;Australia;FIFA 25
+Widzew ≈Å√≥d≈∫;Ekstraklasa;Poland;FIFA 25
+IK Sirius;Allsvenskan;Sweden;FIFA 25
+Aalborg Boldspilklub;Superliga;Denmark;FIFA 25
+Viktoria K√∂ln;3. Liga;Germany;FIFA 25
+Vejle Boldklub;Superliga;Denmark;FIFA 25
+Sarpsborg 08 FF;Eliteserien;Norway;FIFA 25
+Motherwell FC;Premiership;Scotland;FIFA 25
+Stal Mielec;Ekstraklasa;Poland;FIFA 25
+IF Brommapojkarna;Allsvenskan;Sweden;FIFA 25
+AS FC BuzƒÉu;Liga I;Romania;FIFA 25
+GKS Katowice;Ekstraklasa;Poland;FIFA 25
+Wuhan Three Towns;Super League;China PR;FIFA 25
+Northampton Town;League One;England;FIFA 25
+Caracas FC;Primera Division;Venezuela;FIFA 25
+Exeter City;League One;England;FIFA 25
+Peterborough United;League One;England;FIFA 25
+Mansfield Town;League One;England;FIFA 25
+Cambridge United;League One;England;FIFA 25
+Str√∏msgodset IF;Eliteserien;Norway;FIFA 25
+UTA Arad;Liga I;Romania;FIFA 25
+Qingdao West Coast FC;Super League;China PR;FIFA 25
+FC Boto≈üani;Liga I;Romania;FIFA 25
+FC Energie Cottbus;3. Liga;Germany;FIFA 25
+SC Verl;3. Liga;Germany;FIFA 25
+Bristol Rovers;League One;England;FIFA 25
+Macarthur FC;A-League Men;Australia;FIFA 25
+Dundee FC;Premiership;Scotland;FIFA 25
+SV Waldhof Mannheim;3. Liga;Germany;FIFA 25
+St. Mirren;Premiership;Scotland;FIFA 25
+Mj√§llby AIF;Allsvenskan;Sweden;FIFA 25
+San Antonio Bulo Bulo;Divisi√≥n de F√∫tbol Profesional;Bolivia;FIFA 25
+Grazer AK 1902;Bundesliga;Austria;FIFA 25
+FC Hermannstadt;Liga I;Romania;FIFA 25
+Korona Kielce;Ekstraklasa;Poland;FIFA 25
+SC O»õelul Gala»õi;Liga I;Romania;FIFA 25
+Fredrikstad FK;Eliteserien;Norway;FIFA 25
+Motor Lublin;Ekstraklasa;Poland;FIFA 25
+FC Erzgebirge Aue;3. Liga;Germany;FIFA 25
+FCV Farul Constan»õa;Liga I;Romania;FIFA 25
+Asocia»õia Clubul Sportiv Petrolul 52;Liga I;Romania;FIFA 25
+Milton Keynes Dons;League Two;England;FIFA 25
+Gualberto Villarroel SJ;Divisi√≥n de F√∫tbol Profesional;Bolivia;FIFA 25
+Adelaide United;A-League Men;Australia;FIFA 25
+Crawley Town;League One;England;FIFA 25
+Halmstads BK;Allsvenskan;Sweden;FIFA 25
+FC Martigues;Ligue 2;France;FIFA 25
+Borussia Dortmund II;3. Liga;Germany;FIFA 25
+Ross County FC;Premiership;Scotland;FIFA 25
+Shrewsbury Town;League One;England;FIFA 25
+Unirea Slobozia;Liga I;Romania;FIFA 25
+AFC Wimbledon;League Two;England;FIFA 25
+Chesterfield;League Two;England;FIFA 25
+Port Vale;League Two;England;FIFA 25
+Colchester United;League Two;England;FIFA 25
+Notts County;League Two;England;FIFA 25
+Mumbai City FC;Super League;India;FIFA 25
+Bengaluru FC;Super League;India;FIFA 25
+Changchun Yatai;Super League;China PR;FIFA 25
+Tianjin Jinmen Tiger;Super League;China PR;FIFA 25
+Shenzhen Peng City;Super League;China PR;FIFA 25
+Kalmar FF;Allsvenskan;Sweden;FIFA 25
+Troms√∏ IL;Eliteserien;Norway;FIFA 25
+KFUM-Kameratene Oslo;Eliteserien;Norway;FIFA 25
+St Patrick's Athletic FC;Premier Division;Republic of Ireland;FIFA 25
+S√∏nderjyske Fodbold;Superliga;Denmark;FIFA 25
+SpVgg Unterhaching;3. Liga;Germany;FIFA 25
+Odds Ballklubb;Eliteserien;Norway;FIFA 25
+St Johnstone FC;Premiership;Scotland;FIFA 25
+Puszcza Niepo≈Çomice;Ekstraklasa;Poland;FIFA 25
+CSM Politehnica Ia»ôi;Liga I;Romania;FIFA 25
+HJK Helsinki;Veikkausliiga;Finland;FIFA 25
+Lechia Gda≈Ñsk;Ekstraklasa;Poland;FIFA 25
+Mohun Bagan Super Giant;Super League;India;FIFA 25
+IFK V√§rnamo;Allsvenskan;Sweden;FIFA 25
+Salford City;League Two;England;FIFA 25
+Gillingham;League Two;England;FIFA 25
+Walsall;League Two;England;FIFA 25
+Bradford City;League Two;England;FIFA 25
+Brisbane Roar;A-League Men;Australia;FIFA 25
+Central Coast Mariners;A-League Men;Australia;FIFA 25
+Newcastle Jets;A-League Men;Australia;FIFA 25
+Shamrock Rovers;Premier Division;Republic of Ireland;FIFA 25
+Grimsby Town;League Two;England;FIFA 25
+Qingdao Hainiu FC;Super League;China PR;FIFA 25
+Western United;A-League Men;Australia;FIFA 25
+Crewe Alexandra;League Two;England;FIFA 25
+Barrow;League Two;England;FIFA 25
+Fleetwood Town;League Two;England;FIFA 25
+Doncaster Rovers;League Two;England;FIFA 25
+Swindon Town;League Two;England;FIFA 25
+Wellington Phoenix;A-League Men;Australia;FIFA 25
+Adana Demirspor;S√ºper Lig;T√ºrkiye;FIFA 25
+Burton Albion;League One;England;FIFA 25
+Hamarkameratene;Eliteserien;Norway;FIFA 25
+GAIS;Allsvenskan;Sweden;FIFA 25
+East Bengal FC;Super League;India;FIFA 25
+Kristiansund BK;Eliteserien;Norway;FIFA 25
+Shelbourne FC;Premier Division;Republic of Ireland;FIFA 25
+Hannover 96 II;3. Liga;Germany;FIFA 25
+Harrogate Town;League Two;England;FIFA 25
+VfB Stuttgart II;3. Liga;Germany;FIFA 25
+Bromley;League Two;England;FIFA 25
+Cheltenham Town;League Two;England;FIFA 25
+FC Goa;Super League;India;FIFA 25
+FK Haugesund;Eliteserien;Norway;FIFA 25
+Derry City;Premier Division;Republic of Ireland;FIFA 25
+Meizhou Hakka;Super League;China PR;FIFA 25
+Carlisle United;League Two;England;FIFA 25
+Tranmere Rovers;League Two;England;FIFA 25
+Sandefjord Fotball;Eliteserien;Norway;FIFA 25
+Galway United;Premier Division;Republic of Ireland;FIFA 25
+Bohemian FC;Premier Division;Republic of Ireland;FIFA 25
+V√§ster√•s SK;Allsvenskan;Sweden;FIFA 25
+Morecambe;League Two;England;FIFA 25
+Odisha FC;Super League;India;FIFA 25
+Newport County;League Two;England;FIFA 25
+Accrington Stanley;League Two;England;FIFA 25
+Chennaiyin FC;Super League;India;FIFA 25
+Kerala Blasters FC;Super League;India;FIFA 25
+Drogheda United;Premier Division;Republic of Ireland;FIFA 25
+Sligo Rovers;Premier Division;Republic of Ireland;FIFA 25
+Nantong Zhiyun;Super League;China PR;FIFA 25
+NorthEast United;Super League;India;FIFA 25
+Waterford FC;Premier Division;Republic of Ireland;FIFA 25
+Jamshedpur FC;Super League;India;FIFA 25
+Punjab;Super League;India;FIFA 25
+Mohammedan SC;Super League;India;FIFA 25
+Hyderabad FC;Super League;India;FIFA 25
+Dundalk;Premier Division;Republic of Ireland;FIFA 25
+Cangzhou Mighty Lions FC;Super League;China PR;FIFA 25
+Manchester City;Premier League;England;FIFA 24
+Real Madrid;La Liga;Spain;FIFA 24
+FC Bayern M√ºnchen;Bundesliga;Germany;FIFA 24
+FC Barcelona;La Liga;Spain;FIFA 24
+Arsenal;Premier League;England;FIFA 24
+Liverpool;Premier League;England;FIFA 24
+Inter;Serie A;Italy;FIFA 24
+Paris Saint-Germain;Ligue 1;France;FIFA 24
+Bayer 04 Leverkusen;Bundesliga;Germany;FIFA 24
+Atl√©tico Madrid;La Liga;Spain;FIFA 24
+Aston Villa;Premier League;England;FIFA 24
+Manchester United;Premier League;England;FIFA 24
+Tottenham Hotspur;Premier League;England;FIFA 24
+Borussia Dortmund;Bundesliga;Germany;FIFA 24
+AC Milan;Serie A;Italy;FIFA 24
+Newcastle United;Premier League;England;FIFA 24
+RB Leipzig;Bundesliga;Germany;FIFA 24
+Juventus;Serie A;Italy;FIFA 24
+Napoli;Serie A;Italy;FIFA 24
+Roma;Serie A;Italy;FIFA 24
+Athletic Club;La Liga;Spain;FIFA 24
+Real Sociedad;La Liga;Spain;FIFA 24
+Chelsea;Premier League;England;FIFA 24
+West Ham United;Premier League;England;FIFA 24
+Atalanta;Serie A;Italy;FIFA 24
+Lazio;Serie A;Italy;FIFA 24
+Sevilla FC;La Liga;Spain;FIFA 24
+SL Benfica;Primeira Liga;Portugal;FIFA 24
+Girona FC;La Liga;Spain;FIFA 24
+Fiorentina;Serie A;Italy;FIFA 24
+Galatasaray SK;S√ºper Lig;T√ºrkiye;FIFA 24
+Fenerbah√ße SK;S√ºper Lig;T√ºrkiye;FIFA 24
+Al Hilal;Pro League;Saudi Arabia;FIFA 24
+Real Betis Balompi√©;La Liga;Spain;FIFA 24
+Villarreal CF;La Liga;Spain;FIFA 24
+Sporting CP;Primeira Liga;Portugal;FIFA 24
+Crystal Palace;Premier League;England;FIFA 24
+Brighton & Hove Albion;Premier League;England;FIFA 24
+Eintracht Frankfurt;Bundesliga;Germany;FIFA 24
+VfB Stuttgart;Bundesliga;Germany;FIFA 24
+AS Monaco;Ligue 1;France;FIFA 24
+Wolverhampton Wanderers;Premier League;England;FIFA 24
+Brentford;Premier League;England;FIFA 24
+Fulham FC;Premier League;England;FIFA 24
+Olympique de Marseille;Ligue 1;France;FIFA 24
+FC Porto;Primeira Liga;Portugal;FIFA 24
+PSV;Eredivisie;Netherlands;FIFA 24
+Everton;Premier League;England;FIFA 24
+Nottingham Forest;Premier League;England;FIFA 24
+Flamengo;S√©rie A;Brazil;FIFA 24
+Borussia M√∂nchengladbach;Bundesliga;Germany;FIFA 24
+SC Freiburg;Bundesliga;Germany;FIFA 24
+1. FC Union Berlin;Bundesliga;Germany;FIFA 24
+TSG 1899 Hoffenheim;Bundesliga;Germany;FIFA 24
+Torino;Serie A;Italy;FIFA 24
+RC Lens;Ligue 1;France;FIFA 24
+Lille OSC;Ligue 1;France;FIFA 24
+Olympique Lyonnais;Ligue 1;France;FIFA 24
+Getafe CF;La Liga;Spain;FIFA 24
+OGC Nice;Ligue 1;France;FIFA 24
+Stade Rennais FC;Ligue 1;France;FIFA 24
+Sporting Clube de Braga;Primeira Liga;Portugal;FIFA 24
+Palmeiras;S√©rie A;Brazil;FIFA 24
+AFC Bournemouth;Premier League;England;FIFA 24
+VfL Wolfsburg;Bundesliga;Germany;FIFA 24
+Bologna;Serie A;Italy;FIFA 24
+RC Celta;La Liga;Spain;FIFA 24
+RCD Mallorca;La Liga;Spain;FIFA 24
+CA Osasuna;La Liga;Spain;FIFA 24
+Rayo Vallecano;La Liga;Spain;FIFA 24
+Feyenoord;Eredivisie;Netherlands;FIFA 24
+Atl√©tico Mineiro;S√©rie A;Brazil;FIFA 24
+Al Nassr;Pro League;Saudi Arabia;FIFA 24
+UD Almer√≠a;La Liga;Spain;FIFA 24
+Be≈üikta≈ü JK;S√ºper Lig;T√ºrkiye;FIFA 24
+River Plate;Liga Profesional de F√∫tbol;Argentina;FIFA 24
+Leicester City;Championship;England;FIFA 24
+Al Ittihad;Pro League;Saudi Arabia;FIFA 24
+Sassuolo;Serie A;Italy;FIFA 24
+Stade Brestois 29;Ligue 1;France;FIFA 24
+1. FSV Mainz 05;Bundesliga;Germany;FIFA 24
+C√°diz CF;La Liga;Spain;FIFA 24
+Monza;Serie A;Italy;FIFA 24
+Valencia CF;La Liga;Spain;FIFA 24
+UD Las Palmas;La Liga;Spain;FIFA 24
+Ajax;Eredivisie;Netherlands;FIFA 24
+Inter Miami;Major League Soccer;United States;FIFA 24
+Al Ahli SFC;Pro League;Saudi Arabia;FIFA 24
+Burnley;Premier League;England;FIFA 24
+Leeds United;Championship;England;FIFA 24
+SK Slavia Praha;Prvn√≠ liga;Czechia;FIFA 24
+Sparta Praha;Prvn√≠ liga;Czechia;FIFA 24
+Club Athletico Paranaense;S√©rie A;Brazil;FIFA 24
+AEK Athens;Super League;Greece;FIFA 24
+Internacional;S√©rie A;Brazil;FIFA 24
+US Salernitana 1919;Serie A;Italy;FIFA 24
+SV Werder Bremen;Bundesliga;Germany;FIFA 24
+Udinese;Serie A;Italy;FIFA 24
+FC Augsburg;Bundesliga;Germany;FIFA 24
+Montpellier HSC;Ligue 1;France;FIFA 24
+Celtic;Premiership;Scotland;FIFA 24
+Boca Juniors;Liga Profesional de F√∫tbol;Argentina;FIFA 24
+Rangers FC;Premiership;Scotland;FIFA 24
+Red Bull Bragantino;S√©rie A;Brazil;FIFA 24
+Panathinaikos FC;Super League;Greece;FIFA 24
+Stade de Reims;Ligue 1;France;FIFA 24
+PAOK;Super League;Greece;FIFA 24
+Trabzonspor;S√ºper Lig;T√ºrkiye;FIFA 24
+Genoa;Serie A;Italy;FIFA 24
+RSC Anderlecht;Pro League;Belgium;FIFA 24
+Club Brugge KV;Pro League;Belgium;FIFA 24
+Sheffield United;Premier League;England;FIFA 24
+Southampton;Championship;England;FIFA 24
+Corinthians;S√©rie A;Brazil;FIFA 24
+Toulouse FC;Ligue 1;France;FIFA 24
+1. FC K√∂ln;Bundesliga;Germany;FIFA 24
+Cagliari;Serie A;Italy;FIFA 24
+FC Nantes;Ligue 1;France;FIFA 24
+S√£o Paulo;S√©rie A;Brazil;FIFA 24
+FC Twente;Eredivisie;Netherlands;FIFA 24
+Luton Town;Premier League;England;FIFA 24
+Viktoria Plze≈à;Prvn√≠ liga;Czechia;FIFA 24
+VfL Bochum 1848;Bundesliga;Germany;FIFA 24
+FC Red Bull Salzburg;Bundesliga;Austria;FIFA 24
+RCD Espanyol;La Liga 2;Spain;FIFA 24
+Hellas Verona FC;Serie A;Italy;FIFA 24
+Deportivo Alav√©s;La Liga;Spain;FIFA 24
+Racing Club;Liga Profesional de F√∫tbol;Argentina;FIFA 24
+Royal Antwerp FC;Pro League;Belgium;FIFA 24
+Granada CF;La Liga;Spain;FIFA 24
+Norwich City;Championship;England;FIFA 24
+Talleres;Liga Profesional de F√∫tbol;Argentina;FIFA 24
+FC K√∏benhavn;Superliga;Denmark;FIFA 24
+Fluminense;S√©rie A;Brazil;FIFA 24
+Cruzeiro;S√©rie A;Brazil;FIFA 24
+Lan√∫s;Liga Profesional de F√∫tbol;Argentina;FIFA 24
+RC Strasbourg Alsace;Ligue 1;France;FIFA 24
+Ferencv√°rosi Torna Club;Nemzeti Bajnoks√°g I;Hungary;FIFA 24
+Lecce;Serie A;Italy;FIFA 24
+Los Angeles FC;Major League Soccer;United States;FIFA 24
+West Bromwich Albion;Championship;England;FIFA 24
+AZ Alkmaar;Eredivisie;Netherlands;FIFA 24
+1. FC Heidenheim 1846;Bundesliga;Germany;FIFA 24
+Medipol Ba≈üak≈üehir FK;S√ºper Lig;T√ºrkiye;FIFA 24
+KRC Genk;Pro League;Belgium;FIFA 24
+KAA Gent;Pro League;Belgium;FIFA 24
+Dynamo Kyiv;Premier League;Ukraine;FIFA 24
+Shakhtar Donetsk;Premier League;Ukraine;FIFA 24
+Empoli;Serie A;Italy;FIFA 24
+FC Lorient;Ligue 1;France;FIFA 24
+Estudiantes de La Plata;Liga Profesional de F√∫tbol;Argentina;FIFA 24
+Union Saint-Gilloise;Pro League;Belgium;FIFA 24
+Rosario Central;Liga Profesional de F√∫tbol;Argentina;FIFA 24
+Botafogo;S√©rie A;Brazil;FIFA 24
+Hajduk Split;Hrvatska nogometna liga;Croatia;FIFA 24
+Coventry City;Championship;England;FIFA 24
+Middlesbrough;Championship;England;FIFA 24
+Independiente;Liga Profesional de F√∫tbol;Argentina;FIFA 24
+Fatih Karag√ºmr√ºk;S√ºper Lig;T√ºrkiye;FIFA 24
+Clermont Foot 63;Ligue 1;France;FIFA 24
+CD Legan√©s;La Liga 2;Spain;FIFA 24
+Hamburger SV;2. Bundesliga;Germany;FIFA 24
+Frosinone;Serie A;Italy;FIFA 24
+Parma;Serie B;Italy;FIFA 24
+Al Shabab;Pro League;Saudi Arabia;FIFA 24
+Malm√∂ FF;Allsvenskan;Sweden;FIFA 24
+FC Metz;Ligue 1;France;FIFA 24
+Cremonese;Serie B;Italy;FIFA 24
+Gr√™mio;S√©rie A;Brazil;FIFA 24
+Ipswich Town;Championship;England;FIFA 24
+Vit√≥ria SC;Primeira Liga;Portugal;FIFA 24
+Colo-Colo;Primera Division;Chile;FIFA 24
+Adana Demirspor;S√ºper Lig;T√ºrkiye;FIFA 24
+Hull City;Championship;England;FIFA 24
+Libertad;Divisi√≥n Profesional;Paraguay;FIFA 24
+Hertha BSC;2. Bundesliga;Germany;FIFA 24
+SV Darmstadt 98;Bundesliga;Germany;FIFA 24
+Argentinos Juniors;Liga Profesional de F√∫tbol;Argentina;FIFA 24
+Le Havre AC;Ligue 1;France;FIFA 24
+Fortaleza;S√©rie A;Brazil;FIFA 24
+Real Valladolid CF;La Liga 2;Spain;FIFA 24
+Como;Serie B;Italy;FIFA 24
+Dinamo Zagreb;Hrvatska nogometna liga;Croatia;FIFA 24
+SD Eibar;La Liga 2;Spain;FIFA 24
+V√©lez Sarsfield;Liga Profesional de F√∫tbol;Argentina;FIFA 24
+Al Ettifaq;Pro League;Saudi Arabia;FIFA 24
+Real Oviedo;La Liga 2;Spain;FIFA 24
+Junior FC;Categor√≠a Primera A;Colombia;FIFA 24
+Millonarios FC;Categor√≠a Primera A;Colombia;FIFA 24
+San Lorenzo de Almagro;Liga Profesional de F√∫tbol;Argentina;FIFA 24
+Blackburn Rovers;Championship;England;FIFA 24
+Watford;Championship;England;FIFA 24
+CD Tenerife;La Liga 2;Spain;FIFA 24
+Philadelphia Union;Major League Soccer;United States;FIFA 24
+Preston North End;Championship;England;FIFA 24
+Independiente del Valle;Serie A;Ecuador;FIFA 24
+Br√∏ndby IF;Superliga;Denmark;FIFA 24
+Stoke City;Championship;England;FIFA 24
+Queens Park Rangers;Championship;England;FIFA 24
+Aarhus Gymnastikforening;Superliga;Denmark;FIFA 24
+AS Saint-√âtienne;Ligue 2;France;FIFA 24
+FC Schalke 04;2. Bundesliga;Germany;FIFA 24
+GD Estoril Praia;Primeira Liga;Portugal;FIFA 24
+Seattle Sounders FC;Major League Soccer;United States;FIFA 24
+Fortuna D√ºsseldorf;2. Bundesliga;Germany;FIFA 24
+Sampdoria;Serie B;Italy;FIFA 24
+Palermo FC;Serie B;Italy;FIFA 24
+San Jose Earthquakes;Major League Soccer;United States;FIFA 24
+Newell's Old Boys;Liga Profesional de F√∫tbol;Argentina;FIFA 24
+Levante UD;La Liga 2;Spain;FIFA 24
+Cuiab√°;S√©rie A;Brazil;FIFA 24
+Cerro Porte√±o;Divisi√≥n Profesional;Paraguay;FIFA 24
+Hearts;Premiership;Scotland;FIFA 24
+Godoy Cruz;Liga Profesional de F√∫tbol;Argentina;FIFA 24
+Defensa y Justicia;Liga Profesional de F√∫tbol;Argentina;FIFA 24
+Hurac√°n;Liga Profesional de F√∫tbol;Argentina;FIFA 24
+Gil Vicente FC;Primeira Liga;Portugal;FIFA 24
+Millwall FC;Championship;England;FIFA 24
+Boavista FC;Primeira Liga;Portugal;FIFA 24
+FC Utrecht;Eredivisie;Netherlands;FIFA 24
+NEC Nijmegen;Eredivisie;Netherlands;FIFA 24
+FC Arouca;Primeira Liga;Portugal;FIFA 24
+BSC Young Boys;Super League;Switzerland;FIFA 24
+Barcelona de Guayaquil;Serie A;Ecuador;FIFA 24
+LDU Quito;Serie A;Ecuador;FIFA 24
+MKE Ankarag√ºc√º;S√ºper Lig;T√ºrkiye;FIFA 24
+FK Bod√∏/Glimt;Eliteserien;Norway;FIFA 24
+Alianza Lima;Liga 1;Peru;FIFA 24
+Cardiff City;Championship;England;FIFA 24
+Famalic√£o;Primeira Liga;Portugal;FIFA 24
+Belgrano de C√≥rdoba;Liga Profesional de F√∫tbol;Argentina;FIFA 24
+LA Galaxy;Major League Soccer;United States;FIFA 24
+Ulsan HD FC;K League 1;Korea Republic;FIFA 24
+Real Sporting de Gij√≥n;La Liga 2;Spain;FIFA 24
+Venezia;Serie B;Italy;FIFA 24
+Elche CF;La Liga 2;Spain;FIFA 24
+Club Nacional de Football;Primera Divisi√≥n;Uruguay;FIFA 24
+Standard de Li√®ge;Pro League;Belgium;FIFA 24
+Rio Ave FC;Primeira Liga;Portugal;FIFA 24
+Samsunspor;S√ºper Lig;T√ºrkiye;FIFA 24
+FC Midtjylland;Superliga;Denmark;FIFA 24
+Atl√©tico Nacional;Categor√≠a Primera A;Colombia;FIFA 24
+Real Zaragoza;La Liga 2;Spain;FIFA 24
+Pe√±arol;Primera Divisi√≥n;Uruguay;FIFA 24
+FC Cincinnati;Major League Soccer;United States;FIFA 24
+GD Chaves;Primeira Liga;Portugal;FIFA 24
+Portland Timbers;Major League Soccer;United States;FIFA 24
+APOEL FC;1. Division;Cyprus;FIFA 24
+Karlsruher SC;2. Bundesliga;Germany;FIFA 24
+Portimonense SC;Primeira Liga;Portugal;FIFA 24
+AJ Auxerre;Ligue 2;France;FIFA 24
+Pendikspor;S√ºper Lig;T√ºrkiye;FIFA 24
+Holstein Kiel;2. Bundesliga;Germany;FIFA 24
+Servette FC;Super League;Switzerland;FIFA 24
+Casa Pia;Primeira Liga;Portugal;FIFA 24
+Al Ain;Pro League;United Arab Emirates;FIFA 24
+Birmingham City;Championship;England;FIFA 24
+Burgos CF;La Liga 2;Spain;FIFA 24
+Club Atl√©tico Uni√≥n;Liga Profesional de F√∫tbol;Argentina;FIFA 24
+Lech Pozna≈Ñ;Ekstraklasa;Poland;FIFA 24
+Instituto Atl√©tico Central C√≥rdoba;Liga Profesional de F√∫tbol;Argentina;FIFA 24
+Sunderland;Championship;England;FIFA 24
+Deportes Tolima;Categor√≠a Primera A;Colombia;FIFA 24
+Moreirense FC;Primeira Liga;Portugal;FIFA 24
+SC Heerenveen;Eredivisie;Netherlands;FIFA 24
+Fortuna Sittard;Eredivisie;Netherlands;FIFA 24
+St. Louis CITY SC;Major League Soccer;United States;FIFA 24
+Bristol City;Championship;England;FIFA 24
+Universidad Cat√≥lica;Primera Division;Chile;FIFA 24
+FC St.Gallen 1879;Super League;Switzerland;FIFA 24
+KV Mechelen;Pro League;Belgium;FIFA 24
+Universidad Cat√≥lica del Ecuador;Serie A;Ecuador;FIFA 24
+Rak√≥w Czƒôstochowa;Ekstraklasa;Poland;FIFA 24
+Royal Charleroi Sporting Club;Pro League;Belgium;FIFA 24
+SpVgg Greuther F√ºrth;2. Bundesliga;Germany;FIFA 24
+Universitario de Deportes;Liga 1;Peru;FIFA 24
+Swansea City;Championship;England;FIFA 24
+Konyaspor;S√ºper Lig;T√ºrkiye;FIFA 24
+New England Revolution;Major League Soccer;United States;FIFA 24
+Gaziantep FK;S√ºper Lig;T√ºrkiye;FIFA 24
+Houston Dynamo;Major League Soccer;United States;FIFA 24
+Jeonbuk Hyundai Motors;K League 1;Korea Republic;FIFA 24
+Racing Santander;La Liga 2;Spain;FIFA 24
+Estrela da Amadora;Primeira Liga;Portugal;FIFA 24
+SK Sturm Graz;Bundesliga;Austria;FIFA 24
+Cercle Brugge KSV;Pro League;Belgium;FIFA 24
+Orlando City SC;Major League Soccer;United States;FIFA 24
+Hannover 96;2. Bundesliga;Germany;FIFA 24
+Antalyaspor;S√ºper Lig;T√ºrkiye;FIFA 24
+Farense;Primeira Liga;Portugal;FIFA 24
+Am√©rica de Cali;Categor√≠a Primera A;Colombia;FIFA 24
+Kasƒ±mpa≈üa SK;S√ºper Lig;T√ºrkiye;FIFA 24
+Independiente Medell√≠n;Categor√≠a Primera A;Colombia;FIFA 24
+Nashville SC;Major League Soccer;United States;FIFA 24
+Club Olimpia;Divisi√≥n Profesional;Paraguay;FIFA 24
+Atlanta United;Major League Soccer;United States;FIFA 24
+Alanyaspor;S√ºper Lig;T√ºrkiye;FIFA 24
+SD Huesca;La Liga 2;Spain;FIFA 24
+Vancouver Whitecaps FC;Major League Soccer;United States;FIFA 24
+FC St. Pauli;2. Bundesliga;Germany;FIFA 24
+Angers SCO;Ligue 2;France;FIFA 24
+LASK Linz;Bundesliga;Austria;FIFA 24
+Al Fateh;Pro League;Saudi Arabia;FIFA 24
+Al Taawoun FC;Pro League;Saudi Arabia;FIFA 24
+Grenoble Foot 38;Ligue 2;France;FIFA 24
+Sheffield Wednesday;Championship;England;FIFA 24
+Amiens SC;Ligue 2;France;FIFA 24
+Go Ahead Eagles;Eredivisie;Netherlands;FIFA 24
+Al Wahda;Pro League;Saudi Arabia;FIFA 24
+1. FC Kaiserslautern;2. Bundesliga;Germany;FIFA 24
+Minnesota United FC;Major League Soccer;United States;FIFA 24
+CF Montr√©al;Major League Soccer;United States;FIFA 24
+Toronto FC;Major League Soccer;United States;FIFA 24
+CD Eldense;La Liga 2;Spain;FIFA 24
+ESTAC Troyes;Ligue 2;France;FIFA 24
+Sparta Rotterdam;Eredivisie;Netherlands;FIFA 24
+Cosenza;Serie B;Italy;FIFA 24
+SC Paderborn 07;2. Bundesliga;Germany;FIFA 24
+FC Lugano;Super League;Switzerland;FIFA 24
+Rapid Bucuresti;Liga I;Romania;FIFA 24
+Ascoli;Serie B;Italy;FIFA 24
+SSC Bari;Serie B;Italy;FIFA 24
+FC Girondins de Bordeaux;Ligue 2;France;FIFA 24
+Catanzaro;Serie B;Italy;FIFA 24
+Albacete Balompi√©;La Liga 2;Spain;FIFA 24
+CA Banfield;Liga Profesional de F√∫tbol;Argentina;FIFA 24
+FC Lausanne-Sport;Super League;Switzerland;FIFA 24
+Club Atl√©tico Sarmiento;Liga Profesional de F√∫tbol;Argentina;FIFA 24
+Aberdeen;Premiership;Scotland;FIFA 24
+Legia Warszawa;Ekstraklasa;Poland;FIFA 24
+Atl√©tico Tucum√°n;Liga Profesional de F√∫tbol;Argentina;FIFA 24
+Shanghai Shenhua;Super League;China PR;FIFA 24
+Shandong Taishan;Super League;China PR;FIFA 24
+The Strongest;Divisi√≥n de F√∫tbol Profesional;Bolivia;FIFA 24
+FC Z√ºrich;Super League;Switzerland;FIFA 24
+FC Basel 1893;Super League;Switzerland;FIFA 24
+FC Luzern;Super League;Switzerland;FIFA 24
+Universidad C√©sar Vallejo;Liga 1;Peru;FIFA 24
+Plymouth Argyle;Championship;England;FIFA 24
+Pisa;Serie B;Italy;FIFA 24
+Spezia;Serie B;Italy;FIFA 24
+FCSB;Liga I;Romania;FIFA 24
+Kayserispor;S√ºper Lig;T√ºrkiye;FIFA 24
+Shanghai Port;Super League;China PR;FIFA 24
+Sportivo Luque√±o;Divisi√≥n Profesional;Paraguay;FIFA 24
+Molde FK;Eliteserien;Norway;FIFA 24
+Racing de Ferrol;La Liga 2;Spain;FIFA 24
+Hatayspor;S√ºper Lig;T√ºrkiye;FIFA 24
+Sint-Truidense VV;Pro League;Belgium;FIFA 24
+KVC Westerlo;Pro League;Belgium;FIFA 24
+1. FC N√ºrnberg;2. Bundesliga;Germany;FIFA 24
+√áaykur Rizespor;S√ºper Lig;T√ºrkiye;FIFA 24
+Columbus Crew;Major League Soccer;United States;FIFA 24
+New York Red Bulls;Major League Soccer;United States;FIFA 24
+Sivasspor;S√ºper Lig;T√ºrkiye;FIFA 24
+Vizela;Primeira Liga;Portugal;FIFA 24
+Chicago Fire;Major League Soccer;United States;FIFA 24
+FC Dallas;Major League Soccer;United States;FIFA 24
+Sporting Kansas City;Major League Soccer;United States;FIFA 24
+New York City FC;Major League Soccer;United States;FIFA 24
+Djurg√•rdens IF;Allsvenskan;Sweden;FIFA 24
+BK H√§cken;Allsvenskan;Sweden;FIFA 24
+CD Everton de Vi√±a del Mar;Primera Division;Chile;FIFA 24
+Paris FC;Ligue 2;France;FIFA 24
+Charlotte FC;Major League Soccer;United States;FIFA 24
+Stade Malherbe Caen;Ligue 2;France;FIFA 24
+FC Seoul;K League 1;Korea Republic;FIFA 24
+Real Salt Lake;Major League Soccer;United States;FIFA 24
+Gimnasia y Esgrima La Plata;Liga Profesional de F√∫tbol;Argentina;FIFA 24
+Austin FC;Major League Soccer;United States;FIFA 24
+Oud-Heverlee Leuven;Pro League;Belgium;FIFA 24
+FC Nordsj√¶lland;Superliga;Denmark;FIFA 24
+1. FC Magdeburg;2. Bundesliga;Germany;FIFA 24
+SK Rapid;Bundesliga;Austria;FIFA 24
+FK Austria Wien;Bundesliga;Austria;FIFA 24
+Bolton Wanderers;League One;England;FIFA 24
+Rotherham United;Championship;England;FIFA 24
+Stade Lavallois Mayenne FC;Ligue 2;France;FIFA 24
+Heracles Almelo;Eredivisie;Netherlands;FIFA 24
+FC Hansa Rostock;2. Bundesliga;Germany;FIFA 24
+Platense;Liga Profesional de F√∫tbol;Argentina;FIFA 24
+Universitatea Craiova;Liga I;Romania;FIFA 24
+Villarreal CF B;La Liga 2;Spain;FIFA 24
+RWD Molenbeek;Pro League;Belgium;FIFA 24
+Damac FC;Pro League;Saudi Arabia;FIFA 24
+SV Elversberg;2. Bundesliga;Germany;FIFA 24
+Central Cordoba SdE;Liga Profesional de F√∫tbol;Argentina;FIFA 24
+Col√≥n;Liga Profesional de F√∫tbol;Argentina;FIFA 24
+Sport Huancayo;Liga 1;Peru;FIFA 24
+Hibernian;Premiership;Scotland;FIFA 24
+Derby County;League One;England;FIFA 24
+Melbourne City FC;A-League Men;Australia;FIFA 24
+Tigre;Liga Profesional de F√∫tbol;Argentina;FIFA 24
+AC Ajaccio;Ligue 2;France;FIFA 24
+S√ºdtirol;Serie B;Italy;FIFA 24
+Vitesse;Eredivisie;Netherlands;FIFA 24
+Bol√≠var;Divisi√≥n de F√∫tbol Profesional;Bolivia;FIFA 24
+Cittadella;Serie B;Italy;FIFA 24
+PEC Zwolle;Eredivisie;Netherlands;FIFA 24
+FC Andorra;La Liga 2;Spain;FIFA 24
+Deportivo Cuenca;Serie A;Ecuador;FIFA 24
+Deportivo T√°chira;Primera Division;Venezuela;FIFA 24
+Huddersfield Town;Championship;England;FIFA 24
+Reggiana;Serie B;Italy;FIFA 24
+Barracas Central;Liga Profesional de F√∫tbol;Argentina;FIFA 24
+Danubio FC;Primera Divisi√≥n;Uruguay;FIFA 24
+Beijing Guoan;Super League;China PR;FIFA 24
+Montevideo Wanderers FC;Primera Divisi√≥n;Uruguay;FIFA 24
+Pogo≈Ñ Szczecin;Ekstraklasa;Poland;FIFA 24
+Al Fayha;Pro League;Saudi Arabia;FIFA 24
+Eintracht Braunschweig;2. Bundesliga;Germany;FIFA 24
+Incheon United FC;K League 1;Korea Republic;FIFA 24
+DC United;Major League Soccer;United States;FIFA 24
+Colorado Rapids;Major League Soccer;United States;FIFA 24
+Brescia;Serie B;Italy;FIFA 24
+Wolfsberger AC;Bundesliga;Austria;FIFA 24
+Modena;Serie B;Italy;FIFA 24
+Daejeon Citizen;K League 1;Korea Republic;FIFA 24
+AS Eupen;Pro League;Belgium;FIFA 24
+Liverpool FC Uruguay;Primera Divisi√≥n;Uruguay;FIFA 24
+AD Alcorc√≥n;La Liga 2;Spain;FIFA 24
+CFR Cluj;Liga I;Romania;FIFA 24
+CD Palestino;Primera Division;Chile;FIFA 24
+VfL Osnabr√ºck;2. Bundesliga;Germany;FIFA 24
+KV Kortrijk;Pro League;Belgium;FIFA 24
+Pau FC;Ligue 2;France;FIFA 24
+FC Cartagena;La Liga 2;Spain;FIFA 24
+Al Khaleej;Pro League;Saudi Arabia;FIFA 24
+SK Austria Klagenfurt;Bundesliga;Austria;FIFA 24
+Portsmouth;League One;England;FIFA 24
+Odense Boldklub;Superliga;Denmark;FIFA 24
+Almere City FC;Eredivisie;Netherlands;FIFA 24
+Nacional Potos√≠;Divisi√≥n de F√∫tbol Profesional;Bolivia;FIFA 24
+Melbourne Victory;A-League Men;Australia;FIFA 24
+Rosenborg BK;Eliteserien;Norway;FIFA 24
+Lillestr√∏m SK;Eliteserien;Norway;FIFA 24
+Rodez Aveyron Football;Ligue 2;France;FIFA 24
+Western Sydney Wanderers;A-League Men;Australia;FIFA 24
+Viking FK;Eliteserien;Norway;FIFA 24
+Lecco;Serie B;Italy;FIFA 24
+Ternana;Serie B;Italy;FIFA 24
+Arsenal de Sarandi;Liga Profesional de F√∫tbol;Argentina;FIFA 24
+En Avant Guingamp;Ligue 2;France;FIFA 24
+Grasshopper Club Z√ºrich;Super League;Switzerland;FIFA 24
+Al Hazem FC;Pro League;Saudi Arabia;FIFA 24
+Sportivo Ameliano;Divisi√≥n Profesional;Paraguay;FIFA 24
+Cerro Largo;Primera Divisi√≥n;Uruguay;FIFA 24
+Deportivo Garcilaso;Liga 1;Peru;FIFA 24
+RKC Waalwijk;Eredivisie;Netherlands;FIFA 24
+FeralpiSal√≤;Serie B;Italy;FIFA 24
+CD Cobresal;Primera Division;Chile;FIFA 24
+Blackpool FC;League One;England;FIFA 24
+Chengdu Rongcheng;Super League;China PR;FIFA 24
+Barnsley;League One;England;FIFA 24
+Carabobo FC;Primera Division;Venezuela;FIFA 24
+Delf√≠n SC;Serie A;Ecuador;FIFA 24
+Jagiellonia Bia≈Çystok;Ekstraklasa;Poland;FIFA 24
+Zag≈Çƒôbie Lubin;Ekstraklasa;Poland;FIFA 24
+Oxford United;League One;England;FIFA 24
+Abha;Pro League;Saudi Arabia;FIFA 24
+Viborg FF;Superliga;Denmark;FIFA 24
+Yverdon Sport;Super League;Switzerland;FIFA 24
+Quevilly Rouen M√©tropole;Ligue 2;France;FIFA 24
+Suwon FC;K League 1;Korea Republic;FIFA 24
+AIK;Allsvenskan;Sweden;FIFA 24
+Excelsior;Eredivisie;Netherlands;FIFA 24
+IF Elfsborg;Allsvenskan;Sweden;FIFA 24
+Alianza FC;Categor√≠a Primera A;Colombia;FIFA 24
+Jeju United FC;K League 1;Korea Republic;FIFA 24
+SD Amorebieta;La Liga 2;Spain;FIFA 24
+CD Huachipato;Primera Division;Chile;FIFA 24
+TSV Hartberg;Bundesliga;Austria;FIFA 24
+Sepsi OSK;Liga I;Romania;FIFA 24
+Racing Club de Montevideo;Primera Divisi√≥n;Uruguay;FIFA 24
+SV Wehen Wiesbaden;2. Bundesliga;Germany;FIFA 24
+Piast Gliwice;Ekstraklasa;Poland;FIFA 24
+Radomiak Radom;Ekstraklasa;Poland;FIFA 24
+CD Mirand√©s;La Liga 2;Spain;FIFA 24
+Dynamo Dresden;3. Liga;Germany;FIFA 24
+Randers FC;Superliga;Denmark;FIFA 24
+FCV Farul Constan»õa;Liga I;Romania;FIFA 24
+Reading FC;League One;England;FIFA 24
+FC U Craiova 1948;Liga I;Romania;FIFA 24
+Daegu FC;K League 1;Korea Republic;FIFA 24
+Al Raed;Pro League;Saudi Arabia;FIFA 24
+1. FC Saarbr√ºcken;3. Liga;Germany;FIFA 24
+Silkeborg IF;Superliga;Denmark;FIFA 24
+Rot-Weiss Essen;3. Liga;Germany;FIFA 24
+Metropolitanos FC;Primera Division;Venezuela;FIFA 24
+SSV Jahn Regensburg;3. Liga;Germany;FIFA 24
+Nacional Asunci√≥n;Divisi√≥n Profesional;Paraguay;FIFA 24
+TSV 1860 M√ºnchen;3. Liga;Germany;FIFA 24
+FC Annecy;Ligue 2;France;FIFA 24
+Asociaci√≥n Deportiva Tarma;Liga 1;Peru;FIFA 24
+Vejle Boldklub;Superliga;Denmark;FIFA 24
+Sporting Club Bastia;Ligue 2;France;FIFA 24
+IFK G√∂teborg;Allsvenskan;Sweden;FIFA 24
+Coquimbo Unido;Primera Division;Chile;FIFA 24
+Kilmarnock;Premiership;Scotland;FIFA 24
+T√©cnico Universitario;Serie A;Ecuador;FIFA 24
+Charlton Athletic;League One;England;FIFA 24
+SV Sandhausen;3. Liga;Germany;FIFA 24
+Valenciennes FC;Ligue 2;France;FIFA 24
+Wigan Athletic;League One;England;FIFA 24
+CD Jorge Wilstermann;Divisi√≥n de F√∫tbol Profesional;Bolivia;FIFA 24
+Gwangju FC;K League 1;Korea Republic;FIFA 24
+FC Volendam;Eredivisie;Netherlands;FIFA 24
+FC Ingolstadt 04;3. Liga;Germany;FIFA 24
+Northampton Town;League One;England;FIFA 24
+Wycombe Wanderers;League One;England;FIFA 24
+Caracas FC;Primera Division;Venezuela;FIFA 24
+Always Ready;Divisi√≥n de F√∫tbol Profesional;Bolivia;FIFA 24
+Peterborough United;League One;England;FIFA 24
+Dinamo Bucure≈üti;Liga I;Romania;FIFA 24
+SK Brann;Eliteserien;Norway;FIFA 24
+Uni√≥n La Calera;Primera Division;Chile;FIFA 24
+V√•lerenga Fotball;Eliteserien;Norway;FIFA 24
+Changchun Yatai;Super League;China PR;FIFA 24
+Cracovia;Ekstraklasa;Poland;FIFA 24
+Universitatea Cluj;Liga I;Romania;FIFA 24
+SC Rheindorf Altach;Bundesliga;Austria;FIFA 24
+Henan FC;Super League;China PR;FIFA 24
+G√≥rnik Zabrze;Ekstraklasa;Poland;FIFA 24
+Al Akhdoud Saudi Club;Pro League;Saudi Arabia;FIFA 24
+USL Dunkerque;Ligue 2;France;FIFA 24
+FC Winterthur;Super League;Switzerland;FIFA 24
+Al Tai;Pro League;Saudi Arabia;FIFA 24
+WSG Tirol;Bundesliga;Austria;FIFA 24
+Pohang Steelers;K League 1;Korea Republic;FIFA 24
+Hammarby Fotboll;Allsvenskan;Sweden;FIFA 24
+Deportivo La Guaira;Primera Division;Venezuela;FIFA 24
+Guaran√≠;Divisi√≥n Profesional;Paraguay;FIFA 24
+FC Hermannstadt;Liga I;Romania;FIFA 24
+≈ölƒÖsk Wroc≈Çaw;Ekstraklasa;Poland;FIFA 24
+Asocia»õia Clubul Sportiv Petrolul 52;Liga I;Romania;FIFA 24
+FC Stade Lausanne-Ouchy;Super League;Switzerland;FIFA 24
+Austria Lustenau;Bundesliga;Austria;FIFA 24
+SC Preu√üen M√ºnster;3. Liga;Germany;FIFA 24
+FC Voluntari;Liga I;Romania;FIFA 24
+MSV Duisburg;3. Liga;Germany;FIFA 24
+Zhejiang FC;Super League;China PR;FIFA 24
+Widzew ≈Å√≥d≈∫;Ekstraklasa;Poland;FIFA 24
+Viktoria K√∂ln;3. Liga;Germany;FIFA 24
+Universitario de Vinto;Divisi√≥n de F√∫tbol Profesional;Bolivia;FIFA 24
+Sarpsborg 08 FF;Eliteserien;Norway;FIFA 24
+US Concarneau;Ligue 2;France;FIFA 24
+Motherwell FC;Premiership;Scotland;FIFA 24
+Stal Mielec;Ekstraklasa;Poland;FIFA 24
+SSV Ulm 1846;3. Liga;Germany;FIFA 24
+Sportivo Trinidense;Divisi√≥n Profesional;Paraguay;FIFA 24
+Western United;A-League Men;Australia;FIFA 24
+Stevenage;League One;England;FIFA 24
+Shrewsbury Town;League One;England;FIFA 24
+Warta Pozna≈Ñ;Ekstraklasa;Poland;FIFA 24
+Wuhan Three Towns;Super League;China PR;FIFA 24
+Stockport County;League Two;England;FIFA 24
+Al Riyadh;Pro League;Saudi Arabia;FIFA 24
+Exeter City;League One;England;FIFA 24
+Hallescher FC;3. Liga;Germany;FIFA 24
+Lincoln City;League One;England;FIFA 24
+Wellington Phoenix;A-League Men;Australia;FIFA 24
+Lyngby Boldklub;Superliga;Denmark;FIFA 24
+Str√∏msgodset IF;Eliteserien;Norway;FIFA 24
+Wrexham;League Two;England;FIFA 24
+UTA Arad;Liga I;Romania;FIFA 24
+DSC Arminia Bielefeld;3. Liga;Germany;FIFA 24
+FC Boto≈üani;Liga I;Romania;FIFA 24
+SC Verl;3. Liga;Germany;FIFA 24
+Leyton Orient;League One;England;FIFA 24
+Burton Albion;League One;England;FIFA 24
+Bristol Rovers;League One;England;FIFA 24
+Macarthur FC;A-League Men;Australia;FIFA 24
+Odds Ballklubb;Eliteserien;Norway;FIFA 24
+IFK Norrk√∂ping;Allsvenskan;Sweden;FIFA 24
+St Johnstone FC;Premiership;Scotland;FIFA 24
+SV Waldhof Mannheim;3. Liga;Germany;FIFA 24
+St. Mirren;Premiership;Scotland;FIFA 24
+Hamarkameratene;Eliteserien;Norway;FIFA 24
+CSM Politehnica Ia»ôi;Liga I;Romania;FIFA 24
+Korona Kielce;Ekstraklasa;Poland;FIFA 24
+Gangwon FC;K League 1;Korea Republic;FIFA 24
+FC Erzgebirge Aue;3. Liga;Germany;FIFA 24
+Milton Keynes Dons;League Two;England;FIFA 24
+Gillingham;League Two;England;FIFA 24
+Bradford City;League Two;England;FIFA 24
+Adelaide United;A-League Men;Australia;FIFA 24
+Brisbane Roar;A-League Men;Australia;FIFA 24
+Real Tomayapo;Divisi√≥n de F√∫tbol Profesional;Bolivia;FIFA 24
+VfB L√ºbeck;3. Liga;Germany;FIFA 24
+Sydney FC;A-League Men;Australia;FIFA 24
+Shamrock Rovers;Premier Division;Republic of Ireland;FIFA 24
+Borussia Dortmund II;3. Liga;Germany;FIFA 24
+IF Brommapojkarna;Allsvenskan;Sweden;FIFA 24
+SC Freiburg II;3. Liga;Germany;FIFA 24
+Ruch Chorz√≥w;Ekstraklasa;Poland;FIFA 24
+Blau-Wei√ü Linz;Bundesliga;Austria;FIFA 24
+Fleetwood Town;League One;England;FIFA 24
+Port Vale;League One;England;FIFA 24
+Rayo Zuliano;Primera Division;Venezuela;FIFA 24
+Mansfield Town;League Two;England;FIFA 24
+Cambridge United;League One;England;FIFA 24
+Kalmar FF;Allsvenskan;Sweden;FIFA 24
+SpVgg Unterhaching;3. Liga;Germany;FIFA 24
+Dundee FC;Premiership;Scotland;FIFA 24
+Carlisle United;League One;England;FIFA 24
+Suwon Samsung Bluewings;K League 1;Korea Republic;FIFA 24
+HJK Helsinki;Veikkausliiga;Finland;FIFA 24
+ƒ∞stanbulspor;S√ºper Lig;T√ºrkiye;FIFA 24
+≈ÅKS ≈Å√≥d≈∫;Ekstraklasa;Poland;FIFA 24
+Mohun Bagan Super Giant;Super League;India;FIFA 24
+IFK V√§rnamo;Allsvenskan;Sweden;FIFA 24
+Salford City;League Two;England;FIFA 24
+Walsall;League Two;England;FIFA 24
+Newcastle Jets;A-League Men;Australia;FIFA 24
+Perth Glory;A-League Men;Australia;FIFA 24
+Forest Green Rovers;League Two;England;FIFA 24
+IK Sirius;Allsvenskan;Sweden;FIFA 24
+Halmstads BK;Allsvenskan;Sweden;FIFA 24
+Qingdao Hainiu FC;Super League;China PR;FIFA 24
+Livingston FC;Premiership;Scotland;FIFA 24
+Ross County FC;Premiership;Scotland;FIFA 24
+Crewe Alexandra;League Two;England;FIFA 24
+Barrow;League Two;England;FIFA 24
+Doncaster Rovers;League Two;England;FIFA 24
+Swindon Town;League Two;England;FIFA 24
+Colchester United;League Two;England;FIFA 24
+Cheltenham Town;League One;England;FIFA 24
+Notts County;League Two;England;FIFA 24
+FC Goa;Super League;India;FIFA 24
+Mumbai City FC;Super League;India;FIFA 24
+Stab√¶k Fotball;Eliteserien;Norway;FIFA 24
+Tianjin Jinmen Tiger;Super League;China PR;FIFA 24
+Troms√∏ IL;Eliteserien;Norway;FIFA 24
+St Patrick's Athletic FC;Premier Division;Republic of Ireland;FIFA 24
+FK Haugesund;Eliteserien;Norway;FIFA 24
+Meizhou Hakka;Super League;China PR;FIFA 24
+Mj√§llby AIF;Allsvenskan;Sweden;FIFA 24
+Hvidovre IF;Superliga;Denmark;FIFA 24
+Puszcza Niepo≈Çomice;Ekstraklasa;Poland;FIFA 24
+Aalesunds Fotballklubb;Eliteserien;Norway;FIFA 24
+Degerfors IF;Allsvenskan;Sweden;FIFA 24
+SC O»õelul Gala»õi;Liga I;Romania;FIFA 24
+East Bengal FC;Super League;India;FIFA 24
+Central Coast Mariners;A-League Men;Australia;FIFA 24
+Crawley Town;League Two;England;FIFA 24
+Varbergs BoIS;Allsvenskan;Sweden;FIFA 24
+Cangzhou Mighty Lions FC;Super League;China PR;FIFA 24
+Grimsby Town;League Two;England;FIFA 24
+Harrogate Town;League Two;England;FIFA 24
+Morecambe;League Two;England;FIFA 24
+Newport County;League Two;England;FIFA 24
+AFC Wimbledon;League Two;England;FIFA 24
+Kerala Blasters FC;Super League;India;FIFA 24
+Bengaluru FC;Super League;India;FIFA 24
+Derry City;Premier Division;Republic of Ireland;FIFA 24
+Tranmere Rovers;League Two;England;FIFA 24
+Sandefjord Fotball;Eliteserien;Norway;FIFA 24
+Accrington Stanley;League Two;England;FIFA 24
+Bohemian FC;Premier Division;Republic of Ireland;FIFA 24
+Shelbourne FC;Premier Division;Republic of Ireland;FIFA 24
+Odisha FC;Super League;India;FIFA 24
+Sutton United;League Two;England;FIFA 24
+Dalian Professional;Super League;China PR;FIFA 24
+Sligo Rovers;Premier Division;Republic of Ireland;FIFA 24
+Nantong Zhiyun;Super League;China PR;FIFA 24
+Dundalk;Premier Division;Republic of Ireland;FIFA 24
+Chennaiyin FC;Super League;India;FIFA 24
+Punjab;Super League;India;FIFA 24
+Drogheda United;Premier Division;Republic of Ireland;FIFA 24
+Jamshedpur FC;Super League;India;FIFA 24
+NorthEast United;Super League;India;FIFA 24
+Cork City;Premier Division;Republic of Ireland;FIFA 24
+UCD;Premier Division;Republic of Ireland;FIFA 24
+Hyderabad FC;Super League;India;FIFA 24
+Shenzhen FC;Super League;China PR;FIFA 24
+Manchester City;Premier League;England;FIFA 23
+FC Bayern M√ºnchen;Bundesliga;Germany;FIFA 23
+Real Madrid;La Liga;Spain;FIFA 23
+Liverpool;Premier League;England;FIFA 23
+Paris Saint-Germain;Ligue 1;France;FIFA 23
+Atl√©tico Madrid;La Liga;Spain;FIFA 23
+FC Barcelona;La Liga;Spain;FIFA 23
+Arsenal;Premier League;England;FIFA 23
+Chelsea;Premier League;England;FIFA 23
+Manchester United;Premier League;England;FIFA 23
+Inter;Serie A;Italy;FIFA 23
+Juventus;Serie A;Italy;FIFA 23
+Tottenham Hotspur;Premier League;England;FIFA 23
+Borussia Dortmund;Bundesliga;Germany;FIFA 23
+RB Leipzig;Bundesliga;Germany;FIFA 23
+AC Milan;Serie A;Italy;FIFA 23
+Newcastle United;Premier League;England;FIFA 23
+Napoli;Serie A;Italy;FIFA 23
+Roma;Serie A;Italy;FIFA 23
+Sevilla FC;La Liga;Spain;FIFA 23
+Villarreal CF;La Liga;Spain;FIFA 23
+Aston Villa;Premier League;England;FIFA 23
+Bayer 04 Leverkusen;Bundesliga;Germany;FIFA 23
+Lazio;Serie A;Italy;FIFA 23
+Athletic Club;La Liga;Spain;FIFA 23
+Real Betis Balompi√©;La Liga;Spain;FIFA 23
+Real Sociedad;La Liga;Spain;FIFA 23
+SL Benfica;Primeira Liga;Portugal;FIFA 23
+West Ham United;Premier League;England;FIFA 23
+Eintracht Frankfurt;Bundesliga;Germany;FIFA 23
+Fiorentina;Serie A;Italy;FIFA 23
+Atalanta;Serie A;Italy;FIFA 23
+Leicester City;Premier League;England;FIFA 23
+Wolverhampton Wanderers;Premier League;England;FIFA 23
+Olympique de Marseille;Ligue 1;France;FIFA 23
+FC Porto;Primeira Liga;Portugal;FIFA 23
+Sporting CP;Primeira Liga;Portugal;FIFA 23
+Nottingham Forest;Premier League;England;FIFA 23
+Brighton & Hove Albion;Premier League;England;FIFA 23
+Borussia M√∂nchengladbach;Bundesliga;Germany;FIFA 23
+Olympique Lyonnais;Ligue 1;France;FIFA 23
+Getafe CF;La Liga;Spain;FIFA 23
+AS Monaco;Ligue 1;France;FIFA 23
+Galatasaray SK;S√ºper Lig;T√ºrkiye;FIFA 23
+Stade Rennais FC;Ligue 1;France;FIFA 23
+RC Celta;La Liga;Spain;FIFA 23
+RCD Espanyol;La Liga;Spain;FIFA 23
+Ajax;Eredivisie;Netherlands;FIFA 23
+Everton;Premier League;England;FIFA 23
+Crystal Palace;Premier League;England;FIFA 23
+Flamengo;S√©rie A;Brazil;FIFA 23
+SC Freiburg;Bundesliga;Germany;FIFA 23
+TSG 1899 Hoffenheim;Bundesliga;Germany;FIFA 23
+RC Lens;Ligue 1;France;FIFA 23
+Lille OSC;Ligue 1;France;FIFA 23
+OGC Nice;Ligue 1;France;FIFA 23
+River Plate;Liga Profesional de F√∫tbol;Argentina;FIFA 23
+Sporting Clube de Braga;Primeira Liga;Portugal;FIFA 23
+Palmeiras;S√©rie A;Brazil;FIFA 23
+Fulham FC;Premier League;England;FIFA 23
+VfL Wolfsburg;Bundesliga;Germany;FIFA 23
+Valencia CF;La Liga;Spain;FIFA 23
+CA Osasuna;La Liga;Spain;FIFA 23
+Rayo Vallecano;La Liga;Spain;FIFA 23
+PSV;Eredivisie;Netherlands;FIFA 23
+Leeds United;Premier League;England;FIFA 23
+Atl√©tico Mineiro;S√©rie A;Brazil;FIFA 23
+Southampton;Premier League;England;FIFA 23
+1. FC Union Berlin;Bundesliga;Germany;FIFA 23
+Torino;Serie A;Italy;FIFA 23
+Udinese;Serie A;Italy;FIFA 23
+Fenerbah√ße SK;S√ºper Lig;T√ºrkiye;FIFA 23
+Be≈üikta≈ü JK;S√ºper Lig;T√ºrkiye;FIFA 23
+Boca Juniors;Liga Profesional de F√∫tbol;Argentina;FIFA 23
+Sassuolo;Serie A;Italy;FIFA 23
+Brentford;Premier League;England;FIFA 23
+1. FSV Mainz 05;Bundesliga;Germany;FIFA 23
+C√°diz CF;La Liga;Spain;FIFA 23
+Trabzonspor;S√ºper Lig;T√ºrkiye;FIFA 23
+Bologna;Serie A;Italy;FIFA 23
+Monza;Serie A;Italy;FIFA 23
+RCD Mallorca;La Liga;Spain;FIFA 23
+Real Valladolid CF;La Liga;Spain;FIFA 23
+Club Brugge KV;Pro League;Belgium;FIFA 23
+Girona FC;La Liga;Spain;FIFA 23
+Feyenoord;Eredivisie;Netherlands;FIFA 23
+SK Slavia Praha;Prvn√≠ liga;Czechia;FIFA 23
+Club Athletico Paranaense;S√©rie A;Brazil;FIFA 23
+AEK Athens;Super League;Greece;FIFA 23
+Internacional;S√©rie A;Brazil;FIFA 23
+1. FC K√∂ln;Bundesliga;Germany;FIFA 23
+VfB Stuttgart;Bundesliga;Germany;FIFA 23
+US Salernitana 1919;Serie A;Italy;FIFA 23
+FC Augsburg;Bundesliga;Germany;FIFA 23
+UD Almer√≠a;La Liga;Spain;FIFA 23
+Montpellier HSC;Ligue 1;France;FIFA 23
+FC Nantes;Ligue 1;France;FIFA 23
+RC Strasbourg Alsace;Ligue 1;France;FIFA 23
+Celtic;Premiership;Scotland;FIFA 23
+Red Bull Bragantino;S√©rie A;Brazil;FIFA 23
+AZ Alkmaar;Eredivisie;Netherlands;FIFA 23
+AFC Bournemouth;Premier League;England;FIFA 23
+Hertha BSC;Bundesliga;Germany;FIFA 23
+Hellas Verona FC;Serie A;Italy;FIFA 23
+Empoli;Serie A;Italy;FIFA 23
+Elche CF;La Liga;Spain;FIFA 23
+Racing Club;Liga Profesional de F√∫tbol;Argentina;FIFA 23
+Burnley;Championship;England;FIFA 23
+Sparta Praha;Prvn√≠ liga;Czechia;FIFA 23
+Al Nassr;Pro League;Saudi Arabia;FIFA 23
+Corinthians;S√©rie A;Brazil;FIFA 23
+Toulouse FC;Ligue 1;France;FIFA 23
+Santos;S√©rie A;Brazil;FIFA 23
+SV Werder Bremen;Bundesliga;Germany;FIFA 23
+Levante UD;La Liga 2;Spain;FIFA 23
+Rangers FC;Premiership;Scotland;FIFA 23
+S√£o Paulo;S√©rie A;Brazil;FIFA 23
+Lecce;Serie A;Italy;FIFA 23
+Panathinaikos FC;Super League;Greece;FIFA 23
+Al Hilal;Pro League;Saudi Arabia;FIFA 23
+Stade Brestois 29;Ligue 1;France;FIFA 23
+Stade de Reims;Ligue 1;France;FIFA 23
+Viktoria Plze≈à;Prvn√≠ liga;Czechia;FIFA 23
+PAOK;Super League;Greece;FIFA 23
+Spezia;Serie A;Italy;FIFA 23
+VfL Bochum 1848;Bundesliga;Germany;FIFA 23
+KRC Genk;Pro League;Belgium;FIFA 23
+UD Las Palmas;La Liga 2;Spain;FIFA 23
+FC Lorient;Ligue 1;France;FIFA 23
+Royal Antwerp FC;Pro League;Belgium;FIFA 23
+Granada CF;La Liga 2;Spain;FIFA 23
+Sheffield United;Championship;England;FIFA 23
+Watford;Championship;England;FIFA 23
+Middlesbrough;Championship;England;FIFA 23
+FC Schalke 04;Bundesliga;Germany;FIFA 23
+ESTAC Troyes;Ligue 1;France;FIFA 23
+Sampdoria;Serie A;Italy;FIFA 23
+FC K√∏benhavn;Superliga;Denmark;FIFA 23
+Fluminense;S√©rie A;Brazil;FIFA 23
+Los Angeles FC;Major League Soccer;United States;FIFA 23
+FC Twente;Eredivisie;Netherlands;FIFA 23
+Medipol Ba≈üak≈üehir FK;S√ºper Lig;T√ºrkiye;FIFA 23
+KAA Gent;Pro League;Belgium;FIFA 23
+Dynamo Kyiv;Premier League;Ukraine;FIFA 23
+FC Red Bull Salzburg;Bundesliga;Austria;FIFA 23
+Dinamo Zagreb;Hrvatska nogometna liga;Croatia;FIFA 23
+Union Saint-Gilloise;Pro League;Belgium;FIFA 23
+RSC Anderlecht;Pro League;Belgium;FIFA 23
+Norwich City;Championship;England;FIFA 23
+Botafogo;S√©rie A;Brazil;FIFA 23
+Philadelphia Union;Major League Soccer;United States;FIFA 23
+Independiente del Valle;Serie A;Ecuador;FIFA 23
+Clermont Foot 63;Ligue 1;France;FIFA 23
+AS Saint-√âtienne;Ligue 2;France;FIFA 23
+Hamburger SV;2. Bundesliga;Germany;FIFA 23
+Talleres;Liga Profesional de F√∫tbol;Argentina;FIFA 23
+Fortuna D√ºsseldorf;2. Bundesliga;Germany;FIFA 23
+AJ Auxerre;Ligue 1;France;FIFA 23
+Lan√∫s;Liga Profesional de F√∫tbol;Argentina;FIFA 23
+Cremonese;Serie A;Italy;FIFA 23
+Ferencv√°rosi Torna Club;Nemzeti Bajnoks√°g I;Hungary;FIFA 23
+Mamelodi Sundowns FC;Premier Soccer League;South Africa;FIFA 23
+Al Ittihad;Pro League;Saudi Arabia;FIFA 23
+Gil Vicente FC;Primeira Liga;Portugal;FIFA 23
+Tigre;Liga Profesional de F√∫tbol;Argentina;FIFA 23
+West Bromwich Albion;Championship;England;FIFA 23
+FC Utrecht;Eredivisie;Netherlands;FIFA 23
+BSC Young Boys;Super League;Switzerland;FIFA 23
+Barcelona de Guayaquil;Serie A;Ecuador;FIFA 23
+Adana Demirspor;S√ºper Lig;T√ºrkiye;FIFA 23
+Libertad;Divisi√≥n Profesional;Paraguay;FIFA 23
+SV Darmstadt 98;2. Bundesliga;Germany;FIFA 23
+Argentinos Juniors;Liga Profesional de F√∫tbol;Argentina;FIFA 23
+Shakhtar Donetsk;Premier League;Ukraine;FIFA 23
+Fortaleza;S√©rie A;Brazil;FIFA 23
+Deportivo Alav√©s;La Liga 2;Spain;FIFA 23
+SD Eibar;La Liga 2;Spain;FIFA 23
+Estudiantes de La Plata;Liga Profesional de F√∫tbol;Argentina;FIFA 23
+Genoa;Serie B;Italy;FIFA 23
+Club Nacional de Football;Primera Divisi√≥n;Uruguay;FIFA 23
+Antalyaspor;S√ºper Lig;T√ºrkiye;FIFA 23
+Kasƒ±mpa≈üa SK;S√ºper Lig;T√ºrkiye;FIFA 23
+Atl√©tico Nacional;Categor√≠a Primera A;Colombia;FIFA 23
+Millonarios FC;Categor√≠a Primera A;Colombia;FIFA 23
+Alanyaspor;S√ºper Lig;T√ºrkiye;FIFA 23
+Angers SCO;Ligue 1;France;FIFA 23
+Blackburn Rovers;Championship;England;FIFA 23
+GD Chaves;Primeira Liga;Portugal;FIFA 23
+Hajduk Split;Hrvatska nogometna liga;Croatia;FIFA 23
+Coventry City;Championship;England;FIFA 23
+Preston North End;Championship;England;FIFA 23
+Independiente;Liga Profesional de F√∫tbol;Argentina;FIFA 23
+Fatih Karag√ºmr√ºk;S√ºper Lig;T√ºrkiye;FIFA 23
+Stoke City;Championship;England;FIFA 23
+Queens Park Rangers;Championship;England;FIFA 23
+GD Estoril Praia;Primeira Liga;Portugal;FIFA 23
+Portland Timbers;Major League Soccer;United States;FIFA 23
+Seattle Sounders FC;Major League Soccer;United States;FIFA 23
+Frosinone;Serie B;Italy;FIFA 23
+Portimonense SC;Primeira Liga;Portugal;FIFA 23
+Cagliari;Serie B;Italy;FIFA 23
+Al Shabab;Pro League;Saudi Arabia;FIFA 23
+Malm√∂ FF;Allsvenskan;Sweden;FIFA 23
+Col√≥n;Liga Profesional de F√∫tbol;Argentina;FIFA 23
+Casa Pia;Primeira Liga;Portugal;FIFA 23
+Hearts;Premiership;Scotland;FIFA 23
+Godoy Cruz;Liga Profesional de F√∫tbol;Argentina;FIFA 23
+Defensa y Justicia;Liga Profesional de F√∫tbol;Argentina;FIFA 23
+Vit√≥ria SC;Primeira Liga;Portugal;FIFA 23
+Hurac√°n;Liga Profesional de F√∫tbol;Argentina;FIFA 23
+Millwall FC;Championship;England;FIFA 23
+AC Ajaccio;Ligue 1;France;FIFA 23
+Boavista FC;Primeira Liga;Portugal;FIFA 23
+Universidad Cat√≥lica;Primera Division;Chile;FIFA 23
+Am√©rica Mineiro;S√©rie A;Brazil;FIFA 23
+FC Arouca;Primeira Liga;Portugal;FIFA 23
+Luton Town;Championship;England;FIFA 23
+Colo-Colo;Primera Division;Chile;FIFA 23
+LDU Quito;Serie A;Ecuador;FIFA 23
+FK Bod√∏/Glimt;Eliteserien;Norway;FIFA 23
+Hull City;Championship;England;FIFA 23
+Alianza Lima;Liga 1;Peru;FIFA 23
+Konyaspor;S√ºper Lig;T√ºrkiye;FIFA 23
+Famalic√£o;Primeira Liga;Portugal;FIFA 23
+DC United;Major League Soccer;United States;FIFA 23
+New England Revolution;Major League Soccer;United States;FIFA 23
+Vizela;Primeira Liga;Portugal;FIFA 23
+Ulsan HD FC;K League 1;Korea Republic;FIFA 23
+V√©lez Sarsfield;Liga Profesional de F√∫tbol;Argentina;FIFA 23
+Rio Ave FC;Primeira Liga;Portugal;FIFA 23
+Real Oviedo;La Liga 2;Spain;FIFA 23
+Junior FC;Categor√≠a Primera A;Colombia;FIFA 23
+Independiente Medell√≠n;Categor√≠a Primera A;Colombia;FIFA 23
+FC Cartagena;La Liga 2;Spain;FIFA 23
+Real Zaragoza;La Liga 2;Spain;FIFA 23
+Club Olimpia;Divisi√≥n Profesional;Paraguay;FIFA 23
+San Lorenzo de Almagro;Liga Profesional de F√∫tbol;Argentina;FIFA 23
+Pe√±arol;Primera Divisi√≥n;Uruguay;FIFA 23
+LASK Linz;Bundesliga;Austria;FIFA 23
+FC Cincinnati;Major League Soccer;United States;FIFA 23
+Reading FC;Championship;England;FIFA 23
+CD Tenerife;La Liga 2;Spain;FIFA 23
+Br√∏ndby IF;Superliga;Denmark;FIFA 23
+1. FC Kaiserslautern;2. Bundesliga;Germany;FIFA 23
+Minnesota United FC;Major League Soccer;United States;FIFA 23
+Toronto FC;Major League Soccer;United States;FIFA 23
+APOEL FC;1. Division;Cyprus;FIFA 23
+Karlsruher SC;2. Bundesliga;Germany;FIFA 23
+SC Paderborn 07;2. Bundesliga;Germany;FIFA 23
+Parma;Serie B;Italy;FIFA 23
+Palermo FC;Serie B;Italy;FIFA 23
+Ascoli;Serie B;Italy;FIFA 23
+SSC Bari;Serie B;Italy;FIFA 23
+San Jose Earthquakes;Major League Soccer;United States;FIFA 23
+Newell's Old Boys;Liga Profesional de F√∫tbol;Argentina;FIFA 23
+Servette FC;Super League;Switzerland;FIFA 23
+Central Cordoba SdE;Liga Profesional de F√∫tbol;Argentina;FIFA 23
+Club Atl√©tico Sarmiento;Liga Profesional de F√∫tbol;Argentina;FIFA 23
+Cerro Porte√±o;Divisi√≥n Profesional;Paraguay;FIFA 23
+Orlando Pirates;Premier Soccer League;South Africa;FIFA 23
+Al Ain;Pro League;United Arab Emirates;FIFA 23
+Birmingham City;Championship;England;FIFA 23
+Burgos CF;La Liga 2;Spain;FIFA 23
+SV Sandhausen;2. Bundesliga;Germany;FIFA 23
+Mar√≠timo;Primeira Liga;Portugal;FIFA 23
+Deportivo Pereira;Categor√≠a Primera A;Colombia;FIFA 23
+Lech Pozna≈Ñ;Ekstraklasa;Poland;FIFA 23
+Sunderland;Championship;England;FIFA 23
+Deportes Tolima;Categor√≠a Primera A;Colombia;FIFA 23
+Vitesse;Eredivisie;Netherlands;FIFA 23
+NEC Nijmegen;Eredivisie;Netherlands;FIFA 23
+SC Heerenveen;Eredivisie;Netherlands;FIFA 23
+Bristol City;Championship;England;FIFA 23
+FC Basel 1893;Super League;Switzerland;FIFA 23
+1. FC Heidenheim 1846;2. Bundesliga;Germany;FIFA 23
+KV Mechelen;Pro League;Belgium;FIFA 23
+Emelec;Serie A;Ecuador;FIFA 23
+Wuhan Three Towns;Super League;China PR;FIFA 23
+MKE Ankarag√ºc√º;S√ºper Lig;T√ºrkiye;FIFA 23
+Pisa;Serie B;Italy;FIFA 23
+Huddersfield Town;Championship;England;FIFA 23
+Kayserispor;S√ºper Lig;T√ºrkiye;FIFA 23
+Shanghai Port;Super League;China PR;FIFA 23
+Royal Charleroi Sporting Club;Pro League;Belgium;FIFA 23
+Santa Clara;Primeira Liga;Portugal;FIFA 23
+DSC Arminia Bielefeld;2. Bundesliga;Germany;FIFA 23
+Sporting Cristal;Liga 1;Peru;FIFA 23
+Universitario de Deportes;Liga 1;Peru;FIFA 23
+Swansea City;Championship;England;FIFA 23
+1. FC N√ºrnberg;2. Bundesliga;Germany;FIFA 23
+Columbus Crew;Major League Soccer;United States;FIFA 23
+Sivasspor;S√ºper Lig;T√ºrkiye;FIFA 23
+FC Dallas;Major League Soccer;United States;FIFA 23
+Sporting Kansas City;Major League Soccer;United States;FIFA 23
+LA Galaxy;Major League Soccer;United States;FIFA 23
+New York City FC;Major League Soccer;United States;FIFA 23
+√Åguilas Doradas;Categor√≠a Primera A;Colombia;FIFA 23
+Jeonbuk Hyundai Motors;K League 1;Korea Republic;FIFA 23
+Paris FC;Ligue 2;France;FIFA 23
+Real Sporting de Gij√≥n;La Liga 2;Spain;FIFA 23
+Venezia;Serie B;Italy;FIFA 23
+Charlotte FC;Major League Soccer;United States;FIFA 23
+SK Sturm Graz;Bundesliga;Austria;FIFA 23
+Como;Serie B;Italy;FIFA 23
+Cercle Brugge KSV;Pro League;Belgium;FIFA 23
+Real Salt Lake;Major League Soccer;United States;FIFA 23
+Orlando City SC;Major League Soccer;United States;FIFA 23
+FC Sochaux-Montb√©liard;Ligue 2;France;FIFA 23
+Hannover 96;2. Bundesliga;Germany;FIFA 23
+Standard de Li√®ge;Pro League;Belgium;FIFA 23
+FC Midtjylland;Superliga;Denmark;FIFA 23
+Independiente Santa Fe;Categor√≠a Primera A;Colombia;FIFA 23
+Nashville SC;Major League Soccer;United States;FIFA 23
+Rosario Central;Liga Profesional de F√∫tbol;Argentina;FIFA 23
+Oud-Heverlee Leuven;Pro League;Belgium;FIFA 23
+SD Huesca;La Liga 2;Spain;FIFA 23
+FC St. Pauli;2. Bundesliga;Germany;FIFA 23
+Inter Miami;Major League Soccer;United States;FIFA 23
+Al Fateh;Pro League;Saudi Arabia;FIFA 23
+Aarhus Gymnastikforening;Superliga;Denmark;FIFA 23
+CD Legan√©s;La Liga 2;Spain;FIFA 23
+FC Hansa Rostock;2. Bundesliga;Germany;FIFA 23
+Platense;Liga Profesional de F√∫tbol;Argentina;FIFA 23
+Ternana;Serie B;Italy;FIFA 23
+FC Girondins de Bordeaux;Ligue 2;France;FIFA 23
+Holstein Kiel;2. Bundesliga;Germany;FIFA 23
+FC Metz;Ligue 2;France;FIFA 23
+CA Banfield;Liga Profesional de F√∫tbol;Argentina;FIFA 23
+Legia Warszawa;Ekstraklasa;Poland;FIFA 23
+Kaizer Chiefs;Premier Soccer League;South Africa;FIFA 23
+Atl√©tico Tucum√°n;Liga Profesional de F√∫tbol;Argentina;FIFA 23
+FC Pa√ßos de Ferreira;Primeira Liga;Portugal;FIFA 23
+Club Atl√©tico Uni√≥n;Liga Profesional de F√∫tbol;Argentina;FIFA 23
+Shandong Taishan;Super League;China PR;FIFA 23
+Fortuna Sittard;Eredivisie;Netherlands;FIFA 23
+Wigan Athletic;Championship;England;FIFA 23
+FC Z√ºrich;Super League;Switzerland;FIFA 23
+SD Aucas;Serie A;Ecuador;FIFA 23
+Rak√≥w Czƒôstochowa;Ekstraklasa;Poland;FIFA 23
+FCSB;Liga I;Romania;FIFA 23
+Pogo≈Ñ Szczecin;Ekstraklasa;Poland;FIFA 23
+SV Zulte Waregem;Pro League;Belgium;FIFA 23
+Molde FK;Eliteserien;Norway;FIFA 23
+Hatayspor;S√ºper Lig;T√ºrkiye;FIFA 23
+SpVgg Greuther F√ºrth;2. Bundesliga;Germany;FIFA 23
+Sint-Truidense VV;Pro League;Belgium;FIFA 23
+KVC Westerlo;Pro League;Belgium;FIFA 23
+Cardiff City;Championship;England;FIFA 23
+KV Oostende;Pro League;Belgium;FIFA 23
+New York Red Bulls;Major League Soccer;United States;FIFA 23
+FC Sion;Super League;Switzerland;FIFA 23
+Chicago Fire;Major League Soccer;United States;FIFA 23
+Colorado Rapids;Major League Soccer;United States;FIFA 23
+Houston Dynamo;Major League Soccer;United States;FIFA 23
+Goi√°s;S√©rie A;Brazil;FIFA 23
+Djurg√•rdens IF;Allsvenskan;Sweden;FIFA 23
+BK H√§cken;Allsvenskan;Sweden;FIFA 23
+AS Reggina 1914;Serie B;Italy;FIFA 23
+Stade Malherbe Caen;Ligue 2;France;FIFA 23
+Liverpool FC Uruguay;Primera Divisi√≥n;Uruguay;FIFA 23
+CFR Cluj;Liga I;Romania;FIFA 23
+FBC Melgar;Liga 1;Peru;FIFA 23
+KV Kortrijk;Pro League;Belgium;FIFA 23
+Austin FC;Major League Soccer;United States;FIFA 23
+Atlanta United;Major League Soccer;United States;FIFA 23
+Vancouver Whitecaps FC;Major League Soccer;United States;FIFA 23
+1. FC Magdeburg;2. Bundesliga;Germany;FIFA 23
+SK Rapid;Bundesliga;Austria;FIFA 23
+FK Austria Wien;Bundesliga;Austria;FIFA 23
+Rotherham United;Championship;England;FIFA 23
+Al Raed;Pro League;Saudi Arabia;FIFA 23
+Al Taawoun FC;Pro League;Saudi Arabia;FIFA 23
+Sheffield Wednesday;League One;England;FIFA 23
+SSV Jahn Regensburg;2. Bundesliga;Germany;FIFA 23
+CF Montr√©al;Major League Soccer;United States;FIFA 23
+Melbourne Victory;A-League Men;Australia;FIFA 23
+Sparta Rotterdam;Eredivisie;Netherlands;FIFA 23
+Cosenza;Serie B;Italy;FIFA 23
+Rosenborg BK;Eliteserien;Norway;FIFA 23
+Universitatea Craiova;Liga I;Romania;FIFA 23
+Aalborg Boldspilklub;Superliga;Denmark;FIFA 23
+Rapid Bucuresti;Liga I;Romania;FIFA 23
+Club Atl√©tico River Plate;Primera Divisi√≥n;Uruguay;FIFA 23
+M√°laga CF;La Liga 2;Spain;FIFA 23
+Albacete Balompi√©;La Liga 2;Spain;FIFA 23
+Grasshopper Club Z√ºrich;Super League;Switzerland;FIFA 23
+Aberdeen;Premiership;Scotland;FIFA 23
+Hibernian;Premiership;Scotland;FIFA 23
+Derby County;League One;England;FIFA 23
+Ipswich Town;League One;England;FIFA 23
+Melbourne City FC;A-League Men;Australia;FIFA 23
+S√ºdtirol;Serie B;Italy;FIFA 23
+Bol√≠var;Divisi√≥n de F√∫tbol Profesional;Bolivia;FIFA 23
+FC Groningen;Eredivisie;Netherlands;FIFA 23
+FC Luzern;Super League;Switzerland;FIFA 23
+FC St.Gallen 1879;Super League;Switzerland;FIFA 23
+√úmraniyespor;S√ºper Lig;T√ºrkiye;FIFA 23
+Blackpool FC;Championship;England;FIFA 23
+Deportivo Cuenca;Serie A;Ecuador;FIFA 23
+SC Cambuur;Eredivisie;Netherlands;FIFA 23
+Barracas Central;Liga Profesional de F√∫tbol;Argentina;FIFA 23
+Danubio FC;Primera Divisi√≥n;Uruguay;FIFA 23
+SPAL;Serie B;Italy;FIFA 23
+Beijing Guoan;Super League;China PR;FIFA 23
+Benevento;Serie B;Italy;FIFA 23
+Cienciano;Liga 1;Peru;FIFA 23
+Eintracht Braunschweig;2. Bundesliga;Germany;FIFA 23
+Incheon United FC;K League 1;Korea Republic;FIFA 23
+Suwon FC;K League 1;Korea Republic;FIFA 23
+AIK;Allsvenskan;Sweden;FIFA 23
+Academia Puerto Cabello;Primera Division;Venezuela;FIFA 23
+Pohang Steelers;K League 1;Korea Republic;FIFA 23
+Jeju United FC;K League 1;Korea Republic;FIFA 23
+Perugia;Serie B;Italy;FIFA 23
+Racing Santander;La Liga 2;Spain;FIFA 23
+CD √ëublense;Primera Division;Chile;FIFA 23
+Le Havre AC;Ligue 2;France;FIFA 23
+Modena;Serie B;Italy;FIFA 23
+FC Seoul;K League 1;Korea Republic;FIFA 23
+Suwon Samsung Bluewings;K League 1;Korea Republic;FIFA 23
+Gimnasia y Esgrima La Plata;Liga Profesional de F√∫tbol;Argentina;FIFA 23
+AS Eupen;Pro League;Belgium;FIFA 23
+N√Æmes Olympique;Ligue 2;France;FIFA 23
+CD Palestino;Primera Division;Chile;FIFA 23
+Al Ettifaq;Pro League;Saudi Arabia;FIFA 23
+Guaran√≠;Divisi√≥n Profesional;Paraguay;FIFA 23
+SD Ponferradina;La Liga 2;Spain;FIFA 23
+CD Mirand√©s;La Liga 2;Spain;FIFA 23
+Randers FC;Superliga;Denmark;FIFA 23
+FC Nordsj√¶lland;Superliga;Denmark;FIFA 23
+1. FC Saarbr√ºcken;3. Liga;Germany;FIFA 23
+Grenoble Foot 38;Ligue 2;France;FIFA 23
+Metropolitanos FC;Primera Division;Venezuela;FIFA 23
+FC Emmen;Eredivisie;Netherlands;FIFA 23
+Stade Lavallois Mayenne FC;Ligue 2;France;FIFA 23
+Amiens SC;Ligue 2;France;FIFA 23
+Go Ahead Eagles;Eredivisie;Netherlands;FIFA 23
+Al Wahda;Pro League;Saudi Arabia;FIFA 23
+TSV 1860 M√ºnchen;3. Liga;Germany;FIFA 23
+Lillestr√∏m SK;Eliteserien;Norway;FIFA 23
+Western Sydney Wanderers;A-League Men;Australia;FIFA 23
+Viking FK;Eliteserien;Norway;FIFA 23
+FC Lugano;Super League;Switzerland;FIFA 23
+Villarreal CF B;La Liga 2;Spain;FIFA 23
+UD Ibiza;La Liga 2;Spain;FIFA 23
+En Avant Guingamp;Ligue 2;France;FIFA 23
+IFK G√∂teborg;Allsvenskan;Sweden;FIFA 23
+Damac FC;Pro League;Saudi Arabia;FIFA 23
+Magallanes;Primera Division;Chile;FIFA 23
+Charlton Athletic;League One;England;FIFA 23
+RKC Waalwijk;Eredivisie;Netherlands;FIFA 23
+Valenciennes FC;Ligue 2;France;FIFA 23
+The Strongest;Divisi√≥n de F√∫tbol Profesional;Bolivia;FIFA 23
+Cittadella;Serie B;Italy;FIFA 23
+FC Andorra;La Liga 2;Spain;FIFA 23
+CD Cobresal;Primera Division;Chile;FIFA 23
+Universidad C√©sar Vallejo;Liga 1;Peru;FIFA 23
+Plymouth Argyle;League One;England;FIFA 23
+Caracas FC;Primera Division;Venezuela;FIFA 23
+Deportivo T√°chira;Primera Division;Venezuela;FIFA 23
+Monagas SC;Primera Division;Venezuela;FIFA 23
+Peterborough United;League One;England;FIFA 23
+Deportivo Binacional;Liga 1;Peru;FIFA 23
+V√•lerenga Fotball;Eliteserien;Norway;FIFA 23
+Jagiellonia Bia≈Çystok;Ekstraklasa;Poland;FIFA 23
+Al Fayha;Pro League;Saudi Arabia;FIFA 23
+Excelsior;Eredivisie;Netherlands;FIFA 23
+Gaziantep FK;S√ºper Lig;T√ºrkiye;FIFA 23
+IF Elfsborg;Allsvenskan;Sweden;FIFA 23
+Brescia;Serie B;Italy;FIFA 23
+Hammarby Fotboll;Allsvenskan;Sweden;FIFA 23
+Wolfsberger AC;Bundesliga;Austria;FIFA 23
+Sepsi OSK;Liga I;Romania;FIFA 23
+Dijon FCO;Ligue 2;France;FIFA 23
+ƒ∞stanbulspor;S√ºper Lig;T√ºrkiye;FIFA 23
+Piast Gliwice;Ekstraklasa;Poland;FIFA 23
+CD Lugo;La Liga 2;Spain;FIFA 23
+Radomiak Radom;Ekstraklasa;Poland;FIFA 23
+Gangwon FC;K League 1;Korea Republic;FIFA 23
+Defensor Sporting;Primera Divisi√≥n;Uruguay;FIFA 23
+Dynamo Dresden;3. Liga;Germany;FIFA 23
+Giresunspor;S√ºper Lig;T√ºrkiye;FIFA 23
+FCV Farul Constan»õa;Liga I;Romania;FIFA 23
+Bolton Wanderers;League One;England;FIFA 23
+FC U Craiova 1948;Liga I;Romania;FIFA 23
+Daegu FC;K League 1;Korea Republic;FIFA 23
+SV Ried;Bundesliga;Austria;FIFA 23
+Austria Lustenau;Bundesliga;Austria;FIFA 23
+Silkeborg IF;Superliga;Denmark;FIFA 23
+Odense Boldklub;Superliga;Denmark;FIFA 23
+Chamois Niortais FC;Ligue 2;France;FIFA 23
+FC Voluntari;Liga I;Romania;FIFA 23
+FC Annecy;Ligue 2;France;FIFA 23
+Sydney FC;A-League Men;Australia;FIFA 23
+Rodez Aveyron Football;Ligue 2;France;FIFA 23
+Viktoria K√∂ln;3. Liga;Germany;FIFA 23
+RFC Seraing;Pro League;Belgium;FIFA 23
+Sporting Club Bastia;Ligue 2;France;FIFA 23
+Arsenal de Sarandi;Liga Profesional de F√∫tbol;Argentina;FIFA 23
+SV Elversberg;3. Liga;Germany;FIFA 23
+Sportivo Ameliano;Divisi√≥n Profesional;Paraguay;FIFA 23
+Western United;A-League Men;Australia;FIFA 23
+Shanghai Shenhua;Super League;China PR;FIFA 23
+Oriente Petrolero;Divisi√≥n de F√∫tbol Profesional;Bolivia;FIFA 23
+Shrewsbury Town;League One;England;FIFA 23
+Warta Pozna≈Ñ;Ekstraklasa;Poland;FIFA 23
+FC Volendam;Eredivisie;Netherlands;FIFA 23
+FC Ingolstadt 04;3. Liga;Germany;FIFA 23
+Chengdu Rongcheng;Super League;China PR;FIFA 23
+Barnsley;League One;England;FIFA 23
+Wycombe Wanderers;League One;England;FIFA 23
+Delf√≠n SC;Serie A;Ecuador;FIFA 23
+Cracovia;Ekstraklasa;Poland;FIFA 23
+Zag≈Çƒôbie Lubin;Ekstraklasa;Poland;FIFA 23
+UTA Arad;Liga I;Romania;FIFA 23
+Oxford United;League One;England;FIFA 23
+Universitatea Cluj;Liga I;Romania;FIFA 23
+Abha;Pro League;Saudi Arabia;FIFA 23
+Viborg FF;Superliga;Denmark;FIFA 23
+Henan FC;Super League;China PR;FIFA 23
+G√≥rnik Zabrze;Ekstraklasa;Poland;FIFA 23
+Quevilly Rouen M√©tropole;Ligue 2;France;FIFA 23
+Al Tai;Pro League;Saudi Arabia;FIFA 23
+IFK Norrk√∂ping;Allsvenskan;Sweden;FIFA 23
+WSG Tirol;Bundesliga;Austria;FIFA 23
+SV Waldhof Mannheim;3. Liga;Germany;FIFA 23
+TSV Hartberg;Bundesliga;Austria;FIFA 23
+FC Hermannstadt;Liga I;Romania;FIFA 23
+Estudiantes de M√©rida;Primera Division;Venezuela;FIFA 23
+VfL Osnabr√ºck;3. Liga;Germany;FIFA 23
+Audax Italiano;Primera Division;Chile;FIFA 23
+SV Wehen Wiesbaden;3. Liga;Germany;FIFA 23
+Pau FC;Ligue 2;France;FIFA 23
+Lechia Gda≈Ñsk;Ekstraklasa;Poland;FIFA 23
+≈ölƒÖsk Wroc≈Çaw;Ekstraklasa;Poland;FIFA 23
+FC Erzgebirge Aue;3. Liga;Germany;FIFA 23
+SK Austria Klagenfurt;Bundesliga;Austria;FIFA 23
+Portsmouth;League One;England;FIFA 23
+Asocia»õia Clubul Sportiv Petrolul 52;Liga I;Romania;FIFA 23
+FSV Zwickau;3. Liga;Germany;FIFA 23
+SV Meppen;3. Liga;Germany;FIFA 23
+Milton Keynes Dons;League One;England;FIFA 23
+Gimcheon Sangmu FC;K League 1;Korea Republic;FIFA 23
+Rot-Weiss Essen;3. Liga;Germany;FIFA 23
+Wis≈Ça P≈Çock;Ekstraklasa;Poland;FIFA 23
+MSV Duisburg;3. Liga;Germany;FIFA 23
+Adelaide United;A-League Men;Australia;FIFA 23
+Zhejiang FC;Super League;China PR;FIFA 23
+Central Coast Mariners;A-League Men;Australia;FIFA 23
+General Bernardino Caballero;Divisi√≥n Profesional;Paraguay;FIFA 23
+Widzew ≈Å√≥d≈∫;Ekstraklasa;Poland;FIFA 23
+Sarpsborg 08 FF;Eliteserien;Norway;FIFA 23
+Kilmarnock;Premiership;Scotland;FIFA 23
+Motherwell FC;Premiership;Scotland;FIFA 23
+Stal Mielec;Ekstraklasa;Poland;FIFA 23
+CA Aldosivi;Liga Profesional de F√∫tbol;Argentina;FIFA 23
+Al Batin;Pro League;Saudi Arabia;FIFA 23
+Livingston FC;Premiership;Scotland;FIFA 23
+Ross County FC;Premiership;Scotland;FIFA 23
+Blooming;Divisi√≥n de F√∫tbol Profesional;Bolivia;FIFA 23
+Mied≈∫ Legnica;Ekstraklasa;Poland;FIFA 23
+Fleetwood Town;League One;England;FIFA 23
+Exeter City;League One;England;FIFA 23
+Cheltenham Town;League One;England;FIFA 23
+Hallescher FC;3. Liga;Germany;FIFA 23
+Lincoln City;League One;England;FIFA 23
+Wellington Phoenix;A-League Men;Australia;FIFA 23
+Cambridge United;League One;England;FIFA 23
+Changchun Yatai;Super League;China PR;FIFA 23
+Str√∏msgodset IF;Eliteserien;Norway;FIFA 23
+Tacuary FC;Divisi√≥n Profesional;Paraguay;FIFA 23
+Palmaflor del Tr√≥pico;Divisi√≥n de F√∫tbol Profesional;Bolivia;FIFA 23
+Kalmar FF;Allsvenskan;Sweden;FIFA 23
+FC Boto≈üani;Liga I;Romania;FIFA 23
+SC Rheindorf Altach;Bundesliga;Austria;FIFA 23
+SC Verl;3. Liga;Germany;FIFA 23
+Guabir√°;Divisi√≥n de F√∫tbol Profesional;Bolivia;FIFA 23
+Macarthur FC;A-League Men;Australia;FIFA 23
+FC Winterthur;Super League;Switzerland;FIFA 23
+Dundee United FC;Premiership;Scotland;FIFA 23
+Al Adalah FC;Pro League;Saudi Arabia;FIFA 23
+St Johnstone FC;Premiership;Scotland;FIFA 23
+St. Mirren;Premiership;Scotland;FIFA 23
+HJK Helsinki;Veikkausliiga;Finland;FIFA 23
+Chindia T√¢rgovi≈üte;Liga I;Romania;FIFA 23
+Al Khaleej;Pro League;Saudi Arabia;FIFA 23
+Patronato;Liga Profesional de F√∫tbol;Argentina;FIFA 23
+Salford City;League Two;England;FIFA 23
+Perth Glory;A-League Men;Australia;FIFA 23
+Forest Green Rovers;League One;England;FIFA 23
+Shamrock Rovers;Premier Division;Republic of Ireland;FIFA 23
+IK Sirius;Allsvenskan;Sweden;FIFA 23
+Borussia Dortmund II;3. Liga;Germany;FIFA 23
+SC Freiburg II;3. Liga;Germany;FIFA 23
+Morecambe;League One;England;FIFA 23
+Stevenage;League Two;England;FIFA 23
+Port Vale;League One;England;FIFA 23
+Northampton Town;League Two;England;FIFA 23
+FC Arge»ô;Liga I;Romania;FIFA 23
+Lyngby Boldklub;Superliga;Denmark;FIFA 23
+Wrexham;National League;England;FIFA 23
+Tianjin Jinmen Tiger;Super League;China PR;FIFA 23
+Troms√∏ IL;Eliteserien;Norway;FIFA 23
+AC Horsens;Superliga;Denmark;FIFA 23
+Leyton Orient;League Two;England;FIFA 23
+Burton Albion;League One;England;FIFA 23
+Bristol Rovers;League One;England;FIFA 23
+FK Haugesund;Eliteserien;Norway;FIFA 23
+Aalesunds Fotballklubb;Eliteserien;Norway;FIFA 23
+Hamarkameratene;Eliteserien;Norway;FIFA 23
+CS Mioveni;Liga I;Romania;FIFA 23
+Degerfors IF;Allsvenskan;Sweden;FIFA 23
+Accrington Stanley;League One;England;FIFA 23
+Korona Kielce;Ekstraklasa;Poland;FIFA 23
+Mohun Bagan Super Giant;Super League;India;FIFA 23
+VfB Oldenburg;3. Liga;Germany;FIFA 23
+IFK V√§rnamo;Allsvenskan;Sweden;FIFA 23
+Gillingham;League Two;England;FIFA 23
+Walsall;League Two;England;FIFA 23
+Bradford City;League Two;England;FIFA 23
+Brisbane Roar;A-League Men;Australia;FIFA 23
+Newcastle Jets;A-League Men;Australia;FIFA 23
+Kristiansund BK;Eliteserien;Norway;FIFA 23
+Varbergs BoIS;Allsvenskan;Sweden;FIFA 23
+Cangzhou Mighty Lions FC;Super League;China PR;FIFA 23
+SpVgg Bayreuth;3. Liga;Germany;FIFA 23
+Barrow;League Two;England;FIFA 23
+Stockport County;League Two;England;FIFA 23
+Swindon Town;League Two;England;FIFA 23
+Mansfield Town;League Two;England;FIFA 23
+Mumbai City FC;Super League;India;FIFA 23
+Odds Ballklubb;Eliteserien;Norway;FIFA 23
+Carlisle United;League Two;England;FIFA 23
+Mj√§llby AIF;Allsvenskan;Sweden;FIFA 23
+Sandefjord Fotball;Eliteserien;Norway;FIFA 23
+Crawley Town;League Two;England;FIFA 23
+GIF Sundsvall;Allsvenskan;Sweden;FIFA 23
+Grimsby Town;League Two;England;FIFA 23
+Harrogate Town;League Two;England;FIFA 23
+Crewe Alexandra;League Two;England;FIFA 23
+Newport County;League Two;England;FIFA 23
+AFC Wimbledon;League Two;England;FIFA 23
+Doncaster Rovers;League Two;England;FIFA 23
+Colchester United;League Two;England;FIFA 23
+Kerala Blasters FC;Super League;India;FIFA 23
+Bengaluru FC;Super League;India;FIFA 23
+Shenzhen FC;Super League;China PR;FIFA 23
+Helsingborgs IF;Allsvenskan;Sweden;FIFA 23
+Derry City;Premier Division;Republic of Ireland;FIFA 23
+Meizhou Hakka;Super League;China PR;FIFA 23
+Tranmere Rovers;League Two;England;FIFA 23
+Sutton United;League Two;England;FIFA 23
+Seongnam FC;K League 1;Korea Republic;FIFA 23
+Dalian Professional;Super League;China PR;FIFA 23
+FK Jerv;Eliteserien;Norway;FIFA 23
+Bohemian FC;Premier Division;Republic of Ireland;FIFA 23
+Dundalk;Premier Division;Republic of Ireland;FIFA 23
+Hartlepool United;League Two;England;FIFA 23
+Hyderabad FC;Super League;India;FIFA 23
+Rochdale;League Two;England;FIFA 23
+St Patrick's Athletic FC;Premier Division;Republic of Ireland;FIFA 23
+Sligo Rovers;Premier Division;Republic of Ireland;FIFA 23
+Chennaiyin FC;Super League;India;FIFA 23
+FC Goa;Super League;India;FIFA 23
+East Bengal FC;Super League;India;FIFA 23
+Shelbourne FC;Premier Division;Republic of Ireland;FIFA 23
+Odisha FC;Super League;India;FIFA 23
+Wuhan Yangtze River FC;Super League;China PR;FIFA 23
+Guangzhou FC;Super League;China PR;FIFA 23
+Jamshedpur FC;Super League;India;FIFA 23
+Finn Harps;Premier Division;Republic of Ireland;FIFA 23
+NorthEast United;Super League;India;FIFA 23
+Drogheda United;Premier Division;Republic of Ireland;FIFA 23
+Guangzhou City;Super League;China PR;FIFA 23
+UCD;Premier Division;Republic of Ireland;FIFA 23
+Hebei FC;Super League;China PR;FIFA 23
+Liverpool;Premier League;England;FIFA 22
+Manchester City;Premier League;England;FIFA 22
+Paris Saint-Germain;Ligue 1;France;FIFA 22
+Chelsea;Premier League;England;FIFA 22
+FC Bayern M√ºnchen;Bundesliga;Germany;FIFA 22
+Real Madrid;La Liga;Spain;FIFA 22
+Manchester United;Premier League;England;FIFA 22
+Atl√©tico Madrid;La Liga;Spain;FIFA 22
+FC Barcelona;La Liga;Spain;FIFA 22
+Inter;Serie A;Italy;FIFA 22
+Juventus;Serie A;Italy;FIFA 22
+Tottenham Hotspur;Premier League;England;FIFA 22
+Borussia Dortmund;Bundesliga;Germany;FIFA 22
+AC Milan;Serie A;Italy;FIFA 22
+Sevilla FC;La Liga;Spain;FIFA 22
+Arsenal;Premier League;England;FIFA 22
+Atalanta;Serie A;Italy;FIFA 22
+RB Leipzig;Bundesliga;Germany;FIFA 22
+Napoli;Serie A;Italy;FIFA 22
+Leicester City;Premier League;England;FIFA 22
+Real Sociedad;La Liga;Spain;FIFA 22
+Villarreal CF;La Liga;Spain;FIFA 22
+West Ham United;Premier League;England;FIFA 22
+Bayer 04 Leverkusen;Bundesliga;Germany;FIFA 22
+Lazio;Serie A;Italy;FIFA 22
+Roma;Serie A;Italy;FIFA 22
+Athletic Club;La Liga;Spain;FIFA 22
+Real Betis Balompi√©;La Liga;Spain;FIFA 22
+Sporting CP;Primeira Liga;Portugal;FIFA 22
+Ajax;Eredivisie;Netherlands;FIFA 22
+Aston Villa;Premier League;England;FIFA 22
+Everton;Premier League;England;FIFA 22
+Borussia M√∂nchengladbach;Bundesliga;Germany;FIFA 22
+Olympique Lyonnais;Ligue 1;France;FIFA 22
+Wolverhampton Wanderers;Premier League;England;FIFA 22
+Olympique de Marseille;Ligue 1;France;FIFA 22
+SL Benfica;Primeira Liga;Portugal;FIFA 22
+FC Porto;Primeira Liga;Portugal;FIFA 22
+Newcastle United;Premier League;England;FIFA 22
+TSG 1899 Hoffenheim;Bundesliga;Germany;FIFA 22
+AS Monaco;Ligue 1;France;FIFA 22
+Stade Rennais FC;Ligue 1;France;FIFA 22
+VfL Wolfsburg;Bundesliga;Germany;FIFA 22
+RCD Espanyol;La Liga;Spain;FIFA 22
+Valencia CF;La Liga;Spain;FIFA 22
+Granada CF;La Liga;Spain;FIFA 22
+PSV;Eredivisie;Netherlands;FIFA 22
+Burnley;Premier League;England;FIFA 22
+Crystal Palace;Premier League;England;FIFA 22
+Leeds United;Premier League;England;FIFA 22
+Brighton & Hove Albion;Premier League;England;FIFA 22
+Southampton;Premier League;England;FIFA 22
+Flamengo;S√©rie A;Brazil;FIFA 22
+Olympiacos FC;Super League;Greece;FIFA 22
+Eintracht Frankfurt;Bundesliga;Germany;FIFA 22
+Fiorentina;Serie A;Italy;FIFA 22
+Levante UD;La Liga;Spain;FIFA 22
+Lille OSC;Ligue 1;France;FIFA 22
+Getafe CF;La Liga;Spain;FIFA 22
+OGC Nice;Ligue 1;France;FIFA 22
+River Plate;Liga Profesional de F√∫tbol;Argentina;FIFA 22
+Tigres UANL;Liga MX;Mexico;FIFA 22
+RC Celta;La Liga;Spain;FIFA 22
+CA Osasuna;La Liga;Spain;FIFA 22
+Monterrey;Liga MX;Mexico;FIFA 22
+SK Slavia Praha;Prvn√≠ liga;Czechia;FIFA 22
+Atl√©tico Mineiro;S√©rie A;Brazil;FIFA 22
+SC Freiburg;Bundesliga;Germany;FIFA 22
+1. FC K√∂ln;Bundesliga;Germany;FIFA 22
+Sampdoria;Serie A;Italy;FIFA 22
+Torino;Serie A;Italy;FIFA 22
+RC Lens;Ligue 1;France;FIFA 22
+Montpellier HSC;Ligue 1;France;FIFA 22
+Fenerbah√ße SK;S√ºper Lig;T√ºrkiye;FIFA 22
+RC Strasbourg Alsace;Ligue 1;France;FIFA 22
+Boca Juniors;Liga Profesional de F√∫tbol;Argentina;FIFA 22
+Sassuolo;Serie A;Italy;FIFA 22
+Palmeiras;S√©rie A;Brazil;FIFA 22
+C√°diz CF;La Liga;Spain;FIFA 22
+Trabzonspor;S√ºper Lig;T√ºrkiye;FIFA 22
+Bologna;Serie A;Italy;FIFA 22
+Hellas Verona FC;Serie A;Italy;FIFA 22
+Deportivo Alav√©s;La Liga;Spain;FIFA 22
+Club Brugge KV;Pro League;Belgium;FIFA 22
+Feyenoord;Eredivisie;Netherlands;FIFA 22
+Watford;Premier League;England;FIFA 22
+Sparta Praha;Prvn√≠ liga;Czechia;FIFA 22
+Internacional;S√©rie A;Brazil;FIFA 22
+VfB Stuttgart;Bundesliga;Germany;FIFA 22
+Udinese;Serie A;Italy;FIFA 22
+FC Augsburg;Bundesliga;Germany;FIFA 22
+Galatasaray SK;S√ºper Lig;T√ºrkiye;FIFA 22
+FC Nantes;Ligue 1;France;FIFA 22
+Be≈üikta≈ü JK;S√ºper Lig;T√ºrkiye;FIFA 22
+Rangers FC;Premiership;Scotland;FIFA 22
+Club Am√©rica;Liga MX;Mexico;FIFA 22
+Red Bull Bragantino;S√©rie A;Brazil;FIFA 22
+Sporting Clube de Braga;Primeira Liga;Portugal;FIFA 22
+Brentford;Premier League;England;FIFA 22
+Fulham FC;Championship;England;FIFA 22
+Hertha BSC;Bundesliga;Germany;FIFA 22
+1. FSV Mainz 05;Bundesliga;Germany;FIFA 22
+Shakhtar Donetsk;Premier League;Ukraine;FIFA 22
+RCD Mallorca;La Liga;Spain;FIFA 22
+Elche CF;La Liga;Spain;FIFA 22
+Rayo Vallecano;La Liga;Spain;FIFA 22
+Norwich City;Premier League;England;FIFA 22
+Sheffield United;Championship;England;FIFA 22
+Club Athletico Paranaense;S√©rie A;Brazil;FIFA 22
+Corinthians;S√©rie A;Brazil;FIFA 22
+AEK Athens;Super League;Greece;FIFA 22
+AS Saint-√âtienne;Ligue 1;France;FIFA 22
+Santos;S√©rie A;Brazil;FIFA 22
+1. FC Union Berlin;Bundesliga;Germany;FIFA 22
+Cagliari;Serie A;Italy;FIFA 22
+FC Girondins de Bordeaux;Ligue 1;France;FIFA 22
+UD Almer√≠a;La Liga 2;Spain;FIFA 22
+Col√≥n;Liga Profesional de F√∫tbol;Argentina;FIFA 22
+Celtic;Premiership;Scotland;FIFA 22
+S√£o Paulo;S√©rie A;Brazil;FIFA 22
+Cruz Azul;Liga MX;Mexico;FIFA 22
+Al Hilal;Pro League;Saudi Arabia;FIFA 22
+Gr√™mio;S√©rie A;Brazil;FIFA 22
+Los Angeles FC;Major League Soccer;United States;FIFA 22
+AZ Alkmaar;Eredivisie;Netherlands;FIFA 22
+Stade Brestois 29;Ligue 1;France;FIFA 22
+Stade de Reims;Ligue 1;France;FIFA 22
+Viktoria Plze≈à;Prvn√≠ liga;Czechia;FIFA 22
+PAOK;Super League;Greece;FIFA 22
+Medipol Ba≈üak≈üehir FK;S√ºper Lig;T√ºrkiye;FIFA 22
+AFC Bournemouth;Championship;England;FIFA 22
+Libertad;Divisi√≥n Profesional;Paraguay;FIFA 22
+Dynamo Kyiv;Premier League;Ukraine;FIFA 22
+Le√≥n;Liga MX;Mexico;FIFA 22
+FC Red Bull Salzburg;Bundesliga;Austria;FIFA 22
+Real Valladolid CF;La Liga 2;Spain;FIFA 22
+Dinamo Zagreb;Hrvatska nogometna liga;Croatia;FIFA 22
+SD Eibar;La Liga 2;Spain;FIFA 22
+Genoa;Serie A;Italy;FIFA 22
+Racing Club;Liga Profesional de F√∫tbol;Argentina;FIFA 22
+Angers SCO;Ligue 1;France;FIFA 22
+Independiente;Liga Profesional de F√∫tbol;Argentina;FIFA 22
+Fatih Karag√ºmr√ºk;S√ºper Lig;T√ºrkiye;FIFA 22
+SV Werder Bremen;2. Bundesliga;Germany;FIFA 22
+ESTAC Troyes;Ligue 1;France;FIFA 22
+FC K√∏benhavn;Superliga;Denmark;FIFA 22
+Fluminense;S√©rie A;Brazil;FIFA 22
+FC Metz;Ligue 1;France;FIFA 22
+Panathinaikos FC;Super League;Greece;FIFA 22
+DSC Arminia Bielefeld;Bundesliga;Germany;FIFA 22
+VfL Bochum 1848;Bundesliga;Germany;FIFA 22
+KRC Genk;Pro League;Belgium;FIFA 22
+KAA Gent;Pro League;Belgium;FIFA 22
+Fortaleza;S√©rie A;Brazil;FIFA 22
+Venezia;Serie A;Italy;FIFA 22
+Empoli;Serie A;Italy;FIFA 22
+Cear√° Sporting Club;S√©rie A;Brazil;FIFA 22
+RSC Anderlecht;Pro League;Belgium;FIFA 22
+Royal Antwerp FC;Pro League;Belgium;FIFA 22
+Girona FC;La Liga 2;Spain;FIFA 22
+Atl√©tico Clube Goianiense;S√©rie A;Brazil;FIFA 22
+Blackburn Rovers;Championship;England;FIFA 22
+Al Nassr;Pro League;Saudi Arabia;FIFA 22
+Nottingham Forest;Championship;England;FIFA 22
+Queens Park Rangers;Championship;England;FIFA 22
+Clermont Foot 63;Ligue 1;France;FIFA 22
+Hamburger SV;2. Bundesliga;Germany;FIFA 22
+FC Schalke 04;2. Bundesliga;Germany;FIFA 22
+US Salernitana 1919;Serie A;Italy;FIFA 22
+Seattle Sounders FC;Major League Soccer;United States;FIFA 22
+Lan√∫s;Liga Profesional de F√∫tbol;Argentina;FIFA 22
+Bahia;S√©rie A;Brazil;FIFA 22
+Tijuana;Liga MX;Mexico;FIFA 22
+Santos Laguna;Liga MX;Mexico;FIFA 22
+Pachuca;Liga MX;Mexico;FIFA 22
+Cuiab√°;S√©rie A;Brazil;FIFA 22
+Ferencv√°rosi Torna Club;Nemzeti Bajnoks√°g I;Hungary;FIFA 22
+Toluca;Liga MX;Mexico;FIFA 22
+Defensa y Justicia;Liga Profesional de F√∫tbol;Argentina;FIFA 22
+Vit√≥ria SC;Primeira Liga;Portugal;FIFA 22
+West Bromwich Albion;Championship;England;FIFA 22
+Universidad Cat√≥lica;Primera Division;Chile;FIFA 22
+BSC Young Boys;Super League;Switzerland;FIFA 22
+Spezia;Serie A;Italy;FIFA 22
+Adana Demirspor;S√ºper Lig;T√ºrkiye;FIFA 22
+SpVgg Greuther F√ºrth;Bundesliga;Germany;FIFA 22
+FC Lorient;Ligue 1;France;FIFA 22
+Estudiantes de La Plata;Liga Profesional de F√∫tbol;Argentina;FIFA 22
+Club Nacional de Football;Primera Divisi√≥n;Uruguay;FIFA 22
+Union Saint-Gilloise;Pro League;Belgium;FIFA 22
+V√©lez Sarsfield;Liga Profesional de F√∫tbol;Argentina;FIFA 22
+Antalyaspor;S√ºper Lig;T√ºrkiye;FIFA 22
+FC Midtjylland;Superliga;Denmark;FIFA 22
+Rosario Central;Liga Profesional de F√∫tbol;Argentina;FIFA 22
+Atlanta United;Major League Soccer;United States;FIFA 22
+Alanyaspor;S√ºper Lig;T√ºrkiye;FIFA 22
+Atlas FC;Liga MX;Mexico;FIFA 22
+Reading FC;Championship;England;FIFA 22
+CD Tenerife;La Liga 2;Spain;FIFA 22
+Hajduk Split;Hrvatska nogometna liga;Croatia;FIFA 22
+Coventry City;Championship;England;FIFA 22
+Preston North End;Championship;England;FIFA 22
+Middlesbrough;Championship;England;FIFA 22
+Stoke City;Championship;England;FIFA 22
+CD Legan√©s;La Liga 2;Spain;FIFA 22
+Talleres;Liga Profesional de F√∫tbol;Argentina;FIFA 22
+GD Estoril Praia;Primeira Liga;Portugal;FIFA 22
+Portland Timbers;Major League Soccer;United States;FIFA 22
+Fortuna D√ºsseldorf;2. Bundesliga;Germany;FIFA 22
+Portimonense SC;Primeira Liga;Portugal;FIFA 22
+Parma;Serie B;Italy;FIFA 22
+Malm√∂ FF;Allsvenskan;Sweden;FIFA 22
+Puebla FC;Liga MX;Mexico;FIFA 22
+Guadalajara;Liga MX;Mexico;FIFA 22
+Pumas UNAM;Liga MX;Mexico;FIFA 22
+Al Ittihad;Pro League;Saudi Arabia;FIFA 22
+Gil Vicente FC;Primeira Liga;Portugal;FIFA 22
+Millwall FC;Championship;England;FIFA 22
+FC Pa√ßos de Ferreira;Primeira Liga;Portugal;FIFA 22
+Mar√≠timo;Primeira Liga;Portugal;FIFA 22
+Lech Pozna≈Ñ;Ekstraklasa;Poland;FIFA 22
+Deportes Tolima;Categor√≠a Primera A;Colombia;FIFA 22
+FC Utrecht;Eredivisie;Netherlands;FIFA 22
+Kawasaki Frontale;J1 League;Japan;FIFA 22
+Vitesse;Eredivisie;Netherlands;FIFA 22
+FC Basel 1893;Super League;Switzerland;FIFA 22
+Am√©rica Mineiro;S√©rie A;Brazil;FIFA 22
+Colo-Colo;Primera Division;Chile;FIFA 22
+Huddersfield Town;Championship;England;FIFA 22
+Benevento;Serie B;Italy;FIFA 22
+Kayserispor;S√ºper Lig;T√ºrkiye;FIFA 22
+G√∂ztepe SK;S√ºper Lig;T√ºrkiye;FIFA 22
+Hatayspor;S√ºper Lig;T√ºrkiye;FIFA 22
+Swansea City;Championship;England;FIFA 22
+Famalic√£o;Primeira Liga;Portugal;FIFA 22
+1. FC N√ºrnberg;2. Bundesliga;Germany;FIFA 22
+Argentinos Juniors;Liga Profesional de F√∫tbol;Argentina;FIFA 22
+√áaykur Rizespor;S√ºper Lig;T√ºrkiye;FIFA 22
+Columbus Crew;Major League Soccer;United States;FIFA 22
+Sivasspor;S√ºper Lig;T√ºrkiye;FIFA 22
+Gaziantep FK;S√ºper Lig;T√ºrkiye;FIFA 22
+New York City FC;Major League Soccer;United States;FIFA 22
+Juventude;S√©rie A;Brazil;FIFA 22
+Monza;Serie B;Italy;FIFA 22
+Real Sporting de Gij√≥n;La Liga 2;Spain;FIFA 22
+UD Las Palmas;La Liga 2;Spain;FIFA 22
+Kasƒ±mpa≈üa SK;S√ºper Lig;T√ºrkiye;FIFA 22
+Junior FC;Categor√≠a Primera A;Colombia;FIFA 22
+FC Cartagena;La Liga 2;Spain;FIFA 22
+Real Zaragoza;La Liga 2;Spain;FIFA 22
+Club Olimpia;Divisi√≥n Profesional;Paraguay;FIFA 22
+San Lorenzo de Almagro;Liga Profesional de F√∫tbol;Argentina;FIFA 22
+SD Huesca;La Liga 2;Spain;FIFA 22
+Necaxa;Liga MX;Mexico;FIFA 22
+Philadelphia Union;Major League Soccer;United States;FIFA 22
+Independiente del Valle;Serie A;Ecuador;FIFA 22
+Vissel Kobe;J1 League;Japan;FIFA 22
+Yokohama F. Marinos;J1 League;Japan;FIFA 22
+Minnesota United FC;Major League Soccer;United States;FIFA 22
+Atl√©tico de San Luis;Liga MX;Mexico;FIFA 22
+Karlsruher SC;2. Bundesliga;Germany;FIFA 22
+SC Paderborn 07;2. Bundesliga;Germany;FIFA 22
+AJ Auxerre;Ligue 2;France;FIFA 22
+Al Shabab;Pro League;Saudi Arabia;FIFA 22
+Newell's Old Boys;Liga Profesional de F√∫tbol;Argentina;FIFA 22
+M√°laga CF;La Liga 2;Spain;FIFA 22
+UD Ibiza;La Liga 2;Spain;FIFA 22
+CA Banfield;Liga Profesional de F√∫tbol;Argentina;FIFA 22
+Quer√©taro;Liga MX;Mexico;FIFA 22
+Cerro Porte√±o;Divisi√≥n Profesional;Paraguay;FIFA 22
+Kaizer Chiefs;Premier Soccer League;South Africa;FIFA 22
+Orlando Pirates;Premier Soccer League;South Africa;FIFA 22
+Birmingham City;Championship;England;FIFA 22
+Lecce;Serie B;Italy;FIFA 22
+Atl√©tico Tucum√°n;Liga Profesional de F√∫tbol;Argentina;FIFA 22
+Club Atl√©tico Uni√≥n;Liga Profesional de F√∫tbol;Argentina;FIFA 22
+Boavista FC;Primeira Liga;Portugal;FIFA 22
+Moreirense FC;Primeira Liga;Portugal;FIFA 22
+Shandong Taishan;Super League;China PR;FIFA 22
+FC Twente;Eredivisie;Netherlands;FIFA 22
+Fortuna Sittard;Eredivisie;Netherlands;FIFA 22
+Bristol City;Championship;England;FIFA 22
+Luton Town;Championship;England;FIFA 22
+1. FC Heidenheim 1846;2. Bundesliga;Germany;FIFA 22
+KV Mechelen;Pro League;Belgium;FIFA 22
+CD Tondela;Primeira Liga;Portugal;FIFA 22
+Barcelona de Guayaquil;Serie A;Ecuador;FIFA 22
+FCSB;Liga I;Romania;FIFA 22
+SV Zulte Waregem;Pro League;Belgium;FIFA 22
+Royal Charleroi Sporting Club;Pro League;Belgium;FIFA 22
+Santa Clara;Primeira Liga;Portugal;FIFA 22
+SV Darmstadt 98;2. Bundesliga;Germany;FIFA 22
+Cardiff City;Championship;England;FIFA 22
+Konyaspor;S√ºper Lig;T√ºrkiye;FIFA 22
+KV Oostende;Pro League;Belgium;FIFA 22
+New England Revolution;Major League Soccer;United States;FIFA 22
+Vizela;Primeira Liga;Portugal;FIFA 22
+FC Dallas;Major League Soccer;United States;FIFA 22
+Sporting Kansas City;Major League Soccer;United States;FIFA 22
+LA Galaxy;Major League Soccer;United States;FIFA 22
+Houston Dynamo;Major League Soccer;United States;FIFA 22
+Ulsan HD FC;K League 1;Korea Republic;FIFA 22
+Jeonbuk Hyundai Motors;K League 1;Korea Republic;FIFA 22
+SK Sturm Graz;Bundesliga;Austria;FIFA 22
+Mazatl√°n FC;Liga MX;Mexico;FIFA 22
+Urawa Red Diamonds;J1 League;Japan;FIFA 22
+Gimnasia y Esgrima La Plata;Liga Profesional de F√∫tbol;Argentina;FIFA 22
+Orlando City SC;Major League Soccer;United States;FIFA 22
+N√Æmes Olympique;Ligue 2;France;FIFA 22
+CFR Cluj;Liga I;Romania;FIFA 22
+Hannover 96;2. Bundesliga;Germany;FIFA 22
+SD Ponferradina;La Liga 2;Spain;FIFA 22
+Standard de Li√®ge;Pro League;Belgium;FIFA 22
+Real Oviedo;La Liga 2;Spain;FIFA 22
+FC Ju√°rez;Liga MX;Mexico;FIFA 22
+Austin FC;Major League Soccer;United States;FIFA 22
+Oud-Heverlee Leuven;Pro League;Belgium;FIFA 22
+Vancouver Whitecaps FC;Major League Soccer;United States;FIFA 22
+FC St. Pauli;2. Bundesliga;Germany;FIFA 22
+LASK Linz;Bundesliga;Austria;FIFA 22
+Inter Miami;Major League Soccer;United States;FIFA 22
+Al Taawoun FC;Pro League;Saudi Arabia;FIFA 22
+Toulouse FC;Ligue 2;France;FIFA 22
+Amiens SC;Ligue 2;France;FIFA 22
+FC Hansa Rostock;2. Bundesliga;Germany;FIFA 22
+Kashima Antlers;J1 League;Japan;FIFA 22
+Cerezo Osaka;J1 League;Japan;FIFA 22
+SSV Jahn Regensburg;2. Bundesliga;Germany;FIFA 22
+CF Montr√©al;Major League Soccer;United States;FIFA 22
+APOEL FC;1. Division;Cyprus;FIFA 22
+Platense;Liga Profesional de F√∫tbol;Argentina;FIFA 22
+Universitatea Craiova;Liga I;Romania;FIFA 22
+Aalborg Boldspilklub;Superliga;Denmark;FIFA 22
+Holstein Kiel;2. Bundesliga;Germany;FIFA 22
+Servette FC;Super League;Switzerland;FIFA 22
+Central Cordoba SdE;Liga Profesional de F√∫tbol;Argentina;FIFA 22
+Club Atl√©tico Sarmiento;Liga Profesional de F√∫tbol;Argentina;FIFA 22
+Legia Warszawa;Ekstraklasa;Poland;FIFA 22
+Hearts;Premiership;Scotland;FIFA 22
+Al Ain;Pro League;United Arab Emirates;FIFA 22
+Godoy Cruz;Liga Profesional de F√∫tbol;Argentina;FIFA 22
+Derby County;Championship;England;FIFA 22
+CA Aldosivi;Liga Profesional de F√∫tbol;Argentina;FIFA 22
+Chapecoense;S√©rie A;Brazil;FIFA 22
+Hurac√°n;Liga Profesional de F√∫tbol;Argentina;FIFA 22
+B-SAD;Primeira Liga;Portugal;FIFA 22
+SV Sandhausen;2. Bundesliga;Germany;FIFA 22
+NEC Nijmegen;Eredivisie;Netherlands;FIFA 22
+FC Z√ºrich;Super League;Switzerland;FIFA 22
+FC Luzern;Super League;Switzerland;FIFA 22
+FC Arouca;Primeira Liga;Portugal;FIFA 22
+Emelec;Serie A;Ecuador;FIFA 22
+LDU Quito;Serie A;Ecuador;FIFA 22
+Barnsley;Championship;England;FIFA 22
+FK Bod√∏/Glimt;Eliteserien;Norway;FIFA 22
+Shanghai Port;Super League;China PR;FIFA 22
+Hull City;Championship;England;FIFA 22
+Alianza Lima;Liga 1;Peru;FIFA 22
+Sporting Cristal;Liga 1;Peru;FIFA 22
+Sint-Truidense VV;Pro League;Belgium;FIFA 22
+DC United;Major League Soccer;United States;FIFA 22
+New York Red Bulls;Major League Soccer;United States;FIFA 22
+Chicago Fire;Major League Soccer;United States;FIFA 22
+Colorado Rapids;Major League Soccer;United States;FIFA 22
+Jeju United FC;K League 1;Korea Republic;FIFA 22
+Paris FC;Ligue 2;France;FIFA 22
+Stade Malherbe Caen;Ligue 2;France;FIFA 22
+Cercle Brugge KSV;Pro League;Belgium;FIFA 22
+Real Salt Lake;Major League Soccer;United States;FIFA 22
+Nagoya Grampus;J1 League;Japan;FIFA 22
+AS Eupen;Pro League;Belgium;FIFA 22
+Gamba Osaka;J1 League;Japan;FIFA 22
+Dijon FCO;Ligue 2;France;FIFA 22
+Am√©rica de Cali;Categor√≠a Primera A;Colombia;FIFA 22
+Deportivo Cali;Categor√≠a Primera A;Colombia;FIFA 22
+KV Kortrijk;Pro League;Belgium;FIFA 22
+Nashville SC;Major League Soccer;United States;FIFA 22
+Pe√±arol;Primera Divisi√≥n;Uruguay;FIFA 22
+Giresunspor;S√ºper Lig;T√ºrkiye;FIFA 22
+FC Cincinnati;Major League Soccer;United States;FIFA 22
+SK Rapid;Bundesliga;Austria;FIFA 22
+Al Ahli SFC;Pro League;Saudi Arabia;FIFA 22
+Rotherham United;League One;England;FIFA 22
+Al Faisaly;Pro League;Saudi Arabia;FIFA 22
+Sanfrecce Hiroshima;J1 League;Japan;FIFA 22
+Al Raed;Pro League;Saudi Arabia;FIFA 22
+Br√∏ndby IF;Superliga;Denmark;FIFA 22
+Aarhus Gymnastikforening;Superliga;Denmark;FIFA 22
+Sheffield Wednesday;League One;England;FIFA 22
+Go Ahead Eagles;Eredivisie;Netherlands;FIFA 22
+Heracles Almelo;Eredivisie;Netherlands;FIFA 22
+Shimizu S-Pulse;J1 League;Japan;FIFA 22
+FC Tokyo;J1 League;Japan;FIFA 22
+Toronto FC;Major League Soccer;United States;FIFA 22
+Sparta Rotterdam;Eredivisie;Netherlands;FIFA 22
+Rosenborg BK;Eliteserien;Norway;FIFA 22
+FC Lugano;Super League;Switzerland;FIFA 22
+San Jose Earthquakes;Major League Soccer;United States;FIFA 22
+Arsenal de Sarandi;Liga Profesional de F√∫tbol;Argentina;FIFA 22
+Grasshopper Club Z√ºrich;Super League;Switzerland;FIFA 22
+Burgos CF;La Liga 2;Spain;FIFA 22
+AC Ajaccio;Ligue 2;France;FIFA 22
+Willem II;Eredivisie;Netherlands;FIFA 22
+Valenciennes FC;Ligue 2;France;FIFA 22
+SC Heerenveen;Eredivisie;Netherlands;FIFA 22
+The Strongest;Divisi√≥n de F√∫tbol Profesional;Bolivia;FIFA 22
+FC Groningen;Eredivisie;Netherlands;FIFA 22
+Wigan Athletic;League One;England;FIFA 22
+Uni√≥n Espa√±ola;Primera Division;Chile;FIFA 22
+Blackpool FC;Championship;England;FIFA 22
+FC Ingolstadt 04;2. Bundesliga;Germany;FIFA 22
+Altay;S√ºper Lig;T√ºrkiye;FIFA 22
+Peterborough United;Championship;England;FIFA 22
+CD Antofagasta;Primera Division;Chile;FIFA 22
+Universidad Cat√≥lica del Ecuador;Serie A;Ecuador;FIFA 22
+Rak√≥w Czƒôstochowa;Ekstraklasa;Poland;FIFA 22
+Pogo≈Ñ Szczecin;Ekstraklasa;Poland;FIFA 22
+Molde FK;Eliteserien;Norway;FIFA 22
+K Beerschot VA;Pro League;Belgium;FIFA 22
+AIK;Allsvenskan;Sweden;FIFA 22
+FC Sion;Super League;Switzerland;FIFA 22
+Hammarby Fotboll;Allsvenskan;Sweden;FIFA 22
+CD Everton de Vi√±a del Mar;Primera Division;Chile;FIFA 22
+Le Havre AC;Ligue 2;France;FIFA 22
+Wolfsberger AC;Bundesliga;Austria;FIFA 22
+FC Seoul;K League 1;Korea Republic;FIFA 22
+Suwon Samsung Bluewings;K League 1;Korea Republic;FIFA 22
+Al Ettifaq;Pro League;Saudi Arabia;FIFA 22
+FBC Melgar;Liga 1;Peru;FIFA 22
+Independiente Medell√≠n;Categor√≠a Primera A;Colombia;FIFA 22
+CD Lugo;La Liga 2;Spain;FIFA 22
+CF Fuenlabrada;La Liga 2;Spain;FIFA 22
+CD Mirand√©s;La Liga 2;Spain;FIFA 22
+Patronato;Liga Profesional de F√∫tbol;Argentina;FIFA 22
+Dynamo Dresden;2. Bundesliga;Germany;FIFA 22
+FC Erzgebirge Aue;2. Bundesliga;Germany;FIFA 22
+FK Austria Wien;Bundesliga;Austria;FIFA 22
+Grenoble Foot 38;Ligue 2;France;FIFA 22
+1. FC Kaiserslautern;3. Liga;Germany;FIFA 22
+Avispa Fukuoka;J1 League;Japan;FIFA 22
+Sydney FC;A-League Men;Australia;FIFA 22
+Lillestr√∏m SK;Eliteserien;Norway;FIFA 22
+Viking FK;Eliteserien;Norway;FIFA 22
+RFC Seraing;Pro League;Belgium;FIFA 22
+Club Atl√©tico River Plate;Primera Divisi√≥n;Uruguay;FIFA 22
+Consadole Sapporo;J1 League;Japan;FIFA 22
+En Avant Guingamp;Ligue 2;France;FIFA 22
+Damac FC;Pro League;Saudi Arabia;FIFA 22
+FC Lausanne-Sport;Super League;Switzerland;FIFA 22
+Aberdeen;Premiership;Scotland;FIFA 22
+Ayacucho;Liga 1;Peru;FIFA 22
+Cerro Largo;Primera Divisi√≥n;Uruguay;FIFA 22
+Hibernian;Premiership;Scotland;FIFA 22
+Ipswich Town;League One;England;FIFA 22
+Melbourne City FC;A-League Men;Australia;FIFA 22
+Western United;A-League Men;Australia;FIFA 22
+Sunderland;League One;England;FIFA 22
+Yeni Malatyaspor;S√ºper Lig;T√ºrkiye;FIFA 22
+RKC Waalwijk;Eredivisie;Netherlands;FIFA 22
+Real Sociedad de F√∫tbol B;La Liga 2;Spain;FIFA 22
+PEC Zwolle;Eredivisie;Netherlands;FIFA 22
+CD Jorge Wilstermann;Divisi√≥n de F√∫tbol Profesional;Bolivia;FIFA 22
+FC St.Gallen 1879;Super League;Switzerland;FIFA 22
+SC Cambuur;Eredivisie;Netherlands;FIFA 22
+Plymouth Argyle;League One;England;FIFA 22
+La Equidad;Categor√≠a Primera A;Colombia;FIFA 22
+Wycombe Wanderers;League One;England;FIFA 22
+Caracas FC;Primera Division;Venezuela;FIFA 22
+Crotone;Serie B;Italy;FIFA 22
+Deportivo T√°chira;Primera Division;Venezuela;FIFA 22
+Always Ready;Divisi√≥n de F√∫tbol Profesional;Bolivia;FIFA 22
+Royal Pari;Divisi√≥n de F√∫tbol Profesional;Bolivia;FIFA 22
+Uni√≥n La Calera;Primera Division;Chile;FIFA 22
+Beijing Guoan;Super League;China PR;FIFA 22
+Jagiellonia Bia≈Çystok;Ekstraklasa;Poland;FIFA 22
+Cienciano;Liga 1;Peru;FIFA 22
+Eintracht Braunschweig;3. Liga;Germany;FIFA 22
+Sport Boys;Liga 1;Peru;FIFA 22
+Incheon United FC;K League 1;Korea Republic;FIFA 22
+IF Elfsborg;Allsvenskan;Sweden;FIFA 22
+Pohang Steelers;K League 1;Korea Republic;FIFA 22
+Djurg√•rdens IF;Allsvenskan;Sweden;FIFA 22
+CD √ëublense;Primera Division;Chile;FIFA 22
+SD Amorebieta;La Liga 2;Spain;FIFA 22
+Liverpool FC Uruguay;Primera Divisi√≥n;Uruguay;FIFA 22
+FC Sochaux-Montb√©liard;Ligue 2;France;FIFA 22
+Piast Gliwice;Ekstraklasa;Poland;FIFA 22
+Lechia Gda≈Ñsk;Ekstraklasa;Poland;FIFA 22
+Randers FC;Superliga;Denmark;FIFA 22
+FCV Farul Constan»õa;Liga I;Romania;FIFA 22
+Portsmouth;League One;England;FIFA 22
+Guaire√±a FC;Divisi√≥n Profesional;Paraguay;FIFA 22
+Bolton Wanderers;League One;England;FIFA 22
+Milton Keynes Dons;League One;England;FIFA 22
+Al Fateh;Pro League;Saudi Arabia;FIFA 22
+Sagan Tosu;J1 League;Japan;FIFA 22
+Shonan Bellmare;J1 League;Japan;FIFA 22
+Silkeborg IF;Superliga;Denmark;FIFA 22
+Odense Boldklub;Superliga;Denmark;FIFA 22
+Metropolitanos FC;Primera Division;Venezuela;FIFA 22
+Chamois Niortais FC;Ligue 2;France;FIFA 22
+Kashiwa Reysol;J1 League;Japan;FIFA 22
+FC Voluntari;Liga I;Romania;FIFA 22
+AS Nancy Lorraine;Ligue 2;France;FIFA 22
+Nacional Asunci√≥n;Divisi√≥n Profesional;Paraguay;FIFA 22
+Oita Trinita;J1 League;Japan;FIFA 22
+9 de Octubre;Serie A;Ecuador;FIFA 22
+TSV 1860 M√ºnchen;3. Liga;Germany;FIFA 22
+Melbourne Victory;A-League Men;Australia;FIFA 22
+Rodez Aveyron Football;Ligue 2;France;FIFA 22
+Rapid Bucuresti;Liga I;Romania;FIFA 22
+Vejle Boldklub;Superliga;Denmark;FIFA 22
+Sporting Club Bastia;Ligue 2;France;FIFA 22
+Independiente Petrolero;Divisi√≥n de F√∫tbol Profesional;Bolivia;FIFA 22
+IFK G√∂teborg;Allsvenskan;Sweden;FIFA 22
+Wis≈Ça Krak√≥w;Ekstraklasa;Poland;FIFA 22
+Motherwell FC;Premiership;Scotland;FIFA 22
+Charlton Athletic;League One;England;FIFA 22
+Shanghai Shenhua;Super League;China PR;FIFA 22
+Delf√≠n SC;Serie A;Ecuador;FIFA 22
+Montevideo Wanderers FC;Primera Divisi√≥n;Uruguay;FIFA 22
+Changchun Yatai;Super League;China PR;FIFA 22
+Cracovia;Ekstraklasa;Poland;FIFA 22
+Zag≈Çƒôbie Lubin;Ekstraklasa;Poland;FIFA 22
+Shenzhen FC;Super League;China PR;FIFA 22
+UTA Arad;Liga I;Romania;FIFA 22
+Oxford United;League One;England;FIFA 22
+Al Fayha;Pro League;Saudi Arabia;FIFA 22
+Abha;Pro League;Saudi Arabia;FIFA 22
+Henan FC;Super League;China PR;FIFA 22
+G√≥rnik Zabrze;Ekstraklasa;Poland;FIFA 22
+Guabir√°;Divisi√≥n de F√∫tbol Profesional;Bolivia;FIFA 22
+USL Dunkerque;Ligue 2;France;FIFA 22
+Macarthur FC;A-League Men;Australia;FIFA 22
+Dundee United FC;Premiership;Scotland;FIFA 22
+Mushuc Runa;Serie A;Ecuador;FIFA 22
+IFK Norrk√∂ping;Allsvenskan;Sweden;FIFA 22
+WSG Tirol;Bundesliga;Austria;FIFA 22
+SV Waldhof Mannheim;3. Liga;Germany;FIFA 22
+Vegalta Sendai;J1 League;Japan;FIFA 22
+BK H√§cken;Allsvenskan;Sweden;FIFA 22
+Sol de Am√©rica;Divisi√≥n Profesional;Paraguay;FIFA 22
+Deportivo La Guaira;Primera Division;Venezuela;FIFA 22
+AD Alcorc√≥n;La Liga 2;Spain;FIFA 22
+TSV Hartberg;Bundesliga;Austria;FIFA 22
+Sepsi OSK;Liga I;Romania;FIFA 22
+Estudiantes de M√©rida;Primera Division;Venezuela;FIFA 22
+VfL Osnabr√ºck;3. Liga;Germany;FIFA 22
+SV Wehen Wiesbaden;3. Liga;Germany;FIFA 22
+Inter de Barinas;Primera Division;Venezuela;FIFA 22
+Radomiak Radom;Ekstraklasa;Poland;FIFA 22
+Pau FC;Ligue 2;France;FIFA 22
+≈ölƒÖsk Wroc≈Çaw;Ekstraklasa;Poland;FIFA 22
+SK Austria Klagenfurt;Bundesliga;Austria;FIFA 22
+FC Nordsj√¶lland;Superliga;Denmark;FIFA 22
+1. FC Magdeburg;3. Liga;Germany;FIFA 22
+FSV Zwickau;3. Liga;Germany;FIFA 22
+FC U Craiova 1948;Liga I;Romania;FIFA 22
+SV Meppen;3. Liga;Germany;FIFA 22
+Daegu FC;K League 1;Korea Republic;FIFA 22
+1. FC Saarbr√ºcken;3. Liga;Germany;FIFA 22
+SV Ried;Bundesliga;Austria;FIFA 22
+Wis≈Ça P≈Çock;Ekstraklasa;Poland;FIFA 22
+Adelaide United;A-League Men;Australia;FIFA 22
+General Bernardino Caballero;Divisi√≥n Profesional;Paraguay;FIFA 22
+Western Sydney Wanderers;A-League Men;Australia;FIFA 22
+Yokohama FC;J1 League;Japan;FIFA 22
+IK Sirius;Allsvenskan;Sweden;FIFA 22
+Kristiansund BK;Eliteserien;Norway;FIFA 22
+Viktoria K√∂ln;3. Liga;Germany;FIFA 22
+Al Hazem FC;Pro League;Saudi Arabia;FIFA 22
+Sarpsborg 08 FF;Eliteserien;Norway;FIFA 22
+Stal Mielec;Ekstraklasa;Poland;FIFA 22
+Al Batin;Pro League;Saudi Arabia;FIFA 22
+Livingston FC;Premiership;Scotland;FIFA 22
+FC W√ºrzburger Kickers;3. Liga;Germany;FIFA 22
+Ross County FC;Premiership;Scotland;FIFA 22
+Oriente Petrolero;Divisi√≥n de F√∫tbol Profesional;Bolivia;FIFA 22
+Bruk-Bet Termalica Nieciecza;Ekstraklasa;Poland;FIFA 22
+Shrewsbury Town;League One;England;FIFA 22
+Warta Pozna≈Ñ;Ekstraklasa;Poland;FIFA 22
+Gwangju FC;K League 1;Korea Republic;FIFA 22
+Fleetwood Town;League One;England;FIFA 22
+Tokushima Vortis;J1 League;Japan;FIFA 22
+Hallescher FC;3. Liga;Germany;FIFA 22
+Lincoln City;League One;England;FIFA 22
+Wellington Phoenix;A-League Men;Australia;FIFA 22
+FC Arge»ô;Liga I;Romania;FIFA 22
+V√•lerenga Fotball;Eliteserien;Norway;FIFA 22
+Cambridge United;League One;England;FIFA 22
+Str√∏msgodset IF;Eliteserien;Norway;FIFA 22
+FC Boto≈üani;Liga I;Romania;FIFA 22
+SC Rheindorf Altach;Bundesliga;Austria;FIFA 22
+Viborg FF;Superliga;Denmark;FIFA 22
+S√∏nderjyske Fodbold;Superliga;Denmark;FIFA 22
+Burton Albion;League One;England;FIFA 22
+Quevilly Rouen M√©tropole;Ligue 2;France;FIFA 22
+Suwon FC;K League 1;Korea Republic;FIFA 22
+Odds Ballklubb;Eliteserien;Norway;FIFA 22
+Dundee FC;Premiership;Scotland;FIFA 22
+Al Tai;Pro League;Saudi Arabia;FIFA 22
+St Johnstone FC;Premiership;Scotland;FIFA 22
+St. Mirren;Premiership;Scotland;FIFA 22
+Admira Wacker;Bundesliga;Austria;FIFA 22
+Seongnam FC;K League 1;Korea Republic;FIFA 22
+HJK Helsinki;Veikkausliiga;Finland;FIFA 22
+Chindia T√¢rgovi≈üte;Liga I;Romania;FIFA 22
+Gangwon FC;K League 1;Korea Republic;FIFA 22
+Salford City;League Two;England;FIFA 22
+Gillingham;League One;England;FIFA 22
+Bradford City;League Two;England;FIFA 22
+MSV Duisburg;3. Liga;Germany;FIFA 22
+Newcastle Jets;A-League Men;Australia;FIFA 22
+Perth Glory;A-League Men;Australia;FIFA 22
+Forest Green Rovers;League Two;England;FIFA 22
+Shamrock Rovers;Premier Division;Republic of Ireland;FIFA 22
+Borussia Dortmund II;3. Liga;Germany;FIFA 22
+Morecambe;League One;England;FIFA 22
+FC Viktoria 1889 Berlin;3. Liga;Germany;FIFA 22
+Newport County;League Two;England;FIFA 22
+AFC Wimbledon;League One;England;FIFA 22
+Port Vale;League Two;England;FIFA 22
+Northampton Town;League Two;England;FIFA 22
+Doncaster Rovers;League One;England;FIFA 22
+Swindon Town;League Two;England;FIFA 22
+Cheltenham Town;League One;England;FIFA 22
+Mansfield Town;League Two;England;FIFA 22
+Stab√¶k Fotball;Eliteserien;Norway;FIFA 22
+Dinamo Bucure≈üti;Liga I;Romania;FIFA 22
+SK Brann;Eliteserien;Norway;FIFA 22
+Wrexham;National League;England;FIFA 22
+Kalmar FF;Allsvenskan;Sweden;FIFA 22
+Troms√∏ IL;Eliteserien;Norway;FIFA 22
+SC Verl;3. Liga;Germany;FIFA 22
+Bristol Rovers;League Two;England;FIFA 22
+FK Haugesund;Eliteserien;Norway;FIFA 22
+G√≥rnik ≈Åƒôczna;Ekstraklasa;Poland;FIFA 22
+Accrington Stanley;League One;England;FIFA 22
+Walsall;League Two;England;FIFA 22
+Brisbane Roar;A-League Men;Australia;FIFA 22
+Central Coast Mariners;A-League Men;Australia;FIFA 22
+Crawley Town;League Two;England;FIFA 22
+Varbergs BoIS;Allsvenskan;Sweden;FIFA 22
+TSV Havelse;3. Liga;Germany;FIFA 22
+Harrogate Town;League Two;England;FIFA 22
+SC Freiburg II;3. Liga;Germany;FIFA 22
+Crewe Alexandra;League One;England;FIFA 22
+Exeter City;League Two;England;FIFA 22
+Colchester United;League Two;England;FIFA 22
+Rochdale;League Two;England;FIFA 22
+Leyton Orient;League Two;England;FIFA 22
+√ñrebro SK;Allsvenskan;Sweden;FIFA 22
+Tranmere Rovers;League Two;England;FIFA 22
+Mj√§llby AIF;Allsvenskan;Sweden;FIFA 22
+Sandefjord Fotball;Eliteserien;Norway;FIFA 22
+T√ºrkg√ºc√º M√ºnchen;3. Liga;Germany;FIFA 22
+CS Mioveni;Liga I;Romania;FIFA 22
+Degerfors IF;Allsvenskan;Sweden;FIFA 22
+Dalian Professional;Super League;China PR;FIFA 22
+Mohun Bagan Super Giant;Super League;India;FIFA 22
+√ñstersunds FK;Allsvenskan;Sweden;FIFA 22
+Guangzhou City;Super League;China PR;FIFA 22
+Halmstads BK;Allsvenskan;Sweden;FIFA 22
+Cangzhou Mighty Lions FC;Super League;China PR;FIFA 22
+Stevenage;League Two;England;FIFA 22
+Barrow;League Two;England;FIFA 22
+Oldham Athletic;League Two;England;FIFA 22
+Mumbai City FC;Super League;India;FIFA 22
+Hartlepool United;League Two;England;FIFA 22
+Bengaluru FC;Super League;India;FIFA 22
+Wuhan Yangtze River FC;Super League;China PR;FIFA 22
+St Patrick's Athletic FC;Premier Division;Republic of Ireland;FIFA 22
+Derry City;Premier Division;Republic of Ireland;FIFA 22
+Carlisle United;League Two;England;FIFA 22
+Sutton United;League Two;England;FIFA 22
+Mj√∏ndalen IF;Eliteserien;Norway;FIFA 22
+Bohemian FC;Premier Division;Republic of Ireland;FIFA 22
+Sligo Rovers;Premier Division;Republic of Ireland;FIFA 22
+Dundalk;Premier Division;Republic of Ireland;FIFA 22
+Chennaiyin FC;Super League;India;FIFA 22
+Kerala Blasters FC;Super League;India;FIFA 22
+Hyderabad FC;Super League;India;FIFA 22
+Scunthorpe United;League Two;England;FIFA 22
+Academica Clinceni;Liga I;Romania;FIFA 22
+NorthEast United;Super League;India;FIFA 22
+FC Goa;Super League;India;FIFA 22
+Tianjin Jinmen Tiger;Super League;China PR;FIFA 22
+East Bengal FC;Super League;India;FIFA 22
+Finn Harps;Premier Division;Republic of Ireland;FIFA 22
+Odisha FC;Super League;India;FIFA 22
+Jamshedpur FC;Super League;India;FIFA 22
+Drogheda United;Premier Division;Republic of Ireland;FIFA 22
+Qingdao FC;Super League;China PR;FIFA 22
+Waterford FC;Premier Division;Republic of Ireland;FIFA 22
+Chongqing Dangdai Lifan;Super League;China PR;FIFA 22
+Guangzhou FC;Super League;China PR;FIFA 22
+Gaz Metan Media≈ü;Liga I;Romania;FIFA 22
+Longford Town;Premier Division;Republic of Ireland;FIFA 22
+Hebei FC;Super League;China PR;FIFA 22
