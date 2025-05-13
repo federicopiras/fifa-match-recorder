@@ -1,6 +1,7 @@
 import csv
 import os
 import gspread
+import pandas as pd
 from oauth2client.service_account import ServiceAccountCredentials
 from datetime import datetime
 import streamlit as st
@@ -75,3 +76,13 @@ def save_match_to_google_sheets(sheet_name, player1, team1, goals1, stars1, cham
     ]
 
     sheet.append_row(match_data)
+
+
+def load_from_google_sheets(sheet_name: str):
+    client = authenticate_google_sheets()
+    sheet = client.open(sheet_name).sheet1  # o usa .worksheet("nome") se usi tab diversi
+
+    records = sheet.get_all_records()
+    df = pd.DataFrame(records)
+
+    return df
