@@ -52,49 +52,68 @@ def select_team_stars_flexible(player_label, df):
             championship = team_info["Championship"]
             nationality = team_info["Nationality"]
 
-    stars = st.selectbox(f"Stelle squadra ({player_label})", [0.5, 1, 1.5, 2, 2.5, 3, 3.5, 4, 4.5, 5])
+    #stars = st.selectbox(f"Stelle squadra ({player_label})", [0.5, 1, 1.5, 2, 2.5, 3, 3.5, 4, 4.5, 5])
+    stars = st.select_slider(
+        f"⭐ Stelle squadra ({player_label})",
+        options=[0.5, 1, 1.5, 2, 2.5, 3, 3.5, 4, 4.5, 5],
+    )
 
     return selected_team, stars, championship, nationality
+
 
 st.title("FIFA Match Recorder 🎮")
 
 # Seleziona la versione di FIFA a cui stai giocando
+st.markdown("---")
 fifa_versions = df_teams['fifa_version'].unique()
-selected_version = st.selectbox("Seleziona FIFA", sorted(fifa_versions, reverse=True))
+st.markdown("### 🎮 Seleziona la versione di FIFA")
+selected_version = st.selectbox(" ", sorted(fifa_versions, reverse=True))
 df_teams = df_teams[df_teams['fifa_version'] == selected_version]
 
 # Inserimento dati giocatori e squadre
-st.subheader("🧑‍🤝‍🧑 Giocatori")
+st.markdown("---")
+st.markdown("<h2 style='color:#0072C6'>‍🤝‍🧑 Giocatori e squadre</h2>", unsafe_allow_html=True)
 giocatori = ['Master', 'Peres', 'Ufo', 'Angi', 'Altro...']
 
 # Giocatore 1
-player1_choice = st.selectbox("Giocatore 1", giocatori)
-if player1_choice == "Altro...":
-    player1 = st.text_input("Inserisci nome Giocatore 1")
-else:
-    player1 = player1_choice
+col1, col2 = st.columns(2)
+
+with col1:
+    player1_choice = st.selectbox("Giocatore 1", giocatori, index=0)
+    if player1_choice == "Altro...":
+        player1 = st.text_input("Inserisci nome Giocatore 1")
+    else:
+        player1 = player1_choice
+    team1, stars1, champ1, nation1 = select_team_stars_flexible(player1, df_teams)
 
 # Giocatore 2
-player2_choice = st.selectbox("Giocatore 2", giocatori)
-if player2_choice == "Altro...":
-    player2 = st.text_input("Inserisci nome Giocatore 2")
-else:
-    player2 = player2_choice
+with col2:
+    player2_choice = st.selectbox("Giocatore 2", giocatori, index=1)
+    if player2_choice == "Altro...":
+        player2 = st.text_input("Inserisci nome Giocatore 2")
+    else:
+        player2 = player2_choice
 
-st.subheader("⚽ Selezione Squadre")
-team1, stars1, champ1, nation1 = select_team_stars_flexible(player1, df_teams)
-team2, stars2, champ2, nation2 = select_team_stars_flexible(player2, df_teams)
+    # ✅ Controllo che i due giocatori siano diversi
+    if player1 == player2:
+        st.warning("⚠️ I due giocatori devono essere diversi.")
+        st.stop()
+        
+    team2, stars2, champ2, nation2 = select_team_stars_flexible(player2, df_teams)
 
-st.subheader("🎯 Modalità Partita")
+st.markdown("---")
+st.markdown("<h2 style='color:#0072C6'>🎯 Modalità Partita</h2>", unsafe_allow_html=True)
 match_type = st.radio(
     "Come è finita la partita?",
     ["Secca", "Golden Gol", "Supplementari", "Rigori"]
 )
 
-st.subheader("🔢 Risultato")
+st.markdown("---")
+st.markdown("<h2 style='color:#0072C6'>‍🔢 Risultato</h2>", unsafe_allow_html=True)
 goals1 = st.number_input(f"Gol segnati da {player1 or 'Giocatore 1'}", min_value=0, step=1)
 goals2 = st.number_input(f"Gol segnati da {player2 or 'Giocatore 2'}", min_value=0, step=1)
 
+st.markdown("---")
 if st.button("💾 Registra Partita"):
     # save_match_to_csv(player1, team1, goals1, player2, team2, goals2, match_type)
     save_match_to_google_sheets(
@@ -104,3 +123,11 @@ if st.button("💾 Registra Partita"):
         match_type
     )
     st.success("✅ Partita registrata su Google Sheets!")
+
+# Evidenzia il vincitore dopo il salvataggio
+if goals1 > goals2:
+    st.success(f"🏆 Vittoria di {player1}")
+elif goals2 > goals1:
+    st.success(f"🏆 Vittoria di {player2}")
+else:
+    st.info("🤝 Pareggio!")
