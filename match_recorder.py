@@ -58,6 +58,7 @@ def run_match_recorder():
     if st.button("💾 Registra Partita"):
         save_match_to_google_sheets(
             "fifa_match_results",
+            selected_version,
             player1, team1, goals1, stars1, champ1, nation1,
             player2, team2, goals2, stars2, champ2, nation2,
             match_type
