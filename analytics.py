@@ -61,9 +61,15 @@ def run_analytics():
         miglior_vittoria = partite.loc[(partite['Winner'] == selected_player), ['Goals1', 'Goals2']]
         miglior_vittoria['diff'] = abs(miglior_vittoria['Goals1'] - miglior_vittoria['Goals2'])
         max_diff = miglior_vittoria['diff'].max() if not miglior_vittoria.empty else 0
+
         peggior_sconfitta = partite.loc[(partite['Winner'] != selected_player) & (partite['Winner'] != 'patta'), ['Goals1', 'Goals2']]
+        st.write(peggior_sconfitta.dtypes)
+        st.write(peggior_sconfitta.head())
+        peggior_sconfitta['Goals1'] = pd.to_numeric(peggior_sconfitta['Goals1'], errors='coerce')
+        peggior_sconfitta['Goals2'] = pd.to_numeric(peggior_sconfitta['Goals2'], errors='coerce')
         peggior_sconfitta['diff'] = abs(peggior_sconfitta['Goals1'] - peggior_sconfitta['Goals2'])
         max_sconfitta = peggior_sconfitta['diff'].max() if not peggior_sconfitta.empty else 0
+
         st.subheader(f"📋 Statistiche per {selected_player}")
         st.metric("Partite giocate", len(partite))
         st.metric("Vittorie", vittorie)
