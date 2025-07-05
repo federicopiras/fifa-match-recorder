@@ -96,11 +96,11 @@ def run_analytics():
         ultimi['Timestamp'] = pd.to_datetime(ultimi['Timestamp'])
 
         chart = alt.Chart(ultimi.reset_index()).mark_bar().encode(
-            x=alt.X('timestamp:T', title='Data'),
+            x=alt.X('Timestamp:T', title='Data'),
             y=alt.Y('scarto:Q', title='Differenza reti'),
             color=alt.Color('risultato:N', scale=alt.Scale(domain=['Vittoria', 'Pareggio', 'Sconfitta'],
                                                            range=['green', 'gray', 'red'])),
-            tooltip=['timestamp', 'risultato', 'scarto']
+            tooltip=['Timestamp', 'risultato', 'scarto']
         ).properties(height=300)
         st.altair_chart(chart, use_container_width=True)
 
